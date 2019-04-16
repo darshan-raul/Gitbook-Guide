@@ -4,6 +4,10 @@
 
 {% embed url="https://github.com/binhnguyennus/awesome-scalability" caption="Scalability" %}
 
+{% embed url="https://github.com/timofurrer/awesome-asyncio" %}
+
+{% embed url="https://github.com/markusschanta/awesome-jupyter" %}
+
 
 
 
