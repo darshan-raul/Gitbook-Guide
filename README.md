@@ -2,6 +2,10 @@
 
 This guide contains all the useful links to various resources to help grow knowledge regards to all Dev-ops related stuff.
 
+{% embed url="https://www.codeproject.com/Articles/1394594/Devops-The-Big-Picture" %}
+
+
+
 [https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf](https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf)
 
 [https://xebialabs.com/assets/files/infographics/periodic-table-of-devops-tools-v3.pdf](https://xebialabs.com/assets/files/infographics/periodic-table-of-devops-tools-v3.pdf)
