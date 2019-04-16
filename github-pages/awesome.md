@@ -10,5 +10,9 @@
 
 
 
+{% embed url="https://github.com/humiaozuzu/awesome-flask" %}
+
+{% embed url="https://github.com/uralbash/awesome-pyramid" %}
+
 
 
