@@ -14,6 +14,12 @@
 
 ## SysAdmin Concepts:
 
+### Serverless:
+
+{% embed url="https://www.youtube.com/watch?v=GBOroGozm5w" %}
+
+
+
 ### Security:
 
 ### Linux:

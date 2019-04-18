@@ -14,6 +14,7 @@
 * [AWS](articles/aws.md)
 * [Docker](articles/docker.md)
 * [Automation:](articles/automation.md)
+* [Serverless](articles/serverless.md)
 
 ## Github Pages
 
