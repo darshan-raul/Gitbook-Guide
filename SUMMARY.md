@@ -26,7 +26,8 @@
 
 * [AWS](documentation/untitled/README.md)
   * [Cloudformation](documentation/untitled/cloudformation.md)
-  * [Untitled](documentation/untitled/untitled.md)
+  * [S3](documentation/untitled/untitled/README.md)
+    * [Static Website](documentation/untitled/untitled/static-website.md)
 
 ## Python packages
 
