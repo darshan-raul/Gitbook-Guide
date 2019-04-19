@@ -26,12 +26,13 @@
 ## Documentation
 
 * [AWS](documentation/untitled/README.md)
+  * [EKS](documentation/untitled/eks.md)
+  * [ECS](documentation/untitled/ecs/README.md)
+    * [ECS Fargate](documentation/untitled/ecs/ecs-fargate.md)
+    * [Normal ECS](documentation/untitled/ecs/normal-ecs.md)
   * [Cloudformation](documentation/untitled/cloudformation.md)
   * [S3](documentation/untitled/untitled/README.md)
     * [Static Website](documentation/untitled/untitled/static-website.md)
-* [ECS](documentation/ecs/README.md)
-  * [ECS Fargate](documentation/ecs/ecs-fargate.md)
-  * [Normal ECS](documentation/ecs/normal-ecs.md)
 
 ## Python packages
 

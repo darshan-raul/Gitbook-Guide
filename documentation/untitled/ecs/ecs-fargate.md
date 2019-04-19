@@ -6,37 +6,37 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :\)
 
-![The benifits look amazing compared to running normal ECS on EC2](../../.gitbook/assets/image%20%2812%29.png)
+![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2829%29.png)
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image%20%2822%29.png)
 
 Lets get our hands dirty :
 
-![](../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
 
 Go to the Get started page and click edit on the container definition section.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2828%29.png)
 
 1. Give the container a name
 2. Give the image name. My AWSapi image on dockerhub in this case
 3. Give the port no's which are being exposed/used by the container
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../../.gitbook/assets/image%20%282%29.png)
 
 If you click the Advanced configuration option than many more option's like healthcheck/environment's appear.
 
 I am avoiding them and click update.
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../../.gitbook/assets/image%20%288%29.png)
 
 You should be able to see your container highlighted here. Confirm the image/cpu settings before moving ahead. We will be changing that in the next step.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2827%29.png)
 
 Click edit on the task definition.
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../../.gitbook/assets/image%20%287%29.png)
 
 1. Give the task a name
 2. Your default network mode is awsvpc // thats the docker networking mode
@@ -47,17 +47,77 @@ Click edit on the task definition.
 
 I choose the default ones and move ahead.
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%2812%29.png)
 
 Next is the service definition.. Service is basically the instance of the task definition. Click 'Edit'
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/image%20%289%29.png)
 
 1. Give the service a name
 2. Give the number of task's you want running in a service. I am selecting 2.
 3. Give the security group details here.
 4. Select the load balancer type or none.
 5. Select the port no for the Load balancer
+
+![](../../../.gitbook/assets/image%20%2811%29.png)
+
+Next give the Cluster configuration. Iam choosing the default ones.
+
+![](../../../.gitbook/assets/image%20%2813%29.png)
+
+Final section is the review section.
+
+Click Create.
+
+![](../../../.gitbook/assets/image%20%281%29.png)
+
+This status page will open showing the progress in preparing the service.
+
+![](../../../.gitbook/assets/image%20%286%29.png)
+
+If all goes well, You should be able to see everything green :\) Click 'View Service'
+
+![](../../../.gitbook/assets/image%20%2825%29.png)
+
+Three things to notice on the main page here:
+
+1. The status is ACTIVE
+2. The Running tasks count is  0
+3. Loadbalancer is active too.
+
+ 
+
+![](../../../.gitbook/assets/image%20%2814%29.png)
+
+Tasks are in pending state
+
+![](../../../.gitbook/assets/image%20%2821%29.png)
+
+Meanwhile on Cloudformation console you can see the stack created
+
+![](../../../.gitbook/assets/image%20%2815%29.png)
+
+My containers kept failing for the above reason.
+
+![](../../../.gitbook/assets/image%20%284%29.png)
+
+![](../../../.gitbook/assets/image%20%2816%29.png)
+
+Temporarily deleted the cluster 
+
+![](../../../.gitbook/assets/image%20%2830%29.png)
+
+![](../../../.gitbook/assets/image%20%2819%29.png)
+
+Went to task definition's and created new revision.
+
+
+
+
+
+
+
+
 
 
 
