@@ -15,6 +15,7 @@
 * [Docker](articles/docker.md)
 * [Automation:](articles/automation.md)
 * [Serverless](articles/serverless.md)
+* [Python](articles/python.md)
 
 ## Github Pages
 
