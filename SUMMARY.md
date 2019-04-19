@@ -29,6 +29,9 @@
   * [Cloudformation](documentation/untitled/cloudformation.md)
   * [S3](documentation/untitled/untitled/README.md)
     * [Static Website](documentation/untitled/untitled/static-website.md)
+* [ECS](documentation/ecs/README.md)
+  * [ECS Fargate](documentation/ecs/ecs-fargate.md)
+  * [Normal ECS](documentation/ecs/normal-ecs.md)
 
 ## Python packages
 
