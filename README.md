@@ -4,7 +4,9 @@ This guide contains all the useful links to various resources to help grow knowl
 
 {% embed url="https://www.codeproject.com/Articles/1394594/Devops-The-Big-Picture" %}
 
+{% embed url="https://www.plutora.com/ci-cd-tools" %}
 
+![](.gitbook/assets/screencapture-plutora-ci-cd-tools-2019-04-20-09_53_36.png)
 
 [https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf](https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf)
 
