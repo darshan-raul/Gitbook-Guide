@@ -16,6 +16,7 @@
 * [Automation:](articles/automation.md)
 * [Serverless](articles/serverless.md)
 * [Python](articles/python.md)
+* [Monitoring](articles/monitoring.md)
 
 ## Github Pages
 
