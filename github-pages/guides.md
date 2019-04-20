@@ -1,5 +1,19 @@
 # Guides
 
+## AWS:
+
+### Cloudformation:
+
+{% embed url="https://github.com/awslabs/aws-cloudformation-templates" %}
+
+
+
+## GITHUB:
+
+{% embed url="https://github.com/maptime/getting-started-with-git-and-github" %}
+
+
+
 ## LINUX
 
 ### Text Processing:
