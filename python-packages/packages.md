@@ -114,6 +114,10 @@
 
 ## TEXT EXTRACTION:
 
+{% embed url="https://github.com/audreyr/cookiecutter" %}
+
+
+
 {% embed url="https://github.com/deanmalmgren/textract" %}
 
 {% embed url="https://github.com/euske/pdfminer" %}
