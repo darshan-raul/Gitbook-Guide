@@ -28,6 +28,7 @@
 ## Documentation
 
 * [AWS](documentation/untitled/README.md)
+  * [EFS](documentation/untitled/efs.md)
   * [EKS](documentation/untitled/eks.md)
   * [ECS](documentation/untitled/ecs/README.md)
     * [ECS Fargate](documentation/untitled/ecs/ecs-fargate.md)
@@ -35,6 +36,8 @@
   * [Cloudformation](documentation/untitled/cloudformation.md)
   * [S3](documentation/untitled/untitled/README.md)
     * [Static Website](documentation/untitled/untitled/static-website.md)
+* [GCP](documentation/gcp/README.md)
+  * [Cloud Run](documentation/gcp/cloud-run.md)
 
 ## Python packages
 
