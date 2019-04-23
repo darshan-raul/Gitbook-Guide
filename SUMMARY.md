@@ -28,6 +28,7 @@
 ## Documentation
 
 * [AWS](documentation/untitled/README.md)
+  * [Cloudtrail](documentation/untitled/cloudtrail.md)
   * [EFS](documentation/untitled/efs.md)
   * [EKS](documentation/untitled/eks.md)
   * [ECS](documentation/untitled/ecs/README.md)
