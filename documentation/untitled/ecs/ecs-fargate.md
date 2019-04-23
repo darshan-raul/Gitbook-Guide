@@ -6,7 +6,7 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :\)
 
-![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2839%29.png)
+![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2840%29.png)
 
 ![](../../../.gitbook/assets/image%20%2831%29.png)
 
@@ -105,7 +105,7 @@ My containers kept failing for the above reason.
 
 Temporarily deleted the cluster 
 
-![](../../../.gitbook/assets/image%20%2840%29.png)
+![](../../../.gitbook/assets/image%20%2841%29.png)
 
 ![](../../../.gitbook/assets/image%20%2828%29.png)
 

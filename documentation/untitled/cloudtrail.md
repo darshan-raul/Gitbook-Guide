@@ -120,7 +120,32 @@ aws cloudtrail stop-logging --name awscloudtrail-example
 aws cloudtrail update-trail --name my-trail --no-include-global-service-events
 ```
 
+### Delete Trial:
 
+```text
+aws cloudtrail delete-trail --name awscloudtrail-example
+```
+
+## Creating a Trail for an Organization <a id="creating-trail-organization"></a>
+
+![](../../.gitbook/assets/image%20%2839%29.png)
+
+```text
+aws organizations enable-all-features
+aws organizations enable-aws-service-access --service-principal cloudtrail.amazonaws.com
+aws cloudtrail create-trail --name my-trail --s3-bucket-name my-bucket --is-organization-trail --is-multi-region-trail
+
+```
+
+## Finding Cloudtrial files:
+
+This is the default file location structure:
+
+`bucket_name/prefix_name/AWSLogs/AccountID/CloudTrail/region/YYYY/MM/DD/file_name.json.gz`
+
+## Configuring CloudTrail to Send Notifications <a id="configure-cloudtrail-to-send-notifications"></a>
+
+You can configure a trail to use an Amazon SNS topic.
 
 
 
