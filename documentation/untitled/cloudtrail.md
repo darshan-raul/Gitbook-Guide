@@ -56,12 +56,68 @@ AccountID_CloudTrail_RegionName_YYYYMMDDTHHmmZ_UniqueString.FileNameFormat
 | :--- | :--- | :--- |
 
 
-### CLI commands:
+## CLI commands:
+
+### Get Events/Trial:
 
 #### To see the ten latest events
 
 ```text
 aws cloudtrail lookup-events
+```
+
+#### To see last specified number of events:
+
+```text
+aws cloudtrail lookup-events --max-results <integer>
+```
+
+#### To see events by time range :
+
+```text
+aws cloudtrail lookup-events --start-time <timestamp> --end-time <timestamp>
+```
+
+#### To describe a trial:
+
+`aws cloudtrail describe-trails`
+
+`aws cloudtrail get-trail-status --name awscloudtrail-example`
+
+### Create Trial:
+
+#### Creating a single-region trail
+
+`aws cloudtrail create-trail --name my-trail --s3-bucket-name my-bucket`
+
+**Start logging for the trail**
+
+ After the `create-trail` command completes, run the `start-logging` command to start logging for that trail.
+
+`aws cloudtrail start-logging --name my-trail`
+
+```text
+aws cloudtrail stop-logging --name awscloudtrail-example
+```
+
+#### Creating a trail that applies to all regions**:** <a id="cloudtrail-create-and-update-a-trail-by-using-the-aws-cli-examples-mrt"></a>
+
+`aws cloudtrail create-trail --name my-trail --s3-bucket-name my-bucket --is-multi-region-trail`
+
+### **Update trial:**
+
+#### Converting a trail that applies to one region to apply to all regions <a id="cloudtrail-create-and-update-a-trail-by-using-the-aws-cli-examples-convert"></a>
+
+`aws cloudtrail update-trail --name my-trail --is-multi-region-trail`
+
+#### Converting a multi-region trail to a single-region trail <a id="cloudtrail-create-and-update-a-trail-by-using-the-aws-cli-examples-reduce"></a>
+
+`aws cloudtrail update-trail --name my-trail --no-is-multi-region-trail`
+
+#### Enabling and disabling logging global service events <a id="cloudtrail-create-and-update-a-trail-by-using-the-aws-cli-examples-gses"></a>
+
+```text
+aws cloudtrail update-trail --name my-trail --no-include-global-service-events
 ```
 
 
