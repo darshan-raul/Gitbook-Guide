@@ -1,5 +1,11 @@
 # Youtube Links
 
+## BASICS:
+
+{% embed url="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7" %}
+
+
+
 ## AWS:
 
 ### AWS Cloudtrail:

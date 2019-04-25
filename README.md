@@ -24,5 +24,5 @@ This guide contains all the useful links to various resources to help grow knowl
 
 {% embed url="https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/" %}
 
-
+{% embed url="https://frontendmasters.com/books/front-end-handbook/2019/\#1" %}
 
