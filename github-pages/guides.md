@@ -6,6 +6,8 @@
 
 {% embed url="https://github.com/awslabs/aws-cloudformation-templates" %}
 
+{% embed url="https://github.com/widdix/learn-cloudformation" %}
+
 
 
 ## GITHUB:
