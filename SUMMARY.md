@@ -28,6 +28,7 @@
 ## Documentation
 
 * [AWS](documentation/untitled/README.md)
+  * [Billing and Cost Management](documentation/untitled/billing-and-cost-management.md)
   * [Cloudtrail](documentation/untitled/cloudtrail.md)
   * [EFS](documentation/untitled/efs.md)
   * [EKS](documentation/untitled/eks.md)
