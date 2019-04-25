@@ -46,6 +46,10 @@
 
 {% embed url="https://www.youtube.com/watch?v=MfoAb50Br94&list=WL&index=235&t=0s" %}
 
+### Chef:
+
+{% embed url="https://youtu.be/lqOJIenrwp0" %}
+
 
 
 ## Container:
