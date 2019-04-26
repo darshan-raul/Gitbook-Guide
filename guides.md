@@ -20,6 +20,10 @@
 
 {% embed url="https://rszalski.github.io/magicmethods/" %}
 
+## Linux
+
+{% embed url="https://developer.ibm.com/tutorials/l-lpic1-map/" %}
+
 
 
 
