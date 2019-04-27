@@ -26,5 +26,9 @@
 
 
 
+## AWS Solutions architect associate:
+
+{% embed url="https://github.com/alex067/AWS-Solutions-Architect-Associate-Study-Guide" %}
+
 
 

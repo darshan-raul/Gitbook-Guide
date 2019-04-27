@@ -26,3 +26,7 @@ This guide contains all the useful links to various resources to help grow knowl
 
 {% embed url="https://frontendmasters.com/books/front-end-handbook/2019/\#1" %}
 
+{% embed url="https://dev.to/pavanbelagatti/seven-must-join-devops-groups-on-linkedin-173o" %}
+
+
+
