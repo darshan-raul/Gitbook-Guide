@@ -49,5 +49,7 @@
 
 ## MASTERY PLAN
 
-* [PLAN](mastery-plan/plan.md)
+* [PLAN](mastery-plan/plan/README.md)
+  * [b's](mastery-plan/plan/bs/README.md)
+    * [Pytest](mastery-plan/plan/bs/pytest.md)
 
