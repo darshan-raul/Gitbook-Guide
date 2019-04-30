@@ -40,6 +40,8 @@
     * [Static Website](documentation/untitled/untitled/static-website.md)
 * [GCP](documentation/gcp/README.md)
   * [Cloud Run](documentation/gcp/cloud-run.md)
+* [CI/CD](documentation/ci-cd/README.md)
+  * [Terraform](documentation/ci-cd/terraform.md)
 
 ## Python packages
 
