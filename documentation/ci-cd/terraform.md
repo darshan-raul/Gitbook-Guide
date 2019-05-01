@@ -189,6 +189,7 @@ $ tree complete-module/
 
 > Ofcourse official documentation : [https://www.terraform.io/docs/configuration/index.html](https://www.terraform.io/docs/configuration/index.html)
 
+* [https://github.com/hashicorp/terraform-guides/tree/master/infrastructure-as-code](https://github.com/hashicorp/terraform-guides/tree/master/infrastructure-as-code)
 * [https://medium.com/@mitesh\_shamra/infrastructure-as-a-code-with-terraform-e7021bf28d7d](https://medium.com/@mitesh_shamra/infrastructure-as-a-code-with-terraform-e7021bf28d7d)
 * [https://medium.com/@mitesh\_shamra/state-management-with-terraform-9f13497e54cf](https://medium.com/@mitesh_shamra/state-management-with-terraform-9f13497e54cf)
 * [https://medium.com/@mitesh\_shamra/manage-aws-vpc-with-terraform-d477d0b5c9c5](https://medium.com/@mitesh_shamra/manage-aws-vpc-with-terraform-d477d0b5c9c5)
