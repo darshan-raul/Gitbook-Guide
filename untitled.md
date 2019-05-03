@@ -110,6 +110,16 @@
 
 {% embed url="https://www.youtube.com/watch?v=VBokjWj\_cEA&list=WL&index=305&t=0s" %}
 
+### logging:
+
+{% embed url="https://www.youtube.com/watch?v=jxmzY9soFXg" %}
+
+### testing:
+
+{% embed url="https://www.youtube.com/playlist?list=PLeo1K3hjS3utzQYDNRNluzqJqpMXx6hHu" %}
+
+
+
 ## Angular:
 
 {% embed url="https://www.youtube.com/watch?v=Fdf5aTYRW0E&list=WL&index=225&t=0s" %}
