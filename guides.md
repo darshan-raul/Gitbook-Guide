@@ -16,6 +16,12 @@
 
 {% embed url="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html\#toc" %}
 
+## git
+
+{% embed url="http://gitready.com/" %}
+
+
+
 ## PYTHON
 
 {% embed url="https://rszalski.github.io/magicmethods/" %}
