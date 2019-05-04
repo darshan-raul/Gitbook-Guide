@@ -26,6 +26,10 @@
 
 {% embed url="https://rszalski.github.io/magicmethods/" %}
 
+{% embed url="https://gist.github.com/kwmiebach/3fd49612ef7a52b5ce3a" %}
+
+
+
 ## Linux
 
 {% embed url="https://developer.ibm.com/tutorials/l-lpic1-map/" %}
