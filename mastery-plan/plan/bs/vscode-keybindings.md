@@ -79,6 +79,14 @@ Now everytime I come to a point in coding when I want to stage and commit the ch
 
 How cool !! Vscode is the best 😄 
 
+Some interesting things going on in the vscode space:
+
+{% embed url="https://github.com/viatsko/awesome-vscode" %}
+
+{% embed url="https://code.visualstudio.com/blogs/2019/05/02/remote-development" %}
+
+
+
 
 
 
