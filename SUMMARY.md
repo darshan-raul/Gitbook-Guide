@@ -52,5 +52,6 @@
 
 * [PLAN](mastery-plan/plan/README.md)
   * [b's](mastery-plan/plan/bs/README.md)
+    * [Starred Git repo](mastery-plan/plan/bs/starred-git-repo.md)
     * [Pytest](mastery-plan/plan/bs/pytest.md)
 
