@@ -83,4 +83,8 @@
   * [ ] [https://book.git-scm.com/book/en/v2](https://book.git-scm.com/book/en/v2)
   * [ ] [http://cheat.errtheblog.com/s/git](http://cheat.errtheblog.com/s/git)
   * [ ] [http://www-cs-students.stanford.edu/~blynn/gitmagic/book.pdf](http://www-cs-students.stanford.edu/~blynn/gitmagic/book.pdf)
-* [ ] 
+  * [ ] [https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+* [ ] PYTHON:
+  * [ ] [https://www.youtube.com/watch?v=8DvywoWv6fI](https://www.youtube.com/watch?v=8DvywoWv6fI)
+  * [ ] 
+
