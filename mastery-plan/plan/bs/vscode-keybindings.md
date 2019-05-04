@@ -16,7 +16,7 @@ Referring : [https://code.visualstudio.com/docs/editor/versioncontrol](https://c
 
 `git add .` and then  `git commit -m "<commit-message>"` . EVERYTIME ! HELL NO! 
 
-![](../../../.gitbook/assets/image%20%2838%29.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 
 This is where my changes were visible whenever I made any changes in any file.
 
@@ -26,7 +26,7 @@ Clicking on the files will open a nice working tree where I am easily able to se
 
 Now these files have to be staged before you can commit. 
 
-![1. Click stage changes 2. The staged changes will be visible](../../../.gitbook/assets/image%20%2846%29.png)
+![1. Click stage changes 2. The staged changes will be visible](../../../.gitbook/assets/image%20%2848%29.png)
 
 This is great when you only add stage the changes you want to commit. But not us ;\) I almost always stage everything and commit everything as those are the changes I intended to be version controlled. Maybe the above usecase may apply to me in some project but not now. Hence 
 
@@ -71,7 +71,7 @@ As staging is done automatically when I commit I donot have to think about that 
 
 ![I chose Alt+c two times to commit](../../../.gitbook/assets/image%20%2824%29.png)
 
-![](../../../.gitbook/assets/image%20%2831%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 
 Did the same thing for git push.
 

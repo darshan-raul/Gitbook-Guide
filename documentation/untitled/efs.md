@@ -23,7 +23,7 @@ on the next page:
 
 Next will be the review page and click 'Create' 
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 The following Success page will be visible .
 

@@ -90,9 +90,9 @@ Nothing fancy just needs to check if the bucketlist is empty or not. If it isn't
 
 Now I removed the s3 access for this AWS user and re-ran the test
 
-![As expected it failed with 1 failed,2 warnings](../../../.gitbook/assets/image%20%2852%29.png)
+![As expected it failed with 1 failed,2 warnings](../../../.gitbook/assets/image%20%2855%29.png)
 
-![You will also see a F in front of the file](../../../.gitbook/assets/image%20%2844%29.png)
+![You will also see a F in front of the file](../../../.gitbook/assets/image%20%2846%29.png)
 
 {% hint style="info" %}
 Execute the test function with “quiet” reporting mode:
