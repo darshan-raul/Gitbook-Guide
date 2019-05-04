@@ -1,5 +1,81 @@
 # PLAN
 
+## SUBJECTS:
+
+### COLLABORATION:
+
+#### Communication:
+
+* Slack
+
+#### Application Lifecycle management tools:
+
+* Trello
+* Jira Software
+
+#### Knowledge sharing platforms:
+
+* Confluence
+* Read the Docs
+* Github Pages
+
+### 👨⚕ TESTING:
+
+* pytest
+
+### RUN:
+
+#### Iaas/CLoud tools:
+
+* AWS
+* GCP
+* Azure
+
+#### Monitoring:
+
+* Graphana
+* Kibana
+* ELK stack
+
+#### Orchestration tools:
+
+* Kubernetus
+
+### BUILD:
+
+#### Version Control:
+
+* Git
+* Github 
+* BitBucket
+
+#### Continuous Integration :
+
+* Jenkins
+* Travis CI
+
+#### Software Build:
+
+* Maven
+
+### DEPLOY:
+
+#### Artifact management:
+
+* Nexus
+
+#### Configuration Management:
+
+* Ansible
+* Puppet
+* Chef
+
+
+
+
+
+## PLAN:
+
 * [ ] Books
   * [ ] GOOGLE SRE
   * [ ] Devops concept book
