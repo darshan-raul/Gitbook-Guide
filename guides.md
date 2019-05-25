@@ -34,7 +34,13 @@
 
 {% embed url="https://developer.ibm.com/tutorials/l-lpic1-map/" %}
 
+[https://apscnlan.k12.ar.us/downloads/Training Documents/Network/Basic Network Troubleshooting - 2015.pdf](https://apscnlan.k12.ar.us/downloads/Training%20Documents/Network/Basic%20Network%20Troubleshooting%20-%202015.pdf)
 
+[https://cdn.makeuseof.com/wp-content/uploads/2018/01/The-Complete-Windows-Network-Troubleshooting-Guide-ii.pdf](https://cdn.makeuseof.com/wp-content/uploads/2018/01/The-Complete-Windows-Network-Troubleshooting-Guide-ii.pdf)
+
+[https://hlcs.it/files/HCNA/1/CCNA1 Discovery Chapter 9.pdf](https://hlcs.it/files/HCNA/1/CCNA1%20Discovery%20Chapter%209.pdf)
+
+[https://www.youtube.com/watch?v=-55X-koiBFg](https://www.youtube.com/watch?v=-55X-koiBFg)
 
 ## AWS Solutions architect associate:
 
