@@ -57,3 +57,7 @@
     * [Starred Git repo](mastery-plan/plan/bs/starred-git-repo.md)
     * [Pytest](mastery-plan/plan/bs/pytest.md)
 
+## NOTES
+
+* [Devops toolkit](notes/devops-toolkit.md)
+
