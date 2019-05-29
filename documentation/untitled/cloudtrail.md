@@ -147,5 +147,76 @@ This is the default file location structure:
 
 You can configure a trail to use an Amazon SNS topic.
 
+## Limits:
 
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Resource</th>
+      <th style="text-align:left">Default Limit</th>
+      <th style="text-align:left">Comments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Trails per region</td>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">This limit cannot be increased.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Get, describe, and list APIs</td>
+      <td style="text-align:left">10 transactions per second (TPS)</td>
+      <td style="text-align:left">
+        <p>The maximum number of operation requests you can make per second without
+          being throttled. The <code>LookupEvents</code> API is not included in this
+          category.</p>
+        <p>This limit cannot be increased.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">LookupEvents API</td>
+      <td style="text-align:left">2 transactions per second (TPS)</td>
+      <td style="text-align:left">
+        <p>The maximum number of operation requests you can make per second without
+          being throttled.</p>
+        <p>This limit cannot be increased.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">All other APIs</td>
+      <td style="text-align:left">1 transaction per second (TPS)</td>
+      <td style="text-align:left">
+        <p>The maximum number of operation requests you can make per second without
+          being throttled.</p>
+        <p>This limit cannot be increased.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Event selectors</td>
+      <td style="text-align:left">5 per trail</td>
+      <td style="text-align:left">This limit cannot be increased.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Data resources in event selectors</td>
+      <td style="text-align:left">250 across all event selectors in a trail</td>
+      <td style="text-align:left">
+        <p>The total number of data resources cannot exceed 250 across all event
+          selectors in a trail. The limit of number of resources on an individual
+          event selector is configurable up to 250. This upper limit is allowed only
+          if the total number of data resources does not exceed 250 across all event
+          selectors.</p>
+        <p>Examples:</p>
+        <ul>
+          <li>A trail with 5 event selectors, each configured with 50 data resources,
+            is allowed. (5*50=250)</li>
+          <li>A trail with 5 event selectors, 3 of which are configured with 50 data
+            resources, 1 of which is configured with 99 data resources, and 1 of which
+            is configured with 1 data resource, is also allowed. ((3*50)+1+99=250)</li>
+          <li>A trail configured with 5 event selectors, all of which are configured
+            with 100 data resources, is not allowed. (5*100=500)</li>
+        </ul>
+        <p>This limit cannot be increased.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
