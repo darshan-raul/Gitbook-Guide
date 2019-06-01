@@ -28,6 +28,8 @@
 
 ## Documentation
 
+* [AWS FAQS](documentation/aws-faqs/README.md)
+  * [Billing](documentation/aws-faqs/billing.md)
 * [AWS](documentation/untitled/README.md)
   * [Billing and Cost Management](documentation/untitled/billing-and-cost-management.md)
   * [Cloudtrail](documentation/untitled/cloudtrail.md)
