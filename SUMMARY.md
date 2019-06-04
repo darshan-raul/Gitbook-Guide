@@ -62,4 +62,5 @@
 ## NOTES
 
 * [Devops toolkit](notes/devops-toolkit.md)
+* [Network Troubleshooting](notes/network-troubleshooting.md)
 
