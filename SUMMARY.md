@@ -63,4 +63,5 @@
 
 * [Devops toolkit](notes/devops-toolkit.md)
 * [Network Troubleshooting](notes/network-troubleshooting.md)
+* [Nested Cloudformation Stack](notes/nested-cloudformation-stack.md)
 
