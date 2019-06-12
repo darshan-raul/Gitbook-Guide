@@ -4,13 +4,45 @@ So I am creating a gitfolio site which will display all my public repositories i
 
 ### Creating the Main repository and cloning it :
 
-![Created a  new repo in github where all the repo&apos;s will be stored](../../../.gitbook/assets/image%20%2815%29.png)
+![Created a  new repo in github where all the repo&apos;s will be stored](../../../.gitbook/assets/image%20%2816%29.png)
 
-![Copy this URL ](../../../.gitbook/assets/image%20%2855%29.png)
+![Copy this URL ](../../../.gitbook/assets/image%20%2858%29.png)
 
-![clone the repo in your machine](../../../.gitbook/assets/image%20%2854%29.png)
+![clone the repo in your machine](../../../.gitbook/assets/image%20%2857%29.png)
 
 Now we are going to use a new git concept called as "submodule" . More here :[https://git-scm.com/docs/git-submodule](https://git-scm.com/docs/git-submodule)
+
+### Adding all the repo's as submodule's in this repo:
+
+Use the command
+
+```text
+git submodule add <repo url>
+```
+
+Now you will be able to see all the repo's in seperate folders:
+
+![All the repos as folders in this main repo](../../../.gitbook/assets/image%20%2823%29.png)
+
+### Commit everything and push to Github
+
+If you run `git status` after running the above command's you should be able to see something like this:
+
+![](../../../.gitbook/assets/image%20%2862%29.png)
+
+ Its time to add all to stage and commit it.
+
+After `git add .` and `git commit -m "added all repos"`
+
+Your master branch must be clean in git status.
+
+![](../../../.gitbook/assets/image%20%2815%29.png)
+
+Now just push it to github. `git push origin master` should do it if git is properly configured in your system.
+
+![All the repo&apos;s will be in a single repo. The @characters can be avoided if you give the submodule name while adding it](../../../.gitbook/assets/image%20%2817%29.png)
+
+
 
 
 
