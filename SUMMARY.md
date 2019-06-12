@@ -54,6 +54,7 @@
 
 * [PLAN](mastery-plan/plan/README.md)
   * [b's](mastery-plan/plan/bs/README.md)
+    * [Merging multiple repo's into one](mastery-plan/plan/bs/merging-multiple-repos-into-one.md)
     * [Migrating to AWS](mastery-plan/plan/bs/migrating-to-aws.md)
     * [Packaging python code and uploading to PyPi](mastery-plan/plan/bs/packaging-python-code-and-uploading-to-pypi.md)
     * [Vscode keybindings](mastery-plan/plan/bs/vscode-keybindings.md)
