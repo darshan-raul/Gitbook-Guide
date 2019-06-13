@@ -45,6 +45,7 @@
   * [Cloud Run](documentation/gcp/cloud-run.md)
 * [CI/CD](documentation/ci-cd/README.md)
   * [Terraform](documentation/ci-cd/terraform.md)
+* [SSH](documentation/ssh.md)
 
 ## Python packages
 
