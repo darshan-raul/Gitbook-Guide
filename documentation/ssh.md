@@ -78,11 +78,56 @@ You will need to change the configuration of your ssh server. The file to be edi
 
 These are the important parameters you should be aware of:
 
-### Initial server key discovery
+1. **Port**: This is the field to specify the port you can use to ssh to  the server.
+2. **AddressFamily** is to specify if ipv4, ipv6 or any address types are allowed. **ListenAddress** specifies the local addresses sshd should listen on.
+3. **HostKey** specifies a file containing a private host key used by SSH. It is possible to have multiple host key files. The default is /etc/ssh/ssh\_host\_dsa\_key, /etc/ssh/ssh\_host\_ecdsa\_key, /etc/ssh/ssh\_host\_ed25519\_key and /etc/ssh/ssh\_host\_rsa\_key .
+4. **LoginGraceTime** time after which the server disconnects if the user has not successfully logged in. **PermitRootLogin** to allow "root" to login
+5. **PubkeyAuthentication** field allows use of public key authentication we used before
+6. **PasswordAuthentication** is used to enable/disable password based authentication.
+
+   ![](https://thor1345r75.s3.ap-south-1.amazonaws.com/sshoverview/ssh8.png)
+
+   For more info refer : [open-ssh options](https://www.thegeekstuff.com/2011/05/openssh-options/)
+
+Change the **PasswordAuthentication** field to **yes** and also because in this case the user we are using is "root" find “PermitRootLogin” parameter and change its value from “prohibit-password” to “yes“ and save the file.
+
+Now create a password for the user. `sudo passwd <user_name>` If all works fine you should get the output: _passwd: password updated successfully_
+
+Next run `sudo service sshd restart`
+
+Lets try to ssh again to the SSH server but this time using Password based authentication.
+
+1. Go to the Client machine and use `ssh <user_name>@<ssh_server_ip>`
+2. You will be prompted for a password you set for the user
+
+![](https://thor1345r75.s3.ap-south-1.amazonaws.com/sshoverview/ssh9.png)
+
+If all went perfect you should be able to login to the SSH server using password Based authentication.
 
 ### Executing commands remotely
 
-### Redirecting commands’ input and output
+Now that we are able to ssh to the server.Lets try executing some commands on the ssh\_server directly from the client machine.
+
+Format: `ssh user@sshserver "command"`
+
+First on the ssh server: 1. Create a directory called test\_directory 2. Create a file called hello.txt
+
+![](https://thor1345r75.s3.ap-south-1.amazonaws.com/sshoverview/ssh10.png)
+
+Now on the client machine:
+
+1. Run `ssh <user_name>@<ssh_server_ip> "ls ~/test_directory`
+2. Enter the password when prompted
+3. The command will be executed, in this case the ls command will view the file we just creted on the ssh server.
+4. After the command is executed you are still in your client machine. 
+
+![](https://thor1345r75.s3.ap-south-1.amazonaws.com/sshoverview/ssh11.png)
+
+This method is quite useful in scripts as you can execute commands on other server's without the need to connect to them. You can also redirect the commands output and pipe it in a local command on your client machine.
 
 ### SSH forwarding
+
+### Installing OpenSSH on blank server :
+
+[https://www.ssh.com/ssh/sshd/](https://www.ssh.com/ssh/sshd/)
 
