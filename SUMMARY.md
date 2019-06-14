@@ -46,6 +46,8 @@
 * [CI/CD](documentation/ci-cd/README.md)
   * [Terraform](documentation/ci-cd/terraform.md)
 * [SSH](documentation/ssh.md)
+* [AWS CLI](documentation/aws-cli/README.md)
+  * [AWS IAM](documentation/aws-cli/aws-iam.md)
 
 ## Python packages
 
