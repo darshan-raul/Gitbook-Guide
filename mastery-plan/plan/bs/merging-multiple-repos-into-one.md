@@ -40,7 +40,7 @@ Your master branch must be clean in git status.
 
 Now just push it to github. `git push origin master` should do it if git is properly configured in your system.
 
-![All the repo&apos;s will be in a single repo. The @characters can be avoided if you give the submodule name while adding it](../../../.gitbook/assets/image%20%2817%29.png)
+![All the repo&apos;s will be in a single repo. ](../../../.gitbook/assets/image%20%2817%29.png)
 
 
 
