@@ -45,6 +45,7 @@
   * [Cloud Run](documentation/gcp/cloud-run.md)
 * [CI/CD](documentation/ci-cd/README.md)
   * [Terraform](documentation/ci-cd/terraform.md)
+  * [Jenkins](documentation/ci-cd/jenkins.md)
 * [SSH](documentation/ssh.md)
 * [AWS CLI](documentation/aws-cli/README.md)
   * [AWS IAM](documentation/aws-cli/aws-iam.md)

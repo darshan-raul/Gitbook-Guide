@@ -2,11 +2,11 @@
 
 Go to the EFS console home page:
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 An Amazon EFS file system is accessed by EC2 instances running inside one of your VPCs. Instances connect to a file system by using a network interface called a mount target. Each mount target has an IP address, which we assign automatically or you can specify.
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 1. Provide the VPC for the mount target
 2. Create a mount target in the available subnet's. I have one created.
@@ -23,19 +23,19 @@ on the next page:
 
 Next will be the review page and click 'Create' 
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 The following Success page will be visible .
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 Mount target will be in Creating state.
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 Click this link for the instructions to attach it to EC2 instance.
 
-![After a while the mount target will be available.](../../.gitbook/assets/image%20%2812%29.png)
+![After a while the mount target will be available.](../../.gitbook/assets/image%20%2813%29.png)
 
 Time to create a EC2 instance and connect it to the EFS mount target.
 
