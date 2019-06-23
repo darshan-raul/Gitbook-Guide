@@ -36,7 +36,7 @@ After this all you need to do is configure awscli and jenkins thats it.
 1. Click on  new item on the left side bar in Jenkins main dashboard and on the next page give the job a name.
 2. Select the type as Pipeline.
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 1. Give the job a description
 2. This option determines when, if ever, build records for this project should be discarded. Build records include the console output, archived artifacts, and any other metadata related to a particular build.
@@ -48,14 +48,14 @@ After this all you need to do is configure awscli and jenkins thats it.
 2. You can choose the github hook trigger using Github plugin
 3. or Poll SCM 
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
 1. You can either choose to write the pipeline script here or choose the pipeline script from SCM option
 2. Here you mention the pipeline script..else you can create one by using the Pipeline Syntax button given below  
 
 Once done you can build the job and open blueocean and see the progress according to stage's you set in pipeline syntax.
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 After a while both the stages are built successfully and you can view the logs too.
 
@@ -87,7 +87,7 @@ node {
 
 Now its time to add another stage where the code is deployed to S3 bucket
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 In package.json of the Angular app , I have added a additional script to build as well as copy the files to S3 bucket where the static website is hosted.
 
@@ -126,7 +126,7 @@ node {
 
 Build it and then you will see 3 stages now. Let the pipeline complete.
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 ![](../../.gitbook/assets/image%20%2826%29.png)
 
@@ -150,7 +150,7 @@ Scroll Down to  `Amazon S3 profiles`
 
 Now configure the Pipeline job again and under the pipeline code, Click 'pipeline syntax' . It can be used to create pipeline code
 
-![](../../.gitbook/assets/image%20%2872%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 1. In sample step select S3upload
 2. Select the S3 profile you created before

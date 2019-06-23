@@ -6,7 +6,7 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :\)
 
-![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2877%29.png)
+![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2878%29.png)
 
 ![](../../../.gitbook/assets/image%20%2854%29.png)
 
@@ -16,7 +16,7 @@ Lets get our hands dirty :
 
 Go to the Get started page and click edit on the container definition section.
 
-![](../../../.gitbook/assets/image%20%2869%29.png)
+![](../../../.gitbook/assets/image%20%2870%29.png)
 
 1. Give the container a name
 2. Give the image name. My AWSapi image on dockerhub in this case
@@ -105,7 +105,7 @@ My containers kept failing for the above reason.
 
 Temporarily deleted the cluster 
 
-![](../../../.gitbook/assets/image%20%2879%29.png)
+![](../../../.gitbook/assets/image%20%2880%29.png)
 
 ![](../../../.gitbook/assets/image%20%2848%29.png)
 

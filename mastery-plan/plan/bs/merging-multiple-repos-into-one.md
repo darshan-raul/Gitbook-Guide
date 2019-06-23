@@ -6,7 +6,7 @@ So I am creating a gitfolio site which will display all my public repositories i
 
 ![Created a  new repo in github where all the repo&apos;s will be stored](../../../.gitbook/assets/image%20%2820%29.png)
 
-![Copy this URL ](../../../.gitbook/assets/image%20%2867%29.png)
+![Copy this URL ](../../../.gitbook/assets/image%20%2868%29.png)
 
 ![clone the repo in your machine](../../../.gitbook/assets/image%20%2866%29.png)
 
@@ -28,7 +28,7 @@ Now you will be able to see all the repo's in seperate folders:
 
 If you run `git status` after running the above command's you should be able to see something like this:
 
-![](../../../.gitbook/assets/image%20%2874%29.png)
+![](../../../.gitbook/assets/image%20%2875%29.png)
 
  Its time to add all to stage and commit it.
 
