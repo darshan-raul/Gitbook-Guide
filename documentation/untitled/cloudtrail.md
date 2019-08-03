@@ -128,7 +128,7 @@ aws cloudtrail delete-trail --name awscloudtrail-example
 
 ## Creating a Trail for an Organization <a id="creating-trail-organization"></a>
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 ```text
 aws organizations enable-all-features

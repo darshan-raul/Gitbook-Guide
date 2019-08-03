@@ -59,6 +59,7 @@
 
 * [PLAN](mastery-plan/plan/README.md)
   * [b's](mastery-plan/plan/bs/README.md)
+    * [Docker Swarm Part 1: HTTPS Nginx reverse proxy to the API](mastery-plan/plan/bs/docker-swarm-part-1-https-nginx-reverse-proxy-to-the-api.md)
     * [Merging multiple repo's into one](mastery-plan/plan/bs/merging-multiple-repos-into-one.md)
     * [Migrating to AWS](mastery-plan/plan/bs/migrating-to-aws.md)
     * [Packaging python code and uploading to PyPi](mastery-plan/plan/bs/packaging-python-code-and-uploading-to-pypi.md)
