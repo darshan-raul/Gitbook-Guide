@@ -4,7 +4,7 @@ So in Part 1 , I covered the basics of Docker Swarm and created a working swarm 
 
 So in this part I will create another service which will be a Nginx reverse proxy for the API service. Here we go !
 
-![Setting up three servers in the swarm, 2 slaves 1 master](../../../.gitbook/assets/image%20%2822%29.png)
+![Setting up three servers in the swarm, 2 slaves 1 master](../../../.gitbook/assets/image%20%2825%29.png)
 
 ### 
 
@@ -114,7 +114,7 @@ Now that the configuration file for nginx cotainer as reverse proxy is made. Let
 
 Here's how I have kept the structure for the code:
 
-![](../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%2821%29.png)
 
 Go to the nginx folder
 
@@ -133,4 +133,91 @@ You will have to fill in the following questions;
 5. Organizational Unit Name \(eg, section\)
 6. Common Name \(eg, fully qualified host name\)
 7. Email Address
+
+Once done your folder structure should look like this:
+
+![](../../../.gitbook/assets/image%20%2828%29.png)
+
+### Adding service in docker compose file:
+
+This was the previous docker-compose file:
+
+```text
+version: '3.0'
+
+
+
+
+services:
+
+  awsapi:
+
+    image: darshanraul/awsapi:latest
+
+    container_name: awsapi
+
+    deploy:
+
+      replicas: 4
+
+    ports:
+
+      - "80:8080"
+
+    networks:
+
+      - sample_network_name
+
+networks:
+
+  sample_network_name:
+  
+```
+
+There was just one service with four replicas. This is the new docker-compose.yml
+
+```text
+
+version: '3'
+  
+services:
+    reverseproxy:
+        image: nginx:alpine
+        #container_name: reverseproxy
+        ports:
+            - 80:80
+            - 443:443
+        deploy:
+          replicas: 4
+        volumes:
+          - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+          - ./nginx/awsapi.com.crt:/etc/nginx/awsapi.com.crt 
+          - ./nginx/awsapi.com.key:/etc/nginx/awsapi.com.key
+        networks:
+          - aws_network
+
+        restart: always
+
+    awsapi:
+        depends_on:
+            - reverseproxy
+        #container_name: awsapi
+        image: darshanraul/awsapi
+        deploy:
+          replicas: 4
+        restart: always
+        networks:
+          - aws_network
+
+networks:
+  aws_network:
+```
+
+![](../../../.gitbook/assets/image%20%286%29.png)
+
+![](../../../.gitbook/assets/image%20%2818%29.png)
+
+![](../../../.gitbook/assets/image%20%2885%29.png)
+
+![](../../../.gitbook/assets/image%20%2820%29.png)
 
