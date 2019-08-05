@@ -6,9 +6,9 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :\)
 
-![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2884%29.png)
+![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2889%29.png)
 
-![](../../../.gitbook/assets/image%20%2860%29.png)
+![](../../../.gitbook/assets/image%20%2864%29.png)
 
 Lets get our hands dirty :
 
@@ -16,7 +16,7 @@ Lets get our hands dirty :
 
 Go to the Get started page and click edit on the container definition section.
 
-![](../../../.gitbook/assets/image%20%2876%29.png)
+![](../../../.gitbook/assets/image%20%2881%29.png)
 
 1. Give the container a name
 2. Give the image name. My AWSapi image on dockerhub in this case
@@ -32,7 +32,7 @@ I am avoiding them and click update.
 
 You should be able to see your container highlighted here. Confirm the image/cpu settings before moving ahead. We will be changing that in the next step.
 
-![](../../../.gitbook/assets/image%20%2868%29.png)
+![](../../../.gitbook/assets/image%20%2873%29.png)
 
 Click edit on the task definition. **Task Definition is like the blueprint of the application.**
 
@@ -47,7 +47,7 @@ Click edit on the task definition. **Task Definition is like the blueprint of th
 
 I choose the default ones and move ahead.
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2843%29.png)
 
 Next is the service definition.. Service is basically the instance of the task definition. Click 'Edit'
 
@@ -63,7 +63,7 @@ Next is the service definition.. Service is basically the instance of the task d
 
 Next give the Cluster configuration. Iam choosing the default ones.
 
-![](../../../.gitbook/assets/image%20%2842%29.png)
+![](../../../.gitbook/assets/image%20%2844%29.png)
 
 Final section is the review section.
 
@@ -77,7 +77,7 @@ This status page will open showing the progress in preparing the service.
 
 If all goes well, You should be able to see everything green :\) Click 'View Service'
 
-![](../../../.gitbook/assets/image%20%2864%29.png)
+![](../../../.gitbook/assets/image%20%2869%29.png)
 
 Three things to notice on the main page here:
 
@@ -87,27 +87,27 @@ Three things to notice on the main page here:
 
  
 
-![](../../../.gitbook/assets/image%20%2844%29.png)
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
 Tasks are in pending state
 
-![](../../../.gitbook/assets/image%20%2859%29.png)
+![](../../../.gitbook/assets/image%20%2862%29.png)
 
 Meanwhile on Cloudformation console you can see the stack created
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2848%29.png)
 
 My containers kept failing for the above reason.
 
 ![](../../../.gitbook/assets/image%20%288%29.png)
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](../../../.gitbook/assets/image%20%2853%29.png)
 
 Temporarily deleted the cluster 
 
-![](../../../.gitbook/assets/image%20%2887%29.png)
+![](../../../.gitbook/assets/image%20%2892%29.png)
 
-![](../../../.gitbook/assets/image%20%2854%29.png)
+![](../../../.gitbook/assets/image%20%2857%29.png)
 
 Went to task definition's and created new revision. Made some tweaks to the memory section.
 
