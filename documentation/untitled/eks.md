@@ -8,19 +8,19 @@ Amazon EKS runs the Kubernetes management infrastructure for you across multiple
 
 Steps:
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 On the EKS console, Click ' Create Cluster'
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 Give the cluster a name, and select the IAM role for EKS.
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
 Choose the default networking settings or you can customize it.
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 Select the security group which has the specific ports open for the container.
 

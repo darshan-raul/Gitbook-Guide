@@ -22,7 +22,7 @@ This guide contains all the useful links to various resources to help grow knowl
 
 ![](.gitbook/assets/0_2jc5-bialshdlfho.png)
 
-![](.gitbook/assets/image%20%2884%29.png)
+![](.gitbook/assets/image%20%2889%29.png)
 
 {% embed url="https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/" %}
 
