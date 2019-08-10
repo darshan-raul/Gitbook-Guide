@@ -6,9 +6,9 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :\)
 
-![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2894%29.png)
+![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%2895%29.png)
 
-![](../../../.gitbook/assets/image%20%2868%29.png)
+![](../../../.gitbook/assets/image%20%2869%29.png)
 
 Lets get our hands dirty :
 
@@ -16,7 +16,7 @@ Lets get our hands dirty :
 
 Go to the Get started page and click edit on the container definition section.
 
-![](../../../.gitbook/assets/image%20%2886%29.png)
+![](../../../.gitbook/assets/image%20%2887%29.png)
 
 1. Give the container a name
 2. Give the image name. My AWSapi image on dockerhub in this case
@@ -32,7 +32,7 @@ I am avoiding them and click update.
 
 You should be able to see your container highlighted here. Confirm the image/cpu settings before moving ahead. We will be changing that in the next step.
 
-![](../../../.gitbook/assets/image%20%2877%29.png)
+![](../../../.gitbook/assets/image%20%2878%29.png)
 
 Click edit on the task definition. **Task Definition is like the blueprint of the application.**
 
@@ -77,7 +77,7 @@ This status page will open showing the progress in preparing the service.
 
 If all goes well, You should be able to see everything green :\) Click 'View Service'
 
-![](../../../.gitbook/assets/image%20%2873%29.png)
+![](../../../.gitbook/assets/image%20%2874%29.png)
 
 Three things to notice on the main page here:
 
@@ -105,7 +105,7 @@ My containers kept failing for the above reason.
 
 Temporarily deleted the cluster 
 
-![](../../../.gitbook/assets/image%20%2897%29.png)
+![](../../../.gitbook/assets/image%20%2898%29.png)
 
 ![](../../../.gitbook/assets/image%20%2860%29.png)
 

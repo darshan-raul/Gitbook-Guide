@@ -14,7 +14,7 @@ Choose our newly created security group
 
 And then wait for the server to be up.
 
-![](../../../.gitbook/assets/image%20%2872%29.png)
+![](../../../.gitbook/assets/image%20%2873%29.png)
 
 We are going to follow this steps :[https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html\#install-beats](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html#install-beats)
 
@@ -38,7 +38,7 @@ curl http://127.0.0.1:9200
 
 You should get the following result.
 
-![](../../../.gitbook/assets/image%20%2867%29.png)
+![](../../../.gitbook/assets/image%20%2868%29.png)
 
 ### Installing Kibana:
 
@@ -71,7 +71,7 @@ sudo dpkg -i filebeat-7.3.0-amd64.deb
 
 Define the path \(or paths\) to your log files.
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](../../../.gitbook/assets/image%20%2882%29.png)
 
 ![](../../../.gitbook/assets/image%20%2818%29.png)
 

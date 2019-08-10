@@ -26,7 +26,7 @@ Clicking on the files will open a nice working tree where I am easily able to se
 
 Now these files have to be staged before you can commit. 
 
-![1. Click stage changes 2. The staged changes will be visible](../../../.gitbook/assets/image%20%2875%29.png)
+![1. Click stage changes 2. The staged changes will be visible](../../../.gitbook/assets/image%20%2876%29.png)
 
 This is great when you only add stage the changes you want to commit. But not us ;\) I almost always stage everything and commit everything as those are the changes I intended to be version controlled. Maybe the above usecase may apply to me in some project but not now. Hence 
 

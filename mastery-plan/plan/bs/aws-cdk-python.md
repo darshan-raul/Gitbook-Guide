@@ -32,13 +32,54 @@ You can use the AWS CDK to define your cloud resources in a familiar programming
 * [Node.js \(&gt;= 8.11.x\)](https://nodejs.org/en/download)
 * You must specify both your credentials and an AWS Region to use the AWS CDK CLI
 
+## Installation and Configuration needed
 
+### Installation
 
-configuration needed
+First install the aws-cdk package
 
-concepts
+`npm install -g aws-cdk`
 
-practical
+Then check the cdk version with:
+
+```text
+cdk --version
+```
+
+### AWS Configuration:
+
+The CDK looks for credentials and region in the following order:
+
+* Using the **--profile** option to **cdk** commands.
+* Using environment variables.
+* Using the default profile as set by the AWS Command Line Interface \(AWS CLI\)
+
+## concepts
+
+## practical:
+
+1. Initialize a python cdk app
+
+```text
+cdk init --language python
+```
+
+2. Create a virtual environment
+
+```text
+python3 -m venv .env
+source .env/bin/activate
+```
+
+3. Install all the packages
+
+```text
+pip install -r requirements.txt
+```
+
+This would be the initial folder structure:
+
+![](../../../.gitbook/assets/image%20%2867%29.png)
 
 
 
