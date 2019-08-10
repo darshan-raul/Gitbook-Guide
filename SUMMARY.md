@@ -59,6 +59,7 @@
 
 * [PLAN](mastery-plan/plan/README.md)
   * [b's](mastery-plan/plan/bs/README.md)
+    * [AWS CDK - python](mastery-plan/plan/bs/aws-cdk-python.md)
     * [Elastic Stack installation on AWS Ubuntu 18.04 LTS](mastery-plan/plan/bs/elastic-stack-installation-on-aws-ubuntu-18.04-lts.md)
     * [Docker Swarm Part 1: HTTPS Nginx reverse proxy to the API](mastery-plan/plan/bs/docker-swarm-part-1-https-nginx-reverse-proxy-to-the-api.md)
     * [Merging multiple repo's into one](mastery-plan/plan/bs/merging-multiple-repos-into-one.md)
