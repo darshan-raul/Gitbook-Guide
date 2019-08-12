@@ -19,6 +19,7 @@
 * [Python](articles/python.md)
 * [Monitoring](articles/monitoring.md)
 * [Github](articles/github.md)
+* [Ansible/Puppet](articles/ansible-puppet.md)
 
 ## Github Pages
 
