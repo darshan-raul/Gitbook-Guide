@@ -32,8 +32,8 @@ sudo python -m pip install  --upgrade twine
 2. Create a file named `__init__.py`. This will establish the package. You can use other way's but this is a standard and preferred way.
 3. Create a setup.py file which will be sued to create the pip wheel files .
 
-{% code-tabs %}
-{% code-tabs-item title="\_\_init\_\_.py" %}
+{% tabs %}
+{% tab title="\_\_init\_\_.py" %}
 ```text
 def main():
     print ('Hi there')
@@ -42,11 +42,11 @@ def main():
 if __name__ == '__main__':
     main()
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
-{% code-tabs %}
-{% code-tabs-item title="setup.py" %}
+{% tabs %}
+{% tab title="setup.py" %}
 ```text
 import setuptools
 
@@ -67,8 +67,8 @@ setuptools.setup(
       zip_safe=False
  )
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 That's all that is needed for a basic package and then you can expand on the same.
 
@@ -98,8 +98,8 @@ You will receive a username and password. Save them as they will be needed to up
 
 ### Create .pypric file
 
-{% code-tabs %}
-{% code-tabs-item title=".pypric" %}
+{% tabs %}
+{% tab title=".pypric" %}
 ```text
 [distutils] 
 index-servers=pypi
@@ -107,8 +107,8 @@ index-servers=pypi
 repository = https://upload.pypi.org/legacy/ 
 username =<username>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 This file is essential for storing configuration of your Pypi account.
 

@@ -72,7 +72,9 @@
 
 ## NOTES
 
+* [Links](notes/links.md)
 * [Devops toolkit](notes/devops-toolkit.md)
 * [Network Troubleshooting](notes/network-troubleshooting.md)
-* [Nested Cloudformation Stack](notes/nested-cloudformation-stack.md)
+* [Nested Cloudformation Stack](notes/nested-cloudformation-stack/README.md)
+  * [Links](notes/nested-cloudformation-stack/links.md)
 
