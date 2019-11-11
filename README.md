@@ -2,6 +2,10 @@
 
 This guide contains all the useful links to various resources to help grow knowledge regards to all Dev-ops related stuff.
 
+
+
+## DevOps is a set of practices that emphasize the collaboration and communication of both Software Engineers and IT & Infrastructure Operations to reduce the time to market of a Product.
+
 {% embed url="https://www.codeproject.com/Articles/1394594/Devops-The-Big-Picture" %}
 
 {% embed url="https://www.plutora.com/ci-cd-tools" %}
