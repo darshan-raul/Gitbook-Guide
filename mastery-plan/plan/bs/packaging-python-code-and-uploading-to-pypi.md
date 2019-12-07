@@ -26,14 +26,13 @@ sudo python -m pip install  --upgrade twine
 
 ###  Folder Structure:
 
-![](../../../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image%20%2857%29.png)
 
 1. Create a folder with the 'package-name' as the title
 2. Create a file named `__init__.py`. This will establish the package. You can use other way's but this is a standard and preferred way.
 3. Create a setup.py file which will be sued to create the pip wheel files .
 
-{% tabs %}
-{% tab title="\_\_init\_\_.py" %}
+{% code title="\_\_init\_\_.py" %}
 ```text
 def main():
     print ('Hi there')
@@ -42,11 +41,9 @@ def main():
 if __name__ == '__main__':
     main()
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
-{% tabs %}
-{% tab title="setup.py" %}
+{% code title="setup.py" %}
 ```text
 import setuptools
 
@@ -67,8 +64,7 @@ setuptools.setup(
       zip_safe=False
  )
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 That's all that is needed for a basic package and then you can expand on the same.
 
@@ -80,7 +76,7 @@ python setup.py bdist_wheel
 
 This will create the following folders:
 
-![](../../../.gitbook/assets/image%20%2884%29.png)
+![](../../../.gitbook/assets/image%20%2890%29.png)
 
 ### Test in local machine:
 
@@ -98,8 +94,7 @@ You will receive a username and password. Save them as they will be needed to up
 
 ### Create .pypric file
 
-{% tabs %}
-{% tab title=".pypric" %}
+{% code title=".pypric" %}
 ```text
 [distutils] 
 index-servers=pypi
@@ -107,8 +102,7 @@ index-servers=pypi
 repository = https://upload.pypi.org/legacy/ 
 username =<username>
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 This file is essential for storing configuration of your Pypi account.
 
@@ -120,7 +114,7 @@ python -m twine upload dist/*
 
 This will upload the package to PyPi:
 
-![](../../../.gitbook/assets/image%20%2866%29.png)
+![](../../../.gitbook/assets/image%20%2872%29.png)
 
 Try `pip install pyawscli`
 
