@@ -14,7 +14,7 @@ Choose our newly created security group
 
 And then wait for the server to be up.
 
-![](../../../.gitbook/assets/image%20%2889%29.png)
+![](../../../.gitbook/assets/image%20%2890%29.png)
 
 We are going to follow this steps :[https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html\#install-beats](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html#install-beats)
 
@@ -38,7 +38,7 @@ curl http://127.0.0.1:9200
 
 You should get the following result.
 
-![](../../../.gitbook/assets/image%20%2884%29.png)
+![](../../../.gitbook/assets/image%20%2885%29.png)
 
 ### Installing Kibana:
 
@@ -60,7 +60,7 @@ Now run `./bin/kibana`
 
 Once you see `status changed from yellow to green- Ready` message. Go to your browser and enter `<public ip>:5601`
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](../../../.gitbook/assets/image%20%2882%29.png)
 
 ### Installing Filebeat to get the logs data
 
@@ -71,7 +71,7 @@ sudo dpkg -i filebeat-7.3.0-amd64.deb
 
 Define the path \(or paths\) to your log files.
 
-![](../../../.gitbook/assets/image%20%28100%29.png)
+![](../../../.gitbook/assets/image%20%28102%29.png)
 
 ![](../../../.gitbook/assets/image%20%2821%29.png)
 

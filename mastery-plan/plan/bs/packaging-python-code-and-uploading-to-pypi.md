@@ -76,7 +76,7 @@ python setup.py bdist_wheel
 
 This will create the following folders:
 
-![](../../../.gitbook/assets/image%20%2896%29.png)
+![](../../../.gitbook/assets/image%20%2898%29.png)
 
 ### Test in local machine:
 

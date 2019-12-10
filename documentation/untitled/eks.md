@@ -16,7 +16,7 @@ On the EKS console, Click ' Create Cluster'
 
 Give the cluster a name, and select the IAM role for EKS.
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
 Choose the default networking settings or you can customize it.
 

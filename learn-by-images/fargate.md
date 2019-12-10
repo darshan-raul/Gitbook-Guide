@@ -1,6 +1,6 @@
 # Fargate
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/image%20%2841%29.png)
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 

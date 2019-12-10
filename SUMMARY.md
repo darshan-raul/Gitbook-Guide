@@ -82,4 +82,5 @@
 ## Learn by Images
 
 * [Fargate](learn-by-images/fargate.md)
+* [Observability](learn-by-images/observability.md)
 

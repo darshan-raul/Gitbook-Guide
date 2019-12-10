@@ -131,7 +131,7 @@ pip install -r requirements.txt
 
 This would be the initial folder structure:
 
-![](../../../.gitbook/assets/image%20%2882%29.png)
+![](../../../.gitbook/assets/image%20%2883%29.png)
 
 Lets have a look at `app.py`
 
@@ -225,11 +225,11 @@ You should be able to view the stacks you will be creating `aws-cdk-example` in 
 
 `cdk synth` to view the cloudformation template that will be created from this code.
 
-![](../../../.gitbook/assets/image%20%2883%29.png)
+![](../../../.gitbook/assets/image%20%2884%29.png)
 
 `cdk deploy` to deploy the stack
 
-![](../../../.gitbook/assets/image%20%2890%29.png)
+![](../../../.gitbook/assets/image%20%2891%29.png)
 
 You will be able to see the changes in the cloudformation console and the bucket will also be created.
 
