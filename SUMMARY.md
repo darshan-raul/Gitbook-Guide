@@ -79,3 +79,7 @@
 * [Nested Cloudformation Stack](notes/nested-cloudformation-stack/README.md)
   * [Links](notes/nested-cloudformation-stack/links.md)
 
+## Learn by Images
+
+* [Fargate](learn-by-images/fargate.md)
+
