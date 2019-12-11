@@ -38,6 +38,12 @@
 
 
 
+## Continuous Integration:
+
+{% embed url="https://youtu.be/S91WklRDKsY" %}
+
+
+
 ## Configuration Management:
 
 {% embed url="https://www.youtube.com/watch?v=OmRxKQHtDbY&list=WL&index=372&t=0s" %}
@@ -135,6 +141,12 @@
 ## Testing:
 
 {% embed url="https://www.youtube.com/watch?v=2\_lswM1S264&list=WL&index=309&t=0s" %}
+
+{% embed url="https://www.youtube.com/watch?v=XCnEF27mB3k&list=PLXOcVQr8g7b9ZhJP94qmaUFA92gUYtaLy" caption="JENKINS FOR TESTERS" %}
+
+
+
+
 
 ## Monitoring:
 

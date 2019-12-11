@@ -21,6 +21,12 @@
 * [Monitoring](articles/monitoring.md)
 * [Github](articles/github.md)
 * [Ansible/Puppet](articles/ansible-puppet.md)
+* [Kubernetes](articles/kubernetes.md)
+* [Coding practices:](articles/coding-practices.md)
+
+## STACK OVERFLOW
+
+* [Devops](stack-overflow/devops.md)
 
 ## Github Pages
 
@@ -83,4 +89,5 @@
 
 * [Fargate](learn-by-images/fargate.md)
 * [Observability](learn-by-images/observability.md)
+* [AWS CODE BUILD](learn-by-images/aws-code-build.md)
 

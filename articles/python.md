@@ -8,6 +8,10 @@
 
 {% embed url="https://dzone.com/articles/executable-package-pip-install" %}
 
+## WEB:
+
+{% embed url="https://deepsource.io/blog/new-python-web-frameworks/" %}
+
 
 
 [Documenting Python Code: A Complete Guide – Real Python](https://realpython.com/documenting-python-code/)

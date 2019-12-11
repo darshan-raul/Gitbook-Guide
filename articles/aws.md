@@ -23,3 +23,9 @@ AWS-Reliability-Pillar.pdf
 AWS-Operational-Excellence-Pillar.pdf  
 [https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf](https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf)
 
+## IAM:
+
+{% embed url="https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-aws-identity-and-access-management-access-analyzer/" %}
+
+
+

@@ -8,9 +8,13 @@
 
 {% embed url="https://github.com/widdix/learn-cloudformation" %}
 
+## CONTAINERS:
+
+{% embed url="https://www.aquasec.com/wiki" %}
 
 
-## GITHUB:
+
+## GIT:
 
 {% embed url="https://github.com/maptime/getting-started-with-git-and-github" %}
 
@@ -37,6 +41,14 @@
 ### Front End:
 
 {% embed url="https://github.com/thedaviddias/Front-End-Checklist" %}
+
+## MACHINE LEARNING:
+
+{% embed url="https://developers.google.com/machine-learning/crash-course" %}
+
+## KNOWLEDGE:
+
+{% embed url="https://dev.to/mfarajewicz/6-github-repos-for-instant-knowledge-boost-3mo0" %}
 
 
 

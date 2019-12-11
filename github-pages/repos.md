@@ -8,3 +8,15 @@
 
 
 
+## PYTHON
+
+### GUI:
+
+{% embed url="https://github.com/PySimpleGUI/PySimpleGUI" %}
+
+### LOAD TESTING:
+
+{% embed url="https://www.promptworks.com/blog/load-testing-with-locust" %}
+
+
+
