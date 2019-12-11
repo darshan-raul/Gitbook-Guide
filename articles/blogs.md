@@ -4,5 +4,9 @@
 
 {% embed url="https://www.popularmechanics.com/culture/g29575328/most-important-websites/" %}
 
+### mail server:
+
+{% embed url="https://www.c0ffee.net/blog/mail-server-guide/" caption="mail server" %}
+
 
 

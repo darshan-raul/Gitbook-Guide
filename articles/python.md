@@ -12,6 +12,10 @@
 
 {% embed url="https://deepsource.io/blog/new-python-web-frameworks/" %}
 
+## Flask:
+
+{% embed url="https://blog.miguelgrinberg.com/post/running-a-flask-application-as-a-service-with-systemd" %}
+
 
 
 [Documenting Python Code: A Complete Guide – Real Python](https://realpython.com/documenting-python-code/)
