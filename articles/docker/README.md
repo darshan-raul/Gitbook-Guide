@@ -16,5 +16,9 @@
 
 {% embed url="https://dev.to/kgoralski/deep-dive-into-microservices-architecture-h54" %}
 
+## Alternatives:
+
+{% embed url="https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/" %}
+
 
 

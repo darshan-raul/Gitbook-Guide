@@ -16,6 +16,10 @@
 
 {% embed url="https://blog.miguelgrinberg.com/post/running-a-flask-application-as-a-service-with-systemd" %}
 
+{% embed url="https://medium.com/free-code-camp/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563" %}
+
+{% embed url="https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04" %}
+
 
 
 [Documenting Python Code: A Complete Guide – Real Python](https://realpython.com/documenting-python-code/)

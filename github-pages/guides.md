@@ -14,6 +14,12 @@
 
 
 
+## REST API:
+
+{% embed url="https://www.howtographql.com/" %}
+
+
+
 ## GIT:
 
 {% embed url="https://github.com/maptime/getting-started-with-git-and-github" %}

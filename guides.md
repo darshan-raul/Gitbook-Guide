@@ -20,6 +20,10 @@
 
 {% embed url="http://gitready.com/" %}
 
+## REST API:
+
+{% embed url="https://www.howtographql.com/" %}
+
 
 
 ## PYTHON
