@@ -92,6 +92,8 @@
 * [Observability](learn-by-images/observability.md)
 * [AWS CODE BUILD](learn-by-images/aws-code-build.md)
 * [Docker](learn-by-images/docker/README.md)
+  * [Container Runtimes](learn-by-images/docker/container-runtimes.md)
+  * [Docker Internals](learn-by-images/docker/docker-internals.md)
   * [Dockerfile](learn-by-images/docker/dockerfile.md)
 * [AWS CDK](learn-by-images/aws-cdk.md)
 

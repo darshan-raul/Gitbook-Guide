@@ -4,7 +4,7 @@ So in Part 1 , I covered the basics of Docker Swarm and created a working swarm 
 
 So in this part I will create another service which will be a Nginx reverse proxy for the API service. Here we go !
 
-![Setting up three servers in the swarm, 2 slaves 1 master](../../../.gitbook/assets/image%20%2838%29.png)
+![Setting up three servers in the swarm, 2 slaves 1 master](../../../.gitbook/assets/image%20%2839%29.png)
 
 ### 
 
@@ -114,7 +114,7 @@ Now that the configuration file for nginx cotainer as reverse proxy is made. Let
 
 Here's how I have kept the structure for the code:
 
-![](../../../.gitbook/assets/image%20%2831%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 
 Go to the nginx folder
 
@@ -136,7 +136,7 @@ You will have to fill in the following questions;
 
 Once done your folder structure should look like this:
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2845%29.png)
 
 ### Adding service in docker compose file:
 
@@ -215,9 +215,9 @@ networks:
 
 ![](../../../.gitbook/assets/image%20%288%29.png)
 
-![](../../../.gitbook/assets/image%20%2826%29.png)
+![](../../../.gitbook/assets/image%20%2827%29.png)
 
-![](../../../.gitbook/assets/image%20%28127%29.png)
+![](../../../.gitbook/assets/image%20%28138%29.png)
 
-![](../../../.gitbook/assets/image%20%2829%29.png)
+![](../../../.gitbook/assets/image%20%2830%29.png)
 

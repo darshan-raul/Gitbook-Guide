@@ -131,7 +131,7 @@ pip install -r requirements.txt
 
 This would be the initial folder structure:
 
-![](../../../.gitbook/assets/image%20%2892%29.png)
+![](../../../.gitbook/assets/image%20%28100%29.png)
 
 Lets have a look at `app.py`
 
@@ -225,15 +225,15 @@ You should be able to view the stacks you will be creating `aws-cdk-example` in 
 
 `cdk synth` to view the cloudformation template that will be created from this code.
 
-![](../../../.gitbook/assets/image%20%2893%29.png)
+![](../../../.gitbook/assets/image%20%28101%29.png)
 
 `cdk deploy` to deploy the stack
 
-![](../../../.gitbook/assets/image%20%28100%29.png)
+![](../../../.gitbook/assets/image%20%28109%29.png)
 
 You will be able to see the changes in the cloudformation console and the bucket will also be created.
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+![](../../../.gitbook/assets/image%20%2829%29.png)
 
 Now this is the **MOST INTERESTING THING** about cdk and gives a tough to Terraform.
 
@@ -253,7 +253,7 @@ bucket = s3.Bucket(self,
 
 Now run `cdk diff`
 
-![](../../../.gitbook/assets/image%20%2868%29.png)
+![](../../../.gitbook/assets/image%20%2873%29.png)
 
 You will see that it actually tracks that resource and shows what is going to change!! Somewhat similar to terraform state.
 
@@ -265,7 +265,7 @@ Now lets deploy this new change using `cdk deploy`
 
 Lets destroy the stack using `cdk destroy`
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
 It will ask for your permission before deleting . Press 'y' and the whole stack will be deleted. I have some plans for how to use this as this is python and I can leverage my python skills to create maybe a form type app which will create a IAC cfn template based on the inputs \( Ofcourse its done already :\) [https://github.com/tongueroo/lono](https://github.com/tongueroo/lono)\) But I can still do it as a personal project
 
