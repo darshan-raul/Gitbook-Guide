@@ -26,7 +26,7 @@ sudo python -m pip install  --upgrade twine
 
 ###  Folder Structure:
 
-![](../../../.gitbook/assets/image%20%2877%29.png)
+![](../../../.gitbook/assets/image%20%2880%29.png)
 
 1. Create a folder with the 'package-name' as the title
 2. Create a file named `__init__.py`. This will establish the package. You can use other way's but this is a standard and preferred way.
@@ -76,7 +76,7 @@ python setup.py bdist_wheel
 
 This will create the following folders:
 
-![](../../../.gitbook/assets/image%20%28123%29.png)
+![](../../../.gitbook/assets/image%20%28128%29.png)
 
 ### Test in local machine:
 
@@ -114,7 +114,7 @@ python -m twine upload dist/*
 
 This will upload the package to PyPi:
 
-![](../../../.gitbook/assets/image%20%2896%29.png)
+![](../../../.gitbook/assets/image%20%28100%29.png)
 
 Try `pip install pyawscli`
 

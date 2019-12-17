@@ -20,5 +20,9 @@
 
 {% embed url="https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/" %}
 
+## Question/Answer:
+
+{% embed url="https://www.docker.com/blog/top-questions-containers-and-vms-together/" %}
+
 
 
