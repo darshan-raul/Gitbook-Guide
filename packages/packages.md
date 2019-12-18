@@ -1,4 +1,4 @@
-# Packages
+# Python
 
 ## APIS:
 
@@ -49,6 +49,14 @@
 {% embed url="https://you-get.org/" %}
 
 {% embed url="https://github.com/ytdl-org/youtube-dl/blob/master/README.md\#readme" %}
+
+## FAKE DATA:
+
+{% embed url="https://github.com/joke2k/faker" %}
+
+{% embed url="https://github.com/lk-geimfari/mimesis" %}
+
+
 
 ## DATA VISUALIZATION:
 

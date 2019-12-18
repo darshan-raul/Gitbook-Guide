@@ -48,5 +48,9 @@
 
 {% embed url="https://github.com/k4m4/terminals-are-sexy" %}
 
+## Testing:
+
+{% embed url="https://github.com/ligurio/awesome-software-quality" %}
+
 
 

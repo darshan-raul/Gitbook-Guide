@@ -60,9 +60,10 @@
 * [AWS CLI](documentation/aws-cli/README.md)
   * [AWS IAM](documentation/aws-cli/aws-iam.md)
 
-## Python packages
+## Packages/Binaries <a id="packages"></a>
 
-* [Packages](python-packages/packages.md)
+* [Python](packages/packages.md)
+* [Devops](packages/devops.md)
 
 ## MASTERY PLAN
 
