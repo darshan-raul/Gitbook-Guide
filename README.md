@@ -14,6 +14,8 @@ This guide contains all the useful links to various resources to help grow knowl
 
 ![](.gitbook/assets/screencapture-plutora-ci-cd-tools-2019-04-20-09_53_36.png)
 
+![](.gitbook/assets/ctpic1.png)
+
 ![](.gitbook/assets/el6-dwbwoaapgql.png)
 
 [https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf](https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf)
