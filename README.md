@@ -4,8 +4,6 @@ This guide contains all the useful links to various resources to help grow knowl
 
 ![](.gitbook/assets/image%20%2829%29.png)
 
-![](.gitbook/assets/image%20%2884%29.png)
-
 ![](.gitbook/assets/image%20%2851%29.png)
 
 ## DevOps is a set of practices that emphasize the collaboration and communication of both Software Engineers and IT & Infrastructure Operations to reduce the time to market of a Product.
@@ -15,6 +13,8 @@ This guide contains all the useful links to various resources to help grow knowl
 {% embed url="https://www.plutora.com/ci-cd-tools" %}
 
 ![](.gitbook/assets/screencapture-plutora-ci-cd-tools-2019-04-20-09_53_36.png)
+
+![](.gitbook/assets/el6-dwbwoaapgql.png)
 
 [https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf](https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf)
 

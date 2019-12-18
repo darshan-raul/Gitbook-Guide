@@ -7,6 +7,7 @@
 * [Guides](guides.md)
 * [Learn by playing game](learn-by-playing-game.md)
 * [Cheat Sheets](cheat-sheets.md)
+* [Quotes](quotes.md)
 
 ## Articles
 

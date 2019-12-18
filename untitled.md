@@ -24,6 +24,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=GBOroGozm5w" %}
 
+{% embed url="https://www.youtube.com/watch?v=jUXiOPTX9S4&feature=youtu.be" %}
+
 
 
 ### Security:
@@ -99,6 +101,10 @@
 
 
 ## Git & Version Control:
+
+{% embed url="https://www.youtube.com/watch?v=yI0BtEzdGtw" %}
+
+
 
 ## Web Servers:
 
