@@ -114,6 +114,10 @@
 
 {% embed url="https://github.com/Miserlou/Zappa" %}
 
+{% embed url="https://github.com/aws/chalice" %}
+
+{% embed url="https://github.com/awslabs/aws-sam-cli" %}
+
 
 
 ## TEMPLATE MAKING:
