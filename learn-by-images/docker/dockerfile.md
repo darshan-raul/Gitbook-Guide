@@ -1,6 +1,6 @@
 # Dockerfile
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 {% embed url="https://medium.com/better-programming/docker-tips-about-the-build-context-dbc76505e178?" %}
 
@@ -10,13 +10,13 @@
 
 
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28116%29.png)
 
 ### MultiStage builds:
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
-![](../../.gitbook/assets/image%20%28159%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
