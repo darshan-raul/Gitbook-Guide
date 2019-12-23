@@ -16,17 +16,17 @@ Referring : [https://code.visualstudio.com/docs/editor/versioncontrol](https://c
 
 `git add .` and then  `git commit -m "<commit-message>"` . EVERYTIME ! HELL NO! 
 
-![](../../../.gitbook/assets/image%20%28108%29.png)
+![](../../../.gitbook/assets/image%20%28112%29.png)
 
 This is where my changes were visible whenever I made any changes in any file.
 
-![](../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../.gitbook/assets/image%20%2816%29.png)
 
 Clicking on the files will open a nice working tree where I am easily able to see what was added or what was deleted from the code.
 
 Now these files have to be staged before you can commit. 
 
-![1. Click stage changes 2. The staged changes will be visible](../../../.gitbook/assets/image%20%28135%29.png)
+![1. Click stage changes 2. The staged changes will be visible](../../../.gitbook/assets/image%20%28141%29.png)
 
 This is great when you only add stage the changes you want to commit. But not us ;\) I almost always stage everything and commit everything as those are the changes I intended to be version controlled. Maybe the above usecase may apply to me in some project but not now. Hence 
 
@@ -36,13 +36,13 @@ So now when I commit everytime , all the changes get staged and are directly com
 
 ### Committing and pushing:
 
-![1. Click the commit button 2.Write the commit message and hit enter](../../../.gitbook/assets/image%20%2865%29.png)
+![1. Click the commit button 2.Write the commit message and hit enter](../../../.gitbook/assets/image%20%2869%29.png)
 
 It's that straight forward ! and that's what I love about vscode. No wonder they are the best at what they do. 
 
 **Next pushing to remote:**
 
-![](../../../.gitbook/assets/image%20%2874%29.png)
+![](../../../.gitbook/assets/image%20%2878%29.png)
 
 All you have to do is click the push button and all the commit's will be pushed to the remote master branch. Notice the Alt+p Alt+p to the side of the push option ? That's the workaround !
 
@@ -63,15 +63,15 @@ As staging is done automatically when I commit I donot have to think about that 
 
 **Lets create a keybinding for git commit:**
 
-![Go To File&amp;gt;Preferences&amp;gt;Keyboard Shortcuts](../../../.gitbook/assets/image%20%2851%29.png)
+![Go To File&amp;gt;Preferences&amp;gt;Keyboard Shortcuts](../../../.gitbook/assets/image%20%2855%29.png)
 
-![1. Type git commit in the filter box 2. Click the add button to assign a key binding](../../../.gitbook/assets/image%20%2822%29.png)
+![1. Type git commit in the filter box 2. Click the add button to assign a key binding](../../../.gitbook/assets/image%20%2824%29.png)
 
  It will open a dialogbox for the commands. Just click the button combination son the keyboard and you are all set.
 
-![I chose Alt+c two times to commit](../../../.gitbook/assets/image%20%2872%29.png)
+![I chose Alt+c two times to commit](../../../.gitbook/assets/image%20%2876%29.png)
 
-![](../../../.gitbook/assets/image%20%2892%29.png)
+![](../../../.gitbook/assets/image%20%2896%29.png)
 
 Did the same thing for git push.
 

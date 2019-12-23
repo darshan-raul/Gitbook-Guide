@@ -2,9 +2,9 @@
 
 This guide contains all the useful links to various resources to help grow knowledge regards to all Dev-ops related stuff.
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
-![](.gitbook/assets/image%20%2855%29.png)
+![](.gitbook/assets/image%20%2859%29.png)
 
 ## DevOps is a set of practices that emphasize the collaboration and communication of both Software Engineers and IT & Infrastructure Operations to reduce the time to market of a Product.
 
@@ -32,7 +32,7 @@ This guide contains all the useful links to various resources to help grow knowl
 
 ![](.gitbook/assets/0_2jc5-bialshdlfho.png)
 
-![](.gitbook/assets/image%20%28145%29.png)
+![](.gitbook/assets/image%20%28151%29.png)
 
 {% embed url="https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/" %}
 
