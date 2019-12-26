@@ -28,7 +28,7 @@ Now you will be able to see all the repo's in seperate folders:
 
 If you run `git status` after running the above command's you should be able to see something like this:
 
-![](../../../.gitbook/assets/image%20%28165%29.png)
+![](../../../.gitbook/assets/image%20%28166%29.png)
 
  Its time to add all to stage and commit it.
 

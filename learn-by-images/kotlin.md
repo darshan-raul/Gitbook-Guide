@@ -14,7 +14,7 @@
 
 ### var: Can be reassigned
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 ### Top level variable:
 
@@ -32,7 +32,7 @@
 
 ### When:
 
-![Similar to Switch statement in Java](../.gitbook/assets/image%20%28181%29.png)
+![Similar to Switch statement in Java](../.gitbook/assets/image%20%28182%29.png)
 
 So here if greeting is null then it will print Hi 
 

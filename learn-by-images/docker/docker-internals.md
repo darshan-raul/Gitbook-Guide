@@ -22,7 +22,7 @@ Then:
 
 \*\*\*\*[**https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt**](https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt)\*\*\*\*
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 ![](../../.gitbook/assets/image%20%2858%29.png)
 
@@ -32,7 +32,7 @@ Then:
 
 ![](../../.gitbook/assets/image%20%28123%29.png)
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](../../.gitbook/assets/image%20%28174%29.png)
 
 ![](../../.gitbook/assets/image%20%2868%29.png)
 

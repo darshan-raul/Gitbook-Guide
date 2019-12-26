@@ -2,7 +2,7 @@
 
 ## HTTPS:
 
-![](../.gitbook/assets/image%20%28164%29.png)
+![](../.gitbook/assets/image%20%28165%29.png)
 
 How to apply for https certificate:
 
