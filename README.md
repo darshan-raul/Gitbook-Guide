@@ -14,7 +14,7 @@ This guide contains all the useful links to various resources to help grow knowl
 
 ![](.gitbook/assets/screencapture-plutora-ci-cd-tools-2019-04-20-09_53_36.png)
 
-![](.gitbook/assets/image%20%28156%29.png)
+![](.gitbook/assets/image%20%28157%29.png)
 
 ![](.gitbook/assets/ctpic1.png)
 
@@ -34,7 +34,7 @@ This guide contains all the useful links to various resources to help grow knowl
 
 ![](.gitbook/assets/0_2jc5-bialshdlfho.png)
 
-![](.gitbook/assets/image%20%28151%29.png)
+![](.gitbook/assets/image%20%28152%29.png)
 
 {% embed url="https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/" %}
 

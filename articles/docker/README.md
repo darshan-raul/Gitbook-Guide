@@ -1,5 +1,11 @@
 # Docker
 
+## Debugging:
+
+{% embed url="https://dev.to/agiratech/debugging-python-code-running-in-docker-container-3b80" %}
+
+
+
 ## Security:
 
 {% embed url="https://deepsource.io/blog/release-dockerfile-static-analysis/" %}
@@ -29,6 +35,10 @@
 ## Question/Answer:
 
 {% embed url="https://www.docker.com/blog/top-questions-containers-and-vms-together/" %}
+
+## Tips 
+
+{% embed url="https://dev.to/hasurahq/how-to-write-dockerfiles-for-python-web-apps-5bmn" %}
 
 
 

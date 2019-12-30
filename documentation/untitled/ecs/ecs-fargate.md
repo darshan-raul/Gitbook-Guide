@@ -6,9 +6,9 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :\)
 
-![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%28172%29.png)
+![The benifits look amazing compared to running normal ECS on EC2](../../../.gitbook/assets/image%20%28173%29.png)
 
-![](../../../.gitbook/assets/image%20%28128%29.png)
+![](../../../.gitbook/assets/image%20%28129%29.png)
 
 Lets get our hands dirty :
 
@@ -16,7 +16,7 @@ Lets get our hands dirty :
 
 Go to the Get started page and click edit on the container definition section.
 
-![](../../../.gitbook/assets/image%20%28158%29.png)
+![](../../../.gitbook/assets/image%20%28159%29.png)
 
 1. Give the container a name
 2. Give the image name. My AWSapi image on dockerhub in this case
@@ -32,7 +32,7 @@ I am avoiding them and click update.
 
 You should be able to see your container highlighted here. Confirm the image/cpu settings before moving ahead. We will be changing that in the next step.
 
-![](../../../.gitbook/assets/image%20%28144%29.png)
+![](../../../.gitbook/assets/image%20%28145%29.png)
 
 Click edit on the task definition. **Task Definition is like the blueprint of the application.**
 
@@ -77,7 +77,7 @@ This status page will open showing the progress in preparing the service.
 
 If all goes well, You should be able to see everything green :\) Click 'View Service'
 
-![](../../../.gitbook/assets/image%20%28137%29.png)
+![](../../../.gitbook/assets/image%20%28138%29.png)
 
 Three things to notice on the main page here:
 
@@ -87,27 +87,27 @@ Three things to notice on the main page here:
 
  
 
-![](../../../.gitbook/assets/image%20%2888%29.png)
+![](../../../.gitbook/assets/image%20%2889%29.png)
 
 Tasks are in pending state
 
-![](../../../.gitbook/assets/image%20%28116%29.png)
+![](../../../.gitbook/assets/image%20%28117%29.png)
 
 Meanwhile on Cloudformation console you can see the stack created
 
-![](../../../.gitbook/assets/image%20%2892%29.png)
+![](../../../.gitbook/assets/image%20%2893%29.png)
 
 My containers kept failing for the above reason.
 
 ![](../../../.gitbook/assets/image%20%2818%29.png)
 
-![](../../../.gitbook/assets/image%20%28103%29.png)
+![](../../../.gitbook/assets/image%20%28104%29.png)
 
 Temporarily deleted the cluster 
 
-![](../../../.gitbook/assets/image%20%28176%29.png)
+![](../../../.gitbook/assets/image%20%28177%29.png)
 
-![](../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../.gitbook/assets/image%20%28111%29.png)
 
 Went to task definition's and created new revision. Made some tweaks to the memory section.
 

@@ -131,7 +131,7 @@ pip install -r requirements.txt
 
 This would be the initial folder structure:
 
-![](../../../.gitbook/assets/image%20%28124%29.png)
+![](../../../.gitbook/assets/image%20%28125%29.png)
 
 Lets have a look at `app.py`
 
@@ -225,11 +225,11 @@ You should be able to view the stacks you will be creating `aws-cdk-example` in 
 
 `cdk synth` to view the cloudformation template that will be created from this code.
 
-![](../../../.gitbook/assets/image%20%28125%29.png)
+![](../../../.gitbook/assets/image%20%28126%29.png)
 
 `cdk deploy` to deploy the stack
 
-![](../../../.gitbook/assets/image%20%28135%29.png)
+![](../../../.gitbook/assets/image%20%28136%29.png)
 
 You will be able to see the changes in the cloudformation console and the bucket will also be created.
 
@@ -253,7 +253,7 @@ bucket = s3.Bucket(self,
 
 Now run `cdk diff`
 
-![](../../../.gitbook/assets/image%20%2889%29.png)
+![](../../../.gitbook/assets/image%20%2890%29.png)
 
 You will see that it actually tracks that resource and shows what is going to change!! Somewhat similar to terraform state.
 

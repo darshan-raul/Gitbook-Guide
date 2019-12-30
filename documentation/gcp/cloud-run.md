@@ -12,6 +12,6 @@ The Cloud Run API will be enabled and this main dashboard will be visible. I go 
 
 The following form appeared:
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 1. 

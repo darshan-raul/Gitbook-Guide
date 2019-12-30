@@ -8,5 +8,9 @@
 
 {% embed url="https://www.c0ffee.net/blog/mail-server-guide/" caption="mail server" %}
 
+## REPL:
+
+{% embed url="https://www.freecodecamp.org/news/this-is-why-your-read-eval-print-loop-is-so-amazing-cf0362003983/" %}
+
 
 

@@ -6,9 +6,9 @@ So I am creating a gitfolio site which will display all my public repositories i
 
 ![Created a  new repo in github where all the repo&apos;s will be stored](../../../.gitbook/assets/image%20%2846%29.png)
 
-![Copy this URL ](../../../.gitbook/assets/image%20%28153%29.png)
+![Copy this URL ](../../../.gitbook/assets/image%20%28154%29.png)
 
-![clone the repo in your machine](../../../.gitbook/assets/image%20%28150%29.png)
+![clone the repo in your machine](../../../.gitbook/assets/image%20%28151%29.png)
 
 Now we are going to use a new git concept called as "submodule" . More here :[https://git-scm.com/docs/git-submodule](https://git-scm.com/docs/git-submodule)
 
@@ -28,7 +28,7 @@ Now you will be able to see all the repo's in seperate folders:
 
 If you run `git status` after running the above command's you should be able to see something like this:
 
-![](../../../.gitbook/assets/image%20%28166%29.png)
+![](../../../.gitbook/assets/image%20%28167%29.png)
 
  Its time to add all to stage and commit it.
 
