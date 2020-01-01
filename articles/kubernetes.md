@@ -1,5 +1,17 @@
 # Kubernetes
 
+## Course:
+
+{% embed url="https://dev.to/javascript\_tuto/the-best-free-kubernetes-courses-for-beginners-1p70" %}
+
+
+
+## Log aggregation:
+
+{% embed url="https://dev.to/bnevilleoneill/kubernetes-log-aggregation-eof" %}
+
+
+
 ## Notes:
 
 {% embed url="https://dev.to/boncheff/certified-kubernetes-application-developer-notes-10i1" %}
