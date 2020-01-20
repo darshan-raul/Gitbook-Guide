@@ -12,6 +12,10 @@ This guide contains all the useful links to various resources to help grow knowl
 
 {% embed url="https://www.plutora.com/ci-cd-tools" %}
 
+{% embed url="https://www.thedevcoach.co.uk/cloud-engineers-code/" %}
+
+
+
 ![](.gitbook/assets/screencapture-plutora-ci-cd-tools-2019-04-20-09_53_36.png)
 
 ![](.gitbook/assets/image%20%28157%29.png)
