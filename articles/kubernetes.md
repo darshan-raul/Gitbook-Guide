@@ -2,6 +2,8 @@
 
 {% embed url="https://twitter.com/a\_sykim/status/1220350568436326401" %}
 
+{% embed url="https://medium.com/@derpauli/serverless-all-the-things-gitops-using-jenkins-x-on-aws-eks-80f80cea81ca" %}
+
 
 
 ## Course:
