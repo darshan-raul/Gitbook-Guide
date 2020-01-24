@@ -46,6 +46,8 @@ This guide contains all the useful links to various resources to help grow knowl
 
 {% embed url="https://dev.to/pavanbelagatti/seven-must-join-devops-groups-on-linkedin-173o" %}
 
+{% embed url="https://archives.flockport.com/lxc-vs-docker/" %}
+
 
 
 1. DevOps is not an individual role, it is a group effort.

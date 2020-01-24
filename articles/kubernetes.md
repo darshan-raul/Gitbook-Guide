@@ -1,5 +1,9 @@
 # Kubernetes
 
+{% embed url="https://twitter.com/a\_sykim/status/1220350568436326401" %}
+
+
+
 ## Course:
 
 {% embed url="https://dev.to/javascript\_tuto/the-best-free-kubernetes-courses-for-beginners-1p70" %}
