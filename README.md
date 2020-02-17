@@ -8,6 +8,8 @@ This guide contains all the useful links to various resources to help grow knowl
 
 ## DevOps is a set of practices that emphasize the collaboration and communication of both Software Engineers and IT & Infrastructure Operations to reduce the time to market of a Product.
 
+DevOps is a process that emphasizes communication and learning from a technical standpoint between software developers and IT professionals, like dev and ops, managing production environments, while automating the deployment of software and infrastructure changes with utmost care and collaboration. At the core, DevOps means combining development and operations into one unified team so that continuous process of learning, knowledge sharing, and shared responsibilities happen seamlessly between the two. The idea of DevOps grew out of the Agile methodology and first gained attention in 2009.
+
 {% embed url="https://www.codeproject.com/Articles/1394594/Devops-The-Big-Picture" %}
 
 {% embed url="https://www.plutora.com/ci-cd-tools" %}
@@ -45,6 +47,8 @@ This guide contains all the useful links to various resources to help grow knowl
 {% embed url="https://frontendmasters.com/books/front-end-handbook/2019/\#1" %}
 
 {% embed url="https://dev.to/pavanbelagatti/seven-must-join-devops-groups-on-linkedin-173o" %}
+
+{% embed url="https://archives.flockport.com/lxc-vs-docker/" %}
 
 
 
