@@ -16,6 +16,8 @@ DevOps is a process that emphasizes communication and learning from a technical 
 
 {% embed url="https://www.thedevcoach.co.uk/cloud-engineers-code/" %}
 
+{% embed url="https://techbeacon.com/devops/devops-100-top-leaders-practitioners-experts-follow" %}
+
 
 
 ![](.gitbook/assets/screencapture-plutora-ci-cd-tools-2019-04-20-09_53_36.png)

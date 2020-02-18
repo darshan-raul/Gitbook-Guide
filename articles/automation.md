@@ -4,7 +4,5 @@
 
 {% embed url="https://www.botmetric.com/blog/aws-cloud-automation-python-boto3-scripts/" %}
 
-{% embed url="https://dev.to/xanderyzwich/my-introduction-to-jenkins-2gnj" %}
-
 
 
