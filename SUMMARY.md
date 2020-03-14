@@ -4,7 +4,7 @@
 * [Youtube Links](untitled.md)
 * [Miscellaneous useful Links](useful-links/README.md)
   * [Softwares](useful-links/untitled.md)
-* [Guides](guides.md)
+* [Guides](guides/README.md)
   * [Computer Networking](guides/computer-networking.md)
 * [Learn by playing game](learn-by-playing-game.md)
 * [Cheat Sheets](cheat-sheets.md)

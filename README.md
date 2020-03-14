@@ -28,6 +28,8 @@ DevOps is a process that emphasizes communication and learning from a technical 
 
 ![](.gitbook/assets/el6-dwbwoaapgql.png)
 
+![](.gitbook/assets/55-the-missing-map-for-containers-in-production-highres-map.png)
+
 [https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf](https://xebialabs.com/assets/files/whitepapers/IT-Managers-Guide-to-DevOps.pdf)
 
 [https://stackify.com/top-devops-tools/](https://stackify.com/top-devops-tools/)
