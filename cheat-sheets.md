@@ -8,5 +8,9 @@
 
 {% embed url="https://github.com/wilfredinni/javascript-cheatsheet" %}
 
+Status code
+
+{% embed url="https://dev.to/khaosdoctor/the-complete-guide-to-status-codes-for-meaningful-rest-apis-1-5c5" %}
+
 
 
