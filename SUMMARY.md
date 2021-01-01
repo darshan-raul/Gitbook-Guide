@@ -14,7 +14,8 @@
 
 * [Blogs](articles/blogs.md)
 * [Security](articles/untitled.md)
-* [AWS](articles/aws.md)
+* [AWS](articles/aws/README.md)
+  * [Lambda](articles/aws/lambda.md)
 * [Docker](articles/docker/README.md)
   * [Docker Swarm Part 1: Creating swarm from container image](articles/docker/docker-swarm-part-1-creating-swarm-from-container-image.md)
 * [Automation:](articles/automation.md)
