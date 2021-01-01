@@ -128,7 +128,7 @@ aws cloudtrail delete-trail --name awscloudtrail-example
 
 ## Creating a Trail for an Organization <a id="creating-trail-organization"></a>
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 ```text
 aws organizations enable-all-features
@@ -220,3 +220,4 @@ You can configure a trail to use an Amazon SNS topic.
     </tr>
   </tbody>
 </table>
+

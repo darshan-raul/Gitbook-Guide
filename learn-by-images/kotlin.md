@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%28139%29.png)
 
 ## Variables:
 
@@ -14,7 +14,7 @@
 
 ### var: Can be reassigned
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28170%29.png)
 
 ### Top level variable:
 
@@ -22,7 +22,7 @@
 
 ### nullable string: \(? is used after data type\) : Can be null or value too 
 
-![](../.gitbook/assets/image%20%28120%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 ## Conditionals:
 
@@ -32,7 +32,7 @@
 
 ### When:
 
-![Similar to Switch statement in Java](../.gitbook/assets/image%20%28183%29.png)
+![Similar to Switch statement in Java](../.gitbook/assets/image%20%28181%29.png)
 
 So here if greeting is null then it will print Hi 
 

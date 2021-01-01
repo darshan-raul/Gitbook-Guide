@@ -4,11 +4,11 @@ So I am creating a gitfolio site which will display all my public repositories i
 
 ### Creating the Main repository and cloning it :
 
-![Created a  new repo in github where all the repo&apos;s will be stored](../../../.gitbook/assets/image%20%2846%29.png)
+![Created a  new repo in github where all the repo&apos;s will be stored](../../../.gitbook/assets/image%20%2841%29.png)
 
-![Copy this URL ](../../../.gitbook/assets/image%20%28154%29.png)
+![Copy this URL ](../../../.gitbook/assets/image%20%28144%29.png)
 
-![clone the repo in your machine](../../../.gitbook/assets/image%20%28151%29.png)
+![clone the repo in your machine](../../../.gitbook/assets/image%20%28141%29.png)
 
 Now we are going to use a new git concept called as "submodule" . More here :[https://git-scm.com/docs/git-submodule](https://git-scm.com/docs/git-submodule)
 
@@ -22,13 +22,13 @@ git submodule add <repo url>
 
 Now you will be able to see all the repo's in seperate folders:
 
-![All the repos as folders in this main repo](../../../.gitbook/assets/image%20%2866%29.png)
+![All the repos as folders in this main repo](../../../.gitbook/assets/image%20%2860%29.png)
 
 ### Commit everything and push to Github
 
 If you run `git status` after running the above command's you should be able to see something like this:
 
-![](../../../.gitbook/assets/image%20%28167%29.png)
+![](../../../.gitbook/assets/image%20%28155%29.png)
 
  Its time to add all to stage and commit it.
 
@@ -36,11 +36,11 @@ After `git add .` and `git commit -m "added all repos"`
 
 Your master branch must be clean in git status.
 
-![](../../../.gitbook/assets/image%20%2844%29.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 
 Now just push it to github. `git push origin master` should do it if git is properly configured in your system.
 
-![All the repo&apos;s will be in a single repo. ](../../../.gitbook/assets/image%20%2850%29.png)
+![All the repo&apos;s will be in a single repo. ](../../../.gitbook/assets/image%20%2845%29.png)
 
 
 
