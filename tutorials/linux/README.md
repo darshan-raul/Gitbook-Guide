@@ -1,5 +1,21 @@
 # Linux
 
+## Start Here!
+
+Absolutely the best place to start your linux journey :\)
+
+{% embed url="https://linuxjourney.com/" %}
+
+
+
+## Main guide
+
+Will take time, 4 months maybe, but if you dedicate just 4 hours a week, in 4-5 months, you can be assured that you will never be frightened by a 'linux issue'
+
+**Tip: There are 6 books, rotate your hour of learning between them so that you cover ground on each sitting.**
+
+{% embed url="http://linux-training.be/" %}
+
 ## Commands
 
 Master this, read them everyday until they are imprinted for life.
@@ -12,11 +28,7 @@ Will make you  a master of using linux practically. Give it a brisk read in one 
 
 extra: [http://dsl.org/cookbook/cookbook\_toc.html](http://dsl.org/cookbook/cookbook_toc.html)
 
-## Main guide
-
-Will take time, 4 months maybe, but if you dedicate just 4 hours a week, in 4-5 months, you can be assured that you will never be frightened by a 'linux issue'
-
-{% embed url="http://linux-training.be/" %}
+{% embed url="http://cristal.inria.fr/~weis/info/commandline.html" %}
 
 
 
