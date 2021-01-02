@@ -2,6 +2,8 @@
 
 {% embed url="https://slack.engineering/deploys-at-slack-cd0d28c61701" %}
 
+{% embed url="https://dev.to/panx/50-free-awesome-certificates-to-earn-in-2021-2l7g" %}
+
 
 
 {% embed url="https://spin.atomicobject.com/2019/11/10/learning-to-sail-building-software/\#.Xcid8G0SnFY.hackernews" %}
