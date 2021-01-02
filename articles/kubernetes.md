@@ -4,6 +4,20 @@
 
 {% embed url="https://medium.com/@derpauli/serverless-all-the-things-gitops-using-jenkins-x-on-aws-eks-80f80cea81ca" %}
 
+## Basics:
+
+{% embed url="https://www.freecodecamp.org/news/kubernetes-vs-docker-whats-the-difference-explained-with-examples/" %}
+
+
+
+## Usecases:
+
+{% embed url="https://h1dd3nbl4d3.medium.com/kubernetes-case-study-on-spotify-f4a1fcd6f879" %}
+
+{% embed url="https://ghorpademangesh17.medium.com/case-study-kubernetes-b6ed30cf4e5b" %}
+
+{% embed url="https://medium.com/@sakshijadhav792/industry-use-cases-for-kubernetes-22dd8e40de6f" %}
+
 
 
 ## Course:
@@ -25,6 +39,10 @@
 
 
 ## Monitoring
+
+{% embed url="https://www.circonus.com/2020/12/12-critical-kubernetes-health-conditions-you-need-to-monitor-and-why/" %}
+
+
 
 {% embed url="https://logz.io/blog/deploying-the-elk-stack-on-kubernetes-with-helm/" %}
 

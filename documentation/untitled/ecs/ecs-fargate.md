@@ -1,4 +1,4 @@
-# ECS Fargate
+# ECS Fargate blog
 
 AWS Fargate :Run containers without managing servers or clusters
 

@@ -18,7 +18,8 @@
   * [Lambda](articles/aws/lambda.md)
 * [Docker](articles/docker/README.md)
   * [Docker Swarm Part 1: Creating swarm from container image](articles/docker/docker-swarm-part-1-creating-swarm-from-container-image.md)
-* [Automation:](articles/automation.md)
+* [Automation:](articles/automation/README.md)
+  * [Postman](articles/automation/postman.md)
 * [Serverless](articles/serverless.md)
 * [Python](articles/python.md)
 * [Monitoring](articles/monitoring.md)
@@ -26,6 +27,8 @@
 * [Ansible/Puppet](articles/ansible-puppet.md)
 * [Kubernetes](articles/kubernetes.md)
 * [Coding practices:](articles/coding-practices.md)
+* [CI/CD](articles/ci-cd/README.md)
+  * [Continuous Integration](articles/ci-cd/continuous-integration.md)
 
 ## STACK OVERFLOW
 
@@ -53,7 +56,7 @@
   * [EFS](documentation/untitled/efs.md)
   * [EKS](documentation/untitled/eks.md)
   * [ECS](documentation/untitled/ecs/README.md)
-    * [ECS Fargate](documentation/untitled/ecs/ecs-fargate.md)
+    * [ECS Fargate blog](documentation/untitled/ecs/ecs-fargate.md)
     * [Normal ECS](documentation/untitled/ecs/normal-ecs.md)
   * [Cloudformation](documentation/untitled/cloudformation.md)
   * [S3](documentation/untitled/untitled/README.md)
