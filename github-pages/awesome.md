@@ -2,6 +2,8 @@
 
 {% embed url="https://github.com/trimstray/the-book-of-secret-knowledge" %}
 
+{% embed url="https://github.com/awesome-selfhosted/awesome-selfhosted" %}
+
 
 
 {% embed url="https://github.com/sindresorhus/awesome" %}
