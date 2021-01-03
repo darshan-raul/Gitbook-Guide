@@ -13,6 +13,7 @@
 ## Tutorials
 
 * [Git](tutorials/git.md)
+* [Docker](tutorials/docker.md)
 * [Linux](tutorials/linux/README.md)
   * [Editors](tutorials/linux/editors/README.md)
     * [Vim](tutorials/linux/editors/vim.md)
