@@ -128,3 +128,7 @@
 * [Security](learn-by-images/security.md)
 * [Kotlin](learn-by-images/kotlin.md)
 
+## Command line
+
+* [Shortcuts](command-line/shortcuts.md)
+

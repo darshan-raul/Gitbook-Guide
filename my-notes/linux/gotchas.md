@@ -9,6 +9,7 @@
   * any hard disk or partition \(for example /dev/sdb1\) and 
   * any process are all represented somewhere in the file system as a file.
 * The file utility determines the file type. Linux does not use extensions to determine the file type. The command line does not care whether a file ends in .txt or .pdf. As a system administrator, you should use the file command to determine the file type.
-
+* There are some differences in the filesystems between Linux distributions. For help about your machine, enter **man hier**
+* 
 
 
