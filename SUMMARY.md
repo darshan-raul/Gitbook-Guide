@@ -10,11 +10,12 @@
 * [Cheat Sheets](cheat-sheets.md)
 * [Quotes](quotes.md)
 
-## Tutorials
+## Tutorials/guides <a id="tutorials"></a>
 
 * [Git](tutorials/git.md)
 * [Docker](tutorials/docker.md)
 * [Linux](tutorials/linux/README.md)
+  * [Boot process](tutorials/linux/boot-process.md)
   * [Editors](tutorials/linux/editors/README.md)
     * [Vim](tutorials/linux/editors/vim.md)
 
