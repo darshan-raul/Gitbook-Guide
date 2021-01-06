@@ -2,7 +2,7 @@
 
 ## Begin here
 
-Will cover almost every concept you will ever need. should take max a week to complete while absorbing and is the best choice if technical books bore you to death.
+Will cover almost every concept you will ever need practically and a lot of advanced stuff too. should take max a week to complete while absorbing and is the best choice if technical books bore you to death.
 
 {% embed url="https://www.atlassian.com/git" %}
 
@@ -24,9 +24,21 @@ Playground:
 
 {% embed url="https://git-scm.com/book/en/v2" %}
 
+{% embed url="https://github.com/k88hudson/git-flight-rules" %}
+
+
+
 ## Cheatsheets
 
 {% embed url="https://training.github.com/downloads/github-git-cheat-sheet/" %}
+
+## Miscellaneous:
+
+Git ignore cheatsheets:
+
+{% embed url="https://www.atlassian.com/git/tutorials/saving-changes/gitignore" %}
+
+{% embed url="https://github.com/kenmueller/gitignore" %}
 
 
 
