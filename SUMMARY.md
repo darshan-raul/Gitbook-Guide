@@ -82,6 +82,7 @@
   * [Jenkins](my-notes/ci-cd/jenkins.md)
 * [SSH](my-notes/ssh.md)
 * [Linux](my-notes/linux/README.md)
+  * [Networking](my-notes/linux/networking.md)
   * [Gotchas](my-notes/linux/gotchas.md)
 * [AWS CLI](my-notes/aws-cli/README.md)
   * [AWS IAM](my-notes/aws-cli/aws-iam.md)
