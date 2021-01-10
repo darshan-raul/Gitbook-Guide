@@ -82,6 +82,8 @@
   * [Jenkins](my-notes/ci-cd/jenkins.md)
 * [SSH](my-notes/ssh.md)
 * [Linux](my-notes/linux/README.md)
+  * [LPIC](my-notes/linux/lpic/README.md)
+    * [LPIC-1](my-notes/linux/lpic/lpic-1.md)
   * [Networking](my-notes/linux/networking.md)
   * [Gotchas](my-notes/linux/gotchas.md)
 * [AWS CLI](my-notes/aws-cli/README.md)
