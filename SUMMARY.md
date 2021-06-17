@@ -135,3 +135,7 @@
 
 * [Shortcuts](command-line/shortcuts.md)
 
+## Video Session/notes
+
+* [Well Architectured Framework](video-session-notes/well-architectured-framework.md)
+
