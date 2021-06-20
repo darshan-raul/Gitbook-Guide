@@ -30,6 +30,8 @@
 
 ### Security:
 
+{% embed url="https://www.youtube.com/watch?v=E03gh1huvW4" %}
+
 ### Linux:
 
 {% embed url="https://www.youtube.com/watch?v=zRw0SKaXSfI&list=WL&index=317&t=0s" %}
