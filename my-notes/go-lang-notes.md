@@ -2,4 +2,6 @@
 
 ## References:
 
-[https://www.practical-go-lessons.com/](https://www.practical-go-lessons.com)
+{% embed url="https://www.practical-go-lessons.com" %}
+
+{% embed url="https://quii.gitbook.io/learn-go-with-tests" %}
