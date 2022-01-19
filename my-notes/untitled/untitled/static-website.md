@@ -1,6 +1,6 @@
 # Static Website
 
-So one of the best usecase for using S3 for hosting a static website is the huge cost savings due to it. I have direct experience of that after hosting a website for an NGO for over an year on S3. Normal bootstrap html, css, js files, No fancy single web page framework etc \(Though I have tried that too using gatsby js \(React Static website framework\)\).
+So one of the best usecase for using S3 for hosting a static website is the huge cost savings due to it. I have direct experience of that after hosting a website for an NGO for over an year on S3. Normal bootstrap html, css, js files, No fancy single web page framework etc (Though I have tried that too using gatsby js (React Static website framework)).
 
 But I wanted to take that a level up and use CDN and DNS server attached to it. Enter Route53 and AWS Cloudfront.
 
@@ -8,7 +8,7 @@ But I wanted to take that a level up and use CDN and DNS server attached to it. 
 
 Steps:
 
-![](../../../.gitbook/assets/s32.png)
+![](<../../../.gitbook/assets/s32 (1).png>)
 
 Go to Route53 and create a hosted zone
 
@@ -24,13 +24,13 @@ Once done this will be the default record sets of the hosted zones.
 
 ![](../../../.gitbook/assets/s35.png)
 
-In the NS \(Name server records\), Copy this name servers and replace your domain registrars name servers with this. Keep them the same if you used AWS for buying the domain.
+In the NS (Name server records), Copy this name servers and replace your domain registrars name servers with this. Keep them the same if you used AWS for buying the domain.
 
-![](../../../.gitbook/assets/s36.png)
+![](../../../.gitbook/assets/S36.png)
 
-On S3 end, Create a bucket of the same name as the domain name\(MANDATORY\) , Copy the website files in the bucket and in the Bucket policy , insert this policy
+On S3 end, Create a bucket of the same name as the domain name(MANDATORY) , Copy the website files in the bucket and in the Bucket policy , insert this policy
 
-```text
+```
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -78,11 +78,11 @@ The Distribution will be created.
 
 ![](../../../.gitbook/assets/s312.png)
 
-In the general properties section, Change the CNAME \(Alternate domain name\) to the Domain name \(in this case 'creates3staticwebsite.tk'\)
+In the general properties section, Change the CNAME (Alternate domain name) to the Domain name (in this case 'creates3staticwebsite.tk')
 
 ![](../../../.gitbook/assets/s313.png)
 
-That is it from the Cloudfront end. 
+That is it from the Cloudfront end.&#x20;
 
 Lets look at AWS Certificate manager to create a SSL certificate.
 
@@ -96,7 +96,7 @@ Select the DNS validation option
 
 ![](../../../.gitbook/assets/s316.png)
 
-The SSL certificate will be created. Now you can either manually enter a record for this in Route53 or in your own DNS server. 
+The SSL certificate will be created. Now you can either manually enter a record for this in Route53 or in your own DNS server.&#x20;
 
 But in my case I wanted to use it in Route53 ,So i used the inbuilt button to automatically add the record in route53.
 
@@ -118,7 +118,5 @@ and in the Route53 console,  create a record set and choose type A
 
 Choose Alias option as yes and choose the target as the cgn endpoint.
 
-Thats it. Give it some 10-15 minutes and then &gt;&gt;&gt; https://creates3staticwebsite.tk is live!
-
-
+Thats it. Give it some 10-15 minutes and then >>> https://creates3staticwebsite.tk is live!
 

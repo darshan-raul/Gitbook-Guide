@@ -8,11 +8,10 @@ CodeBuild provides these benefits:
 * **On demand** – CodeBuild scales on demand to meet your build needs. You pay only for the number of build minutes you consume.
 * **Out of the box** – CodeBuild provides preconfigured build environments for the most popular programming languages. All you need to do is point to your build script to start your first build.
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](<../.gitbook/assets/image (124).png>)
 
 ## Pricing:
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](<../.gitbook/assets/image (125).png>)
 
-![](../.gitbook/assets/image%20%2812%29%20%281%29.png)
-
+![](<../.gitbook/assets/image (126).png>)

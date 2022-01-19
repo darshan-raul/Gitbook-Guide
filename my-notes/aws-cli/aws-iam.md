@@ -1,6 +1,6 @@
 # AWS IAM
 
-## Users 
+## Users&#x20;
 
 **List all users:**
 
@@ -74,7 +74,5 @@
 
 `update-role --role-name <value> [--description <value>]`
 
-\*\*\*\*
-
-
+****
 

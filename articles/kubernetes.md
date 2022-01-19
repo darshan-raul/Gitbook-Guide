@@ -1,6 +1,6 @@
 # Kubernetes
 
-{% embed url="https://twitter.com/a\_sykim/status/1220350568436326401" %}
+{% embed url="https://twitter.com/a_sykim/status/1220350568436326401" %}
 
 {% embed url="https://medium.com/@derpauli/serverless-all-the-things-gitops-using-jenkins-x-on-aws-eks-80f80cea81ca" %}
 
@@ -8,7 +8,7 @@
 
 {% embed url="https://www.freecodecamp.org/news/kubernetes-vs-docker-whats-the-difference-explained-with-examples/" %}
 
-
+{% embed url="https://aveuiller.github.io/kubernetes_apprentice_cookbook.html" %}
 
 ## Usecases:
 
@@ -22,7 +22,7 @@
 
 ## Course:
 
-{% embed url="https://dev.to/javascript\_tuto/the-best-free-kubernetes-courses-for-beginners-1p70" %}
+{% embed url="https://dev.to/javascript_tuto/the-best-free-kubernetes-courses-for-beginners-1p70" %}
 
 
 
@@ -30,7 +30,7 @@
 
 {% embed url="https://dev.to/bnevilleoneill/kubernetes-log-aggregation-eof" %}
 
-
+{% embed url="https://codersociety.com/blog/articles/kubernetes-logging" %}
 
 ## Notes:
 
@@ -49,6 +49,4 @@
 ## Https
 
 {% embed url="https://dev.to/chrisme/setting-up-nginx-ingress-w-automatically-generated-letsencrypt-certificates-on-kubernetes-4f1k" %}
-
-
 

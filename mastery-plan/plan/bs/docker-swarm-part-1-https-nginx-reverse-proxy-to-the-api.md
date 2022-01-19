@@ -4,17 +4,17 @@ So in Part 1 , I covered the basics of Docker Swarm and created a working swarm 
 
 So in this part I will create another service which will be a Nginx reverse proxy for the API service. Here we go !
 
-![Setting up three servers in the swarm, 2 slaves 1 master](../../../.gitbook/assets/image%20%2844%29.png)
+![Setting up three servers in the swarm, 2 slaves 1 master](<../../../.gitbook/assets/image (83).png>)
 
-### 
+###
 
-### 
+###
 
 ### NGINX config file setup for reverse proxy
 
 This is the nginx config file to reverse proxy to the api container.
 
-```text
+```
 worker_processes 1;
 events { worker_connections 1024; }
 
@@ -52,7 +52,7 @@ Going through some important blocks in the configuration file:
 
 #### Upstream awsapi:
 
-```text
+```
 upstream docker-awsapi {
         server awsapi:8080;
     }
@@ -61,7 +61,7 @@ upstream docker-awsapi {
 
 This parameter is mostly used for load balancing in Nginx. For example:
 
-> ```text
+> ```
 > http {
 >     upstream myapp1 {
 >         server srv1.example.com;
@@ -79,11 +79,11 @@ This parameter is mostly used for load balancing in Nginx. For example:
 > }
 > ```
 
-In the example above, there are 3 instances of the same application running on srv1-srv3. When the load balancing method is not specifically configured, it defaults to round-robin. All requests are [proxied](http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_pass) to the server group myapp1, and nginx applies HTTP load balancing to distribute the requests.
+In the example above, there are 3 instances of the same application running on srv1-srv3. When the load balancing method is not specifically configured, it defaults to round-robin. All requests are [proxied](http://nginx.org/en/docs/http/ngx\_http\_proxy\_module.html#proxy\_pass) to the server group myapp1, and nginx applies HTTP load balancing to distribute the requests.
 
 #### Ports to listen and https certificate location
 
-```text
+```
         listen 80;
         listen 443 ssl;
 
@@ -93,11 +93,11 @@ In the example above, there are 3 instances of the same application running on s
         
 ```
 
-Here,  in the first two lines we are listening on port 80 and port 443 respectively. The later will be used for https purposes. Next we have the ssl certificate location and the ssl key location \(More on this later\). Lastly we have a server name: awsapi.com in this case.
+Here,  in the first two lines we are listening on port 80 and port 443 respectively. The later will be used for https purposes. Next we have the ssl certificate location and the ssl key location (More on this later). Lastly we have a server name: awsapi.com in this case.
 
 #### Mentioning reverse proxy to api server
 
-```text
+```
 location / {
             proxy_pass         http://docker-awsapi;
             proxy_redirect     off;
@@ -114,35 +114,35 @@ Now that the configuration file for nginx cotainer as reverse proxy is made. Let
 
 Here's how I have kept the structure for the code:
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](<../../../.gitbook/assets/image (84).png>)
 
 Go to the nginx folder
 
 `cd nginx`
 
-Create cert file and key 
+Create cert file and key&#x20;
 
 `openssl req -newkey rsa:2048 -nodes -keyout nginx/awsapi.com.key -x509 -days 365 -out nginx/awsapi.com.crt`
 
 You will have to fill in the following questions;
 
-1. Country Name \(2 letter code\)
-2. State or Province Name \(full name\)
-3. Locality Name \(eg, city\)
-4. Organization Name \(eg, company\)
-5. Organizational Unit Name \(eg, section\)
-6. Common Name \(eg, fully qualified host name\)
+1. Country Name (2 letter code)
+2. State or Province Name (full name)
+3. Locality Name (eg, city)
+4. Organization Name (eg, company)
+5. Organizational Unit Name (eg, section)
+6. Common Name (eg, fully qualified host name)
 7. Email Address
 
 Once done your folder structure should look like this:
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](<../../../.gitbook/assets/image (85).png>)
 
 ### Adding service in docker compose file:
 
 This was the previous docker-compose file:
 
-```text
+```
 version: '3.0'
 
 
@@ -176,7 +176,7 @@ networks:
 
 There was just one service with four replicas. This is the new docker-compose.yml
 
-```text
+```
 
 version: '3'
   
@@ -213,11 +213,10 @@ networks:
   aws_network:
 ```
 
-![](../../../.gitbook/assets/image%20%2810%29.png)
+![](<../../../.gitbook/assets/image (86).png>)
 
-![](../../../.gitbook/assets/image%20%2831%29%20%281%29.png)
+![](<../../../.gitbook/assets/image (87).png>)
 
-![](../../../.gitbook/assets/image%20%28161%29.png)
+![](<../../../.gitbook/assets/image (88).png>)
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
-
+![](<../../../.gitbook/assets/image (89).png>)

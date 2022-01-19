@@ -1,8 +1,12 @@
 # Guides
 
-{% embed url="https://jamielinux.com/docs/openssl-certificate-authority/" caption="open-ssl" %}
+{% embed url="https://jamielinux.com/docs/openssl-certificate-authority/" %}
+open-ssl
+{% endembed %}
 
-{% embed url="https://tls.ulfheim.net/" caption="tls" %}
+{% embed url="https://tls.ulfheim.net/" %}
+tls
+{% endembed %}
 
 ## SHELL SCRIPTING
 
@@ -14,7 +18,7 @@
 
 {% embed url="http://mywiki.wooledge.org/BashGuide" %}
 
-{% embed url="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html\#toc" %}
+{% embed url="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc" %}
 
 ## git
 
@@ -49,6 +53,4 @@
 ## AWS Solutions architect associate:
 
 {% embed url="https://github.com/alex067/AWS-Solutions-Architect-Associate-Study-Guide" %}
-
-
 

@@ -2,11 +2,17 @@
 
 ## APIS:
 
-{% embed url="https://github.com/googleapis/google-api-python-client" caption="GOOGLE API" %}
+{% embed url="https://github.com/googleapis/google-api-python-client" %}
+GOOGLE API
+{% endembed %}
 
-{% embed url="https://github.com/ryanmcgrath/twython" caption="TWITTER" %}
+{% embed url="https://github.com/ryanmcgrath/twython" %}
+TWITTER
+{% endembed %}
 
-{% embed url="https://github.com/burnash/gspread" caption="GOOGLE SHEETS" %}
+{% embed url="https://github.com/burnash/gspread" %}
+GOOGLE SHEETS
+{% endembed %}
 
 ## FAKE DATA/DATABASE:
 
@@ -48,7 +54,7 @@
 
 {% embed url="https://you-get.org/" %}
 
-{% embed url="https://github.com/ytdl-org/youtube-dl/blob/master/README.md\#readme" %}
+{% embed url="https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme" %}
 
 ## FAKE DATA:
 
@@ -100,7 +106,9 @@
 
 ## TESTING:
 
-{% embed url="https://github.com/cobrateam/splinter" caption="can also be used for browser automation" %}
+{% embed url="https://github.com/cobrateam/splinter" %}
+can also be used for browser automation
+{% endembed %}
 
 {% embed url="https://github.com/locustio/locust" %}
 
@@ -139,6 +147,4 @@
 ## multi cloud CLI:
 
 {% embed url="https://libcloud.apache.org/getting-started.html" %}
-
-
 

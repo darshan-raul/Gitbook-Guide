@@ -2,7 +2,5 @@
 
 Referred this playlist
 
-{% embed url="https://www.youtube.com/watch?v=Fov9nM-AbSw&list=PLD\_mb6U5Xp95cX\_CDO3Cg-p8370lPwRR2" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=Fov9nM-AbSw&list=PLD_mb6U5Xp95cX_CDO3Cg-p8370lPwRR2" %}
 

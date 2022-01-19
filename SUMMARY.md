@@ -10,7 +10,7 @@
 * [Cheat Sheets](cheat-sheets.md)
 * [Quotes](quotes.md)
 
-## Tutorials/guides <a id="tutorials"></a>
+## Tutorials/guides <a href="#tutorials" id="tutorials"></a>
 
 * [Git](tutorials/git.md)
 * [Docker](tutorials/docker.md)
@@ -88,8 +88,9 @@
   * [Gotchas](my-notes/linux/gotchas.md)
 * [AWS CLI](my-notes/aws-cli/README.md)
   * [AWS IAM](my-notes/aws-cli/aws-iam.md)
+* [Go Lang notes](my-notes/go-lang-notes.md)
 
-## Packages/Binaries <a id="packages"></a>
+## Packages/Binaries <a href="#packages" id="packages"></a>
 
 * [Python](packages/packages.md)
 * [Devops](packages/devops.md)
@@ -139,3 +140,8 @@
 
 * [Well Architectured Framework](video-session-notes/well-architectured-framework.md)
 
+## Group 1
+
+## Certifications
+
+* [Kubernetes](certifications/kubernetes.md)

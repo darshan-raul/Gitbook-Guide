@@ -10,7 +10,7 @@
 
 ## Containers:
 
-{% embed url="https://github.com/Friz-zy/awesome-linux-containers\#readme" %}
+{% embed url="https://github.com/Friz-zy/awesome-linux-containers#readme" %}
 
 
 
@@ -28,9 +28,13 @@
 
 
 
-{% embed url="https://github.com/kahun/awesome-sysadmin" caption="sysadmin" %}
+{% embed url="https://github.com/kahun/awesome-sysadmin" %}
+sysadmin
+{% endembed %}
 
-{% embed url="https://github.com/binhnguyennus/awesome-scalability" caption="Scalability" %}
+{% embed url="https://github.com/binhnguyennus/awesome-scalability" %}
+Scalability
+{% endembed %}
 
 ## Python:
 
@@ -53,6 +57,4 @@
 ## Testing:
 
 {% embed url="https://github.com/ligurio/awesome-software-quality" %}
-
-
 

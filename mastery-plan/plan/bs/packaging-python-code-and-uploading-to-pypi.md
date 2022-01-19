@@ -1,12 +1,12 @@
 # Packaging python code and uploading to PyPi
 
-Iam in the middle of creating a CLI application for AWS. Similar to awscli and other interesting cli application's around it :[https://github.com/donnemartin/awesome-aws\#cli](https://github.com/donnemartin/awesome-aws#cli), But in a more interactive way.
+Iam in the middle of creating a CLI application for AWS. Similar to awscli and other interesting cli application's around it :[https://github.com/donnemartin/awesome-aws#cli](https://github.com/donnemartin/awesome-aws#cli), But in a more interactive way.
 
 Here it is :
 
 {% embed url="https://github.com/darshan-raul/Python-CLI-for-AWS" %}
 
-It's still in its early phases hence I have not yet blogged about it. But before I could go any further in this project I wanted to know how to create a Pypi package so that some day someone would do  `pip install <my_cli_package_name>` 😉 
+It's still in its early phases hence I have not yet blogged about it. But before I could go any further in this project I wanted to know how to create a Pypi package so that some day someone would do  `pip install <my_cli_package_name>` :wink:&#x20;
 
 I referred these:
 
@@ -16,24 +16,24 @@ I referred these:
 
 **So here are the steps:**
 
-###  First make sure that you have the following packages installed:
+### &#x20;First make sure that you have the following packages installed:
 
-```text
+```
 sudo python -m pip install --upgrade pip setuptools wheel
 sudo python -m pip install tqdm
 sudo python -m pip install  --upgrade twine
 ```
 
-###  Folder Structure:
+### &#x20;Folder Structure:
 
-![](../../../.gitbook/assets/image%20%2884%29%20%281%29.png)
+![](<../../../.gitbook/assets/image (56).png>)
 
 1. Create a folder with the 'package-name' as the title
 2. Create a file named `__init__.py`. This will establish the package. You can use other way's but this is a standard and preferred way.
 3. Create a setup.py file which will be sued to create the pip wheel files .
 
-{% code title="\_\_init\_\_.py" %}
-```text
+{% code title="__init__.py" %}
+```
 def main():
     print ('Hi there')
        
@@ -44,7 +44,7 @@ if __name__ == '__main__':
 {% endcode %}
 
 {% code title="setup.py" %}
-```text
+```
 import setuptools
 
 with open("README.md", "r") as fh:
@@ -70,17 +70,17 @@ That's all that is needed for a basic package and then you can expand on the sam
 
 ### Create a wheel file:
 
-```text
+```
 python setup.py bdist_wheel
 ```
 
 This will create the following folders:
 
-![](../../../.gitbook/assets/image%20%28136%29.png)
+![](<../../../.gitbook/assets/image (58).png>)
 
 ### Test in local machine:
 
-```text
+```
 pip install dist/<wheel name>
 ```
 
@@ -95,7 +95,7 @@ You will receive a username and password. Save them as they will be needed to up
 ### Create .pypric file
 
 {% code title=".pypric" %}
-```text
+```
 [distutils] 
 index-servers=pypi
 [pypi] 
@@ -108,17 +108,15 @@ This file is essential for storing configuration of your Pypi account.
 
 ### Upload to PyPi:
 
-```text
+```
 python -m twine upload dist/*
 ```
 
 This will upload the package to PyPi:
 
-![](../../../.gitbook/assets/image%20%28106%29.png)
+![](<../../../.gitbook/assets/image (57).png>)
 
 Try `pip install pyawscli`
 
-It works :\)
-
-
+It works :)
 

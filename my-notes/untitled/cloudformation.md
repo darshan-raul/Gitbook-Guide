@@ -10,23 +10,23 @@
 
 ### Wordpress:
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/WordPress\_Single\_Instance.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/WordPress_Single_Instance.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/WordPress\_Multi\_AZ.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/WordPress_Multi_AZ.template" %}
 
 ### DynamoDB:
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/DynamoDB\_Table.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/DynamoDB_Table.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/DynamoDB\_Secondary\_Indexes.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/DynamoDB_Secondary_Indexes.template" %}
 
 ### EC2:
 
 {% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/EC2InstanceWithSecurityGroupSample.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/EIP\_With\_Association.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/EIP_With_Association.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/EC2\_Instance\_With\_Ephemeral\_Drives.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/EC2_Instance_With_Ephemeral_Drives.template" %}
 
 ### ELB:
 
@@ -36,47 +36,45 @@
 
 ### LAMP Stack:
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/LAMP\_Single\_Instance.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/LAMP_Single_Instance.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/LAMP\_Multi\_AZ.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/LAMP_Multi_AZ.template" %}
 
 ### RDS:
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/RDS\_PIOPS.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/RDS_PIOPS.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/RDS\_MySQL\_With\_Read\_Replica.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/RDS_MySQL_With_Read_Replica.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/RDS\_Snapshot\_On\_Delete.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/RDS_Snapshot_On_Delete.template" %}
 
 ### Route53:
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/Route53\_A.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/Route53_A.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/Route53\_CNAME.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/Route53_CNAME.template" %}
 
 ### Ruby on Rails:
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/Rails\_Single\_Instance.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/Rails_Single_Instance.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/Rails\_Multi\_AZ.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/Rails_Multi_AZ.template" %}
 
 ### S3:
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/S3\_Website\_Bucket\_With\_Retain\_On\_Delete.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/S3_Website_Bucket_With_Retain_On_Delete.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/S3\_Website\_With\_CloudFront\_Distribution.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/S3_Website_With_CloudFront_Distribution.template" %}
 
 ### VPC:
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC\_AutoScaling\_With\_Public\_IPs.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC_AutoScaling_With_Public_IPs.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC\_With\_PublicIPs\_And\_DNS.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC_With_PublicIPs_And_DNS.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC\_AutoScaling\_and\_ElasticLoadBalancer.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC_AutoScaling_and_ElasticLoadBalancer.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC\_With\_VPN\_Connection.template" %}
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC_With_VPN_Connection.template" %}
 
-{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC\_Single\_Instance\_In\_Subnet.template" %}
-
-
+{% embed url="https://s3-ap-south-1.amazonaws.com/cloudformation-templates-ap-south-1/VPC_Single_Instance_In_Subnet.template" %}
 

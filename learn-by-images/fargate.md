@@ -1,18 +1,17 @@
 # Fargate
 
-![](../.gitbook/assets/image%20%28138%29.png)
+![](<../.gitbook/assets/image (113).png>)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](<../.gitbook/assets/image (114).png>)
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](<../.gitbook/assets/image (115).png>)
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](<../.gitbook/assets/image (116).png>)
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](<../.gitbook/assets/image (117).png>)
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](<../.gitbook/assets/image (118).png>)
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](<../.gitbook/assets/image (119).png>)
 
-![](../.gitbook/assets/image%20%2835%29.png)
-
+![](<../.gitbook/assets/image (120).png>)
