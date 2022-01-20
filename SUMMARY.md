@@ -89,6 +89,7 @@
 * [AWS CLI](my-notes/aws-cli/README.md)
   * [AWS IAM](my-notes/aws-cli/aws-iam.md)
 * [Go Lang notes](my-notes/go-lang-notes.md)
+* [Grpc notes](my-notes/grpc-notes.md)
 
 ## Packages/Binaries <a href="#packages" id="packages"></a>
 
