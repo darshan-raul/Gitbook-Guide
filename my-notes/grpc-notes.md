@@ -5,3 +5,5 @@
 [David Den Toom - Rest, GraphQL & gRPC](https://www.youtube.com/watch?v=ZmGyeseXz8M)
 
 [Intro to gRPC - Jayant Kolhe & Eric Anderson, Google](https://www.youtube.com/watch?v=3Kkj6vAW5a4)
+
+{% embed url="https://www.youtube.com/watch?v=l_P6m3JTyp0" %}

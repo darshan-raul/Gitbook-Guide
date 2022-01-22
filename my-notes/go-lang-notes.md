@@ -5,3 +5,5 @@
 {% embed url="https://www.practical-go-lessons.com" %}
 
 {% embed url="https://quii.gitbook.io/learn-go-with-tests" %}
+
+{% embed url="https://www.youtube.com/watch?v=d4Y2DkKbxM0" %}

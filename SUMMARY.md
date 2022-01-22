@@ -143,8 +143,7 @@
 
 * [Well Architectured Framework](video-session-notes/well-architectured-framework.md)
 
-## Group 1
-
 ## Certifications
 
-* [Kubernetes](certifications/kubernetes.md)
+* [Kubernetes](certifications/kubernetes/README.md)
+  * [Pods](certifications/kubernetes/pods.md)
