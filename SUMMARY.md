@@ -92,6 +92,7 @@
 * [Go Lang notes](my-notes/go-lang-notes.md)
 * [Grpc notes](my-notes/grpc-notes.md)
 * [Google cloud notes](my-notes/google-cloud-notes.md)
+* [Github Actions](my-notes/github-actions.md)
 
 ## Packages/Binaries <a href="#packages" id="packages"></a>
 
