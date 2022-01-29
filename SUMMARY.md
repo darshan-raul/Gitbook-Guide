@@ -147,4 +147,7 @@
 ## Certifications
 
 * [Kubernetes](certifications/kubernetes/README.md)
+  * [CKAD](certifications/kubernetes/ckad/README.md)
+    * [Observability](certifications/kubernetes/ckad/observability.md)
+    * [Services and networking](certifications/kubernetes/ckad/services-and-networking.md)
   * [Pods](certifications/kubernetes/pods.md)
