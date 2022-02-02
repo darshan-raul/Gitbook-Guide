@@ -18,6 +18,9 @@
   * [Boot process](tutorials/linux/boot-process.md)
   * [Editors](tutorials/linux/editors/README.md)
     * [Vim](tutorials/linux/editors/vim.md)
+* [Hashicorp](tutorials/hashicorp/README.md)
+  * [Boundary](tutorials/hashicorp/boundary.md)
+  * [Vault](tutorials/hashicorp/vault.md)
 
 ## Articles
 
@@ -150,4 +153,3 @@
   * [CKAD](certifications/kubernetes/ckad/README.md)
     * [Observability](certifications/kubernetes/ckad/observability.md)
     * [Services and networking](certifications/kubernetes/ckad/services-and-networking.md)
-  * [Pods](certifications/kubernetes/pods.md)
