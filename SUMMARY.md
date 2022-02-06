@@ -8,7 +8,7 @@
   * [Computer Networking](guides/computer-networking.md)
 * [Learn by playing game](learn-by-playing-game.md)
 * [Cheat Sheets](cheat-sheets.md)
-* [Quotes](quotes.md)
+* [Motivation](motivation.md)
 
 ## Tutorials/guides <a href="#tutorials" id="tutorials"></a>
 
@@ -157,3 +157,4 @@
 ## Videos
 
 * [Basics](videos/basics.md)
+* [Git](videos/git.md)

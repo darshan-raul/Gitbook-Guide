@@ -1,4 +1,6 @@
-# Quotes
+# Motivation
+
+{% embed url="https://letterstoanewdeveloper.com/2021/10/25/but-first-dont-do-the-dishes" %}
 
 ![](.gitbook/assets/ELeTB\_cX0AABg-S.jpeg)
 
