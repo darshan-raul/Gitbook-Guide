@@ -160,3 +160,4 @@
 * [Basics](videos/basics.md)
 * [Git](videos/git.md)
 * [Infra as code](videos/infra-as-code.md)
+* [CICD](videos/cicd.md)
