@@ -2,6 +2,10 @@
 
 This guide contains all the useful links to various resources to help grow knowledge regards to all Dev-ops related stuff.
 
+
+
+[https://web.devopstopologies.com/](https://web.devopstopologies.com/)
+
 ![](<.gitbook/assets/image (111).png>)
 
 ![](<.gitbook/assets/image (112).png>)
