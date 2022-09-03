@@ -12,7 +12,7 @@ That's just the copy pasted paragraph from AWS's article but that give's a bird'
 
 Lets get our hands dirty :
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (1).png>)
 
 Go to the Get started page and click edit on the container definition section.
 
