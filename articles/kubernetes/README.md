@@ -50,3 +50,10 @@
 
 {% embed url="https://dev.to/chrisme/setting-up-nginx-ingress-w-automatically-generated-letsencrypt-certificates-on-kubernetes-4f1k" %}
 
+{% embed url="https://medium.com/@danielaaronw/k8s-pod-anti-affinity-dd2667a20c5f" %}
+
+### SECURITY
+
+
+
+{% embed url="https://www.weave.works/blog/mitre-att-ck-matrix-for-kubernetes-tactics-techniques-explained-part-1?utm_content=buffere3351&utm_medium=organic-twitter&utm_source=twitter&utm_campaign=civo-buffer" %}

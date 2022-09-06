@@ -41,10 +41,13 @@
 * [Monitoring](articles/monitoring.md)
 * [Github](articles/github.md)
 * [Ansible/Puppet](articles/ansible-puppet.md)
-* [Kubernetes](articles/kubernetes.md)
+* [Kubernetes](articles/kubernetes/README.md)
+  * [EKS](articles/kubernetes/eks.md)
 * [Coding practices:](articles/coding-practices.md)
 * [CI/CD](articles/ci-cd/README.md)
   * [Continuous Integration](articles/ci-cd/continuous-integration.md)
+* [Web3](articles/web3.md)
+* [Flutter](articles/flutter.md)
 
 ## STACK OVERFLOW
 
