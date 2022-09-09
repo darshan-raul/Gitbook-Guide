@@ -101,6 +101,10 @@
 * [Google cloud notes](my-notes/google-cloud-notes.md)
 * [Github Actions](my-notes/github-actions.md)
 * [Solutions Architecture](my-notes/solutions-architecture.md)
+* [Kubernetes](my-notes/kubernetes/README.md)
+  * [Concepts](my-notes/kubernetes/concepts/README.md)
+    * [Controllers](my-notes/kubernetes/concepts/controllers.md)
+    * [Nodes](my-notes/kubernetes/concepts/nodes.md)
 
 ## Packages/Binaries <a href="#packages" id="packages"></a>
 
