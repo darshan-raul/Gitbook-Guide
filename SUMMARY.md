@@ -103,8 +103,12 @@
 * [Solutions Architecture](my-notes/solutions-architecture.md)
 * [Kubernetes](my-notes/kubernetes/README.md)
   * [Concepts](my-notes/kubernetes/concepts/README.md)
+    * [Windows containers](my-notes/kubernetes/concepts/windows-containers.md)
     * [Controllers](my-notes/kubernetes/concepts/controllers.md)
     * [Nodes](my-notes/kubernetes/concepts/nodes.md)
+    * [Images](my-notes/kubernetes/concepts/images.md)
+  * [Videos](my-notes/kubernetes/videos.md)
+  * [Articles](my-notes/kubernetes/articles.md)
 
 ## Packages/Binaries <a href="#packages" id="packages"></a>
 
