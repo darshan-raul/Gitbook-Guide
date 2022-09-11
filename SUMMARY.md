@@ -12,9 +12,11 @@
 
 ## Guides
 
+* [Cloud Native](guides-1/cloud-native.md)
 * [DevOps](guides-1/devops.md)
 * [DevOps Tools](guides-1/devops-tools.md)
 * [CI CD](guides-1/ci-cd.md)
+* [DevSecOps](guides-1/devsecops.md)
 * [Git](guides-1/git.md)
 * [Docker](guides-1/docker.md)
 * [Linux](guides-1/linux/README.md)
