@@ -14,7 +14,7 @@ The solution architect **analyzes the functional requirement and defines a non-f
 
 The solution architect **develops a proof of concept and prototype in order to evaluate various technology platforms, and then chooses the best strategy for solution implementation**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 The initial design of a solution architecture may be conceived at a very early stage during the pre-sales cycle, such as the request for proposal (RFP) or the request for information (RFI) and is followed by the creation of a prototype or proof of concept, in order to discover any solution risk.&#x20;
 

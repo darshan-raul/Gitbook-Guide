@@ -16,7 +16,7 @@ Lets get our hands dirty :
 
 Go to the Get started page and click edit on the container definition section.
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 1. Give the container a name
 2. Give the image name. My AWSapi image on dockerhub in this case

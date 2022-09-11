@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home Page](README.md)
+* [Cloud Native Guide](README.md)
 * [Youtube Links](untitled.md)
 * [Miscellaneous useful Links](useful-links/README.md)
   * [Softwares](useful-links/untitled.md)
@@ -10,17 +10,20 @@
 * [Cheat Sheets](cheat-sheets.md)
 * [Motivation](motivation.md)
 
-## Tutorials/guides <a href="#tutorials" id="tutorials"></a>
+## Guides
 
-* [Git](tutorials/git.md)
-* [Docker](tutorials/docker.md)
-* [Linux](tutorials/linux/README.md)
-  * [Boot process](tutorials/linux/boot-process.md)
-  * [Editors](tutorials/linux/editors/README.md)
-    * [Vim](tutorials/linux/editors/vim.md)
-* [Hashicorp](tutorials/hashicorp/README.md)
-  * [Boundary](tutorials/hashicorp/boundary.md)
-  * [Vault](tutorials/hashicorp/vault.md)
+* [DevOps](guides-1/devops.md)
+* [DevOps Tools](guides-1/devops-tools.md)
+* [CI CD](guides-1/ci-cd.md)
+* [Git](guides-1/git.md)
+* [Docker](guides-1/docker.md)
+* [Linux](guides-1/linux/README.md)
+  * [Boot process](guides-1/linux/boot-process.md)
+  * [Editors](guides-1/linux/editors/README.md)
+    * [Vim](guides-1/linux/editors/vim.md)
+* [Hashicorp](guides-1/hashicorp/README.md)
+  * [Boundary](guides-1/hashicorp/boundary.md)
+  * [Vault](guides-1/hashicorp/vault.md)
 
 ## Articles
 
