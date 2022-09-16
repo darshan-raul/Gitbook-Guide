@@ -14,6 +14,7 @@
 
 * [Cloud Native](guides-1/cloud-native.md)
 * [DevOps](guides-1/devops.md)
+* [SRE](guides-1/sre.md)
 * [DevOps Tools](guides-1/devops-tools.md)
 * [CI CD](guides-1/ci-cd.md)
 * [DevSecOps](guides-1/devsecops.md)
@@ -26,6 +27,14 @@
 * [Hashicorp](guides-1/hashicorp/README.md)
   * [Boundary](guides-1/hashicorp/boundary.md)
   * [Vault](guides-1/hashicorp/vault.md)
+
+## 🎡 Kubernetes
+
+* [Articles](kubernetes/articles/README.md)
+  * [Secrets](kubernetes/articles/secrets.md)
+* [Tools](kubernetes/tools/README.md)
+  * [Arkade](kubernetes/tools/arkade.md)
+  * [Secrets Management](kubernetes/tools/secrets-management.md)
 
 ## Articles
 
@@ -53,6 +62,11 @@
   * [Continuous Integration](articles/ci-cd/continuous-integration.md)
 * [Web3](articles/web3.md)
 * [Flutter](articles/flutter.md)
+
+***
+
+* [Work tips](work-tips/README.md)
+  * [Time management](work-tips/time-management.md)
 
 ## STACK OVERFLOW
 
