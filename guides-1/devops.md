@@ -45,6 +45,8 @@ DevOps is a process that emphasizes communication and learning from a technical 
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://www.youtube.com/watch?v=2NtiI0Ojczw" %}
+
 ## Extra Links:
 
 

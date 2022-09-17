@@ -31,9 +31,10 @@
 ## 🎡 Kubernetes
 
 * [Articles](kubernetes/articles/README.md)
+  * [Setting up cluster](kubernetes/articles/setting-up-cluster.md)
   * [Secrets](kubernetes/articles/secrets.md)
 * [Tools](kubernetes/tools/README.md)
-  * [Arkade](kubernetes/tools/arkade.md)
+  * [Multiple tools](kubernetes/tools/multiple-tools.md)
   * [Secrets Management](kubernetes/tools/secrets-management.md)
 
 ## Articles

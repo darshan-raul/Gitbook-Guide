@@ -9,3 +9,5 @@
 ## Ultimate CICD pipeline
 
 {% embed url="https://martinheinz.dev/blog/69" %}
+
+{% embed url="https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/" %}
