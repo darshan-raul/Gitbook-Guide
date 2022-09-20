@@ -17,6 +17,8 @@
 * [SRE](guides-1/sre.md)
 * [DevOps Tools](guides-1/devops-tools.md)
 * [CI CD](guides-1/ci-cd.md)
+* [Kubernetes](guides-1/kubernetes/README.md)
+  * [K3s in gke](guides-1/kubernetes/k3s-in-gke.md)
 * [DevSecOps](guides-1/devsecops.md)
 * [Git](guides-1/git.md)
 * [Docker](guides-1/docker.md)
