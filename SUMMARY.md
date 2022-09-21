@@ -18,6 +18,7 @@
 * [DevOps Tools](guides-1/devops-tools.md)
 * [CI CD](guides-1/ci-cd.md)
 * [Kubernetes](guides-1/kubernetes/README.md)
+  * [cluster setup](guides-1/kubernetes/cluster-setup.md)
   * [K3s in gke](guides-1/kubernetes/k3s-in-gke.md)
 * [DevSecOps](guides-1/devsecops.md)
 * [Git](guides-1/git.md)

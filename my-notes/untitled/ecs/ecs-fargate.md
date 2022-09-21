@@ -6,7 +6,7 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :)
 
-![The benifits look amazing compared to running normal ECS on EC2](<../../../.gitbook/assets/image (4) (1).png>)
+![The benifits look amazing compared to running normal ECS on EC2](<../../../.gitbook/assets/image (4).png>)
 
 ![](<../../../.gitbook/assets/image (5).png>)
 
