@@ -20,7 +20,8 @@
 * [Kubernetes](guides-1/kubernetes/README.md)
   * [cluster setup](guides-1/kubernetes/cluster-setup.md)
   * [K3s in gke](guides-1/kubernetes/k3s-in-gke.md)
-* [DevSecOps](guides-1/devsecops.md)
+* [DevSecOps](guides-1/devsecops/README.md)
+  * [Preventing supply chain attacks](guides-1/devsecops/preventing-supply-chain-attacks.md)
 * [Git](guides-1/git.md)
 * [Docker](guides-1/docker.md)
 * [Linux](guides-1/linux/README.md)
@@ -30,6 +31,7 @@
 * [Hashicorp](guides-1/hashicorp/README.md)
   * [Boundary](guides-1/hashicorp/boundary.md)
   * [Vault](guides-1/hashicorp/vault.md)
+* [Gitops](guides-1/gitops.md)
 
 ## 🎡 Kubernetes
 
@@ -39,6 +41,11 @@
 * [Tools](kubernetes/tools/README.md)
   * [Multiple tools](kubernetes/tools/multiple-tools.md)
   * [Secrets Management](kubernetes/tools/secrets-management.md)
+  * [Pipeline/Workflows](kubernetes/tools/pipeline-workflows/README.md)
+    * [Argo Workflows](kubernetes/tools/pipeline-workflows/argo-workflows.md)
+    * [Tekton Pipelines](kubernetes/tools/pipeline-workflows/tekton-pipelines.md)
+  * [Ingress](kubernetes/tools/ingress/README.md)
+    * [Traefik](kubernetes/tools/ingress/traefik.md)
 
 ## Articles
 
@@ -137,6 +144,10 @@
 
 * [Python](packages/packages.md)
 * [Devops](packages/devops.md)
+
+## 🎤 PODCASTS
+
+* [Tech guidance](podcasts/tech-guidance.md)
 
 ## MASTERY PLAN
 
