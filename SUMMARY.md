@@ -20,7 +20,7 @@
 * [Kubernetes](guides-1/kubernetes/README.md)
   * [cluster setup](guides-1/kubernetes/cluster-setup.md)
   * [K3s in gke](guides-1/kubernetes/k3s-in-gke.md)
-* [DevSecOps](guides-1/devsecops/README.md)
+* [DevSecOps](guides-1/devsecops.md)
   * [Preventing supply chain attacks](guides-1/devsecops/preventing-supply-chain-attacks.md)
 * [Git](guides-1/git.md)
 * [Docker](guides-1/docker.md)
