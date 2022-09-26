@@ -49,6 +49,6 @@ DevOps is a process that emphasizes communication and learning from a technical 
 
 ## Extra Links:
 
-
+{% embed url="https://www.civo.com/blog/devops-101-all-you-need-to-know?utm_content=bufferaf699&utm_medium=organic-twitter&utm_source=twitter&utm_campaign=civo-buffer" %}
 
 {% embed url="https://www.codeproject.com/Articles/1394594/Devops-The-Big-Picture" %}
