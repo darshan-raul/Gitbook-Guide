@@ -22,7 +22,7 @@ Go to the Get started page and click edit on the container definition section.
 2. Give the image name. My AWSapi image on dockerhub in this case
 3. Give the port no's which are being exposed/used by the container
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 If you click the Advanced configuration option than many more option's like healthcheck/environment's appear.
 

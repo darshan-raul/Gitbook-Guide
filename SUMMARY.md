@@ -14,6 +14,7 @@
 
 * [Cloud Native](guides-1/cloud-native.md)
 * [DevOps](guides-1/devops.md)
+* [Platform Engineering](guides-1/platform-engineering.md)
 * [SRE](guides-1/sre.md)
 * [DevOps Tools](guides-1/devops-tools.md)
 * [CI CD](guides-1/ci-cd.md)
@@ -30,9 +31,11 @@
   * [Editors](guides-1/linux/editors/README.md)
     * [Vim](guides-1/linux/editors/vim.md)
 * [Hashicorp](guides-1/hashicorp/README.md)
+  * [Terraform](guides-1/hashicorp/terraform.md)
   * [Boundary](guides-1/hashicorp/boundary.md)
   * [Vault](guides-1/hashicorp/vault.md)
 * [Gitops](guides-1/gitops.md)
+* [NATS](guides-1/nats.md)
 
 ## 🎡 Kubernetes
 
@@ -40,6 +43,7 @@
   * [Setting up cluster](kubernetes/articles/setting-up-cluster.md)
   * [Secrets](kubernetes/articles/secrets.md)
 * [Tools](kubernetes/tools/README.md)
+  * [Chaos Engineering](kubernetes/tools/chaos-engineering.md)
   * [Multiple tools](kubernetes/tools/multiple-tools.md)
   * [Secrets Management](kubernetes/tools/secrets-management.md)
   * [Pipeline/Workflows](kubernetes/tools/pipeline-workflows/README.md)
