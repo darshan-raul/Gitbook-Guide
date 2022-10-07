@@ -13,8 +13,12 @@
 ## Guides
 
 * [Cloud Native](guides-1/cloud-native.md)
+* [Software Engineering Concepts](guides-1/software-engineering-concepts/README.md)
+  * [Multi Tenancy](guides-1/software-engineering-concepts/multi-tenancy.md)
+  * [NATS](guides-1/software-engineering-concepts/nats.md)
 * [DevOps](guides-1/devops.md)
 * [Platform Engineering](guides-1/platform-engineering.md)
+* [Observability](guides-1/observability.md)
 * [SRE](guides-1/sre.md)
 * [DevOps Tools](guides-1/devops-tools.md)
 * [CI CD](guides-1/ci-cd.md)
@@ -27,6 +31,7 @@
 * [Git](guides-1/git.md)
 * [Docker](guides-1/docker.md)
 * [Linux](guides-1/linux/README.md)
+  * [Tmux](guides-1/linux/tmux.md)
   * [Boot process](guides-1/linux/boot-process.md)
   * [Editors](guides-1/linux/editors/README.md)
     * [Vim](guides-1/linux/editors/vim.md)
@@ -35,7 +40,7 @@
   * [Boundary](guides-1/hashicorp/boundary.md)
   * [Vault](guides-1/hashicorp/vault.md)
 * [Gitops](guides-1/gitops.md)
-* [NATS](guides-1/nats.md)
+* [Performance Engineering](guides-1/performance-engineering.md)
 
 ## 🎡 Kubernetes
 
@@ -51,6 +56,8 @@
     * [Tekton Pipelines](kubernetes/tools/pipeline-workflows/tekton-pipelines.md)
   * [Ingress](kubernetes/tools/ingress/README.md)
     * [Traefik](kubernetes/tools/ingress/traefik.md)
+  * [Gitops](kubernetes/tools/gitops/README.md)
+    * [Argo CD](kubernetes/tools/gitops/argo-cd.md)
 
 ## Articles
 
@@ -78,6 +85,10 @@
   * [Continuous Integration](articles/ci-cd/continuous-integration.md)
 * [Web3](articles/web3.md)
 * [Flutter](articles/flutter.md)
+
+## Playlists
+
+* [K8s](playlists/k8s.md)
 
 ***
 

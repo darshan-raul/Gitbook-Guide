@@ -6,4 +6,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=r0yVUkTyWwI" %}
 
+{% embed url="https://www.youtube.com/watch?v=fQ9846hRiFo" %}
+
 {% embed url="https://thenewstack.io/does-the-gitops-emperor-have-no-clothes" %}
