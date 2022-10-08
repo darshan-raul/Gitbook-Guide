@@ -29,7 +29,8 @@
 * [DevSecOps](guides-1/devsecops.md)
   * [Preventing supply chain attacks](guides-1/devsecops/preventing-supply-chain-attacks.md)
 * [Git](guides-1/git.md)
-* [Docker](guides-1/docker.md)
+* [Docker](guides-1/docker/README.md)
+  * [Container Registry](guides-1/docker/container-registry.md)
 * [Linux](guides-1/linux/README.md)
   * [Tmux](guides-1/linux/tmux.md)
   * [Boot process](guides-1/linux/boot-process.md)
@@ -49,6 +50,9 @@
   * [Secrets](kubernetes/articles/secrets.md)
 * [Tools](kubernetes/tools/README.md)
   * [Chaos Engineering](kubernetes/tools/chaos-engineering.md)
+  * [Templating/patching](kubernetes/tools/templating-patching/README.md)
+    * [Kustomize](kubernetes/tools/templating-patching/kustomize.md)
+    * [Helm](kubernetes/tools/templating-patching/helm.md)
   * [Multiple tools](kubernetes/tools/multiple-tools.md)
   * [Secrets Management](kubernetes/tools/secrets-management.md)
   * [Pipeline/Workflows](kubernetes/tools/pipeline-workflows/README.md)
@@ -58,6 +62,10 @@
     * [Traefik](kubernetes/tools/ingress/traefik.md)
   * [Gitops](kubernetes/tools/gitops/README.md)
     * [Argo CD](kubernetes/tools/gitops/argo-cd.md)
+  * [Service Mesh](kubernetes/tools/service-mesh/README.md)
+    * [Linkerd](kubernetes/tools/service-mesh/linkerd.md)
+  * [Container Builds](kubernetes/tools/container-builds/README.md)
+    * [Kaniko](kubernetes/tools/container-builds/kaniko.md)
 
 ## Articles
 
