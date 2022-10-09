@@ -29,7 +29,8 @@
 * [DevSecOps](guides-1/devsecops.md)
   * [Preventing supply chain attacks](guides-1/devsecops/preventing-supply-chain-attacks.md)
 * [Git](guides-1/git.md)
-* [Docker](guides-1/docker/README.md)
+* [Containers](guides-1/docker/README.md)
+  * [Distroless](guides-1/docker/distroless.md)
   * [Container Registry](guides-1/docker/container-registry.md)
 * [Linux](guides-1/linux/README.md)
   * [Tmux](guides-1/linux/tmux.md)
@@ -66,6 +67,7 @@
     * [Linkerd](kubernetes/tools/service-mesh/linkerd.md)
   * [Container Builds](kubernetes/tools/container-builds/README.md)
     * [Kaniko](kubernetes/tools/container-builds/kaniko.md)
+    * [Bazel](kubernetes/tools/container-builds/bazel.md)
   * [Logging](kubernetes/tools/logging/README.md)
     * [Fluentbit](kubernetes/tools/logging/fluentbit.md)
 
