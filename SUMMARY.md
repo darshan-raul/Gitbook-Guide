@@ -66,6 +66,8 @@
     * [Linkerd](kubernetes/tools/service-mesh/linkerd.md)
   * [Container Builds](kubernetes/tools/container-builds/README.md)
     * [Kaniko](kubernetes/tools/container-builds/kaniko.md)
+  * [Logging](kubernetes/tools/logging/README.md)
+    * [Fluentbit](kubernetes/tools/logging/fluentbit.md)
 
 ## Articles
 
