@@ -43,12 +43,15 @@
   * [Vault](guides-1/hashicorp/vault.md)
 * [Gitops](guides-1/gitops.md)
 * [Performance Engineering](guides-1/performance-engineering.md)
+* [AWS](guides-1/aws/README.md)
+  * [Step Workflows](guides-1/aws/step-workflows.md)
 
 ## 🎡 Kubernetes
 
-* [Articles](kubernetes/articles/README.md)
-  * [Setting up cluster](kubernetes/articles/setting-up-cluster.md)
-  * [Secrets](kubernetes/articles/secrets.md)
+* [Articles/Videos](kubernetes/articles-videos/README.md)
+  * [Setting up cluster](kubernetes/articles-videos/setting-up-cluster.md)
+  * [Authentication/Authorization](kubernetes/articles-videos/authentication-authorization.md)
+  * [Secrets](kubernetes/articles-videos/secrets.md)
 * [Tools](kubernetes/tools/README.md)
   * [Chaos Engineering](kubernetes/tools/chaos-engineering.md)
   * [Templating/patching](kubernetes/tools/templating-patching/README.md)
@@ -70,6 +73,7 @@
     * [Bazel](kubernetes/tools/container-builds/bazel.md)
   * [Logging](kubernetes/tools/logging/README.md)
     * [Fluentbit](kubernetes/tools/logging/fluentbit.md)
+  * [Image Signing](kubernetes/tools/image-signing.md)
 
 ## Articles
 
