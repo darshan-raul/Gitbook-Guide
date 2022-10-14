@@ -33,6 +33,7 @@
   * [Distroless](guides-1/docker/distroless.md)
   * [Container Registry](guides-1/docker/container-registry.md)
 * [Linux](guides-1/linux/README.md)
+  * [Text Manipulation](guides-1/linux/text-manipulation.md)
   * [Tmux](guides-1/linux/tmux.md)
   * [Boot process](guides-1/linux/boot-process.md)
   * [Editors](guides-1/linux/editors/README.md)
@@ -44,6 +45,8 @@
 * [Gitops](guides-1/gitops.md)
 * [Performance Engineering](guides-1/performance-engineering.md)
 * [AWS](guides-1/aws/README.md)
+  * [KMS](guides-1/aws/kms.md)
+  * [IAM](guides-1/aws/iam.md)
   * [Step Workflows](guides-1/aws/step-workflows.md)
 
 ## 🎡 Kubernetes
