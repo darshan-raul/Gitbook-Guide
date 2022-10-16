@@ -28,6 +28,7 @@
   * [Service Mesh](guides-1/kubernetes/service-mesh.md)
 * [DevSecOps](guides-1/devsecops.md)
   * [Preventing supply chain attacks](guides-1/devsecops/preventing-supply-chain-attacks.md)
+  * [SBOM](guides-1/devsecops/sbom.md)
 * [Git](guides-1/git.md)
 * [Containers](guides-1/docker/README.md)
   * [Distroless](guides-1/docker/distroless.md)
@@ -51,11 +52,18 @@
 
 ## 🎡 Kubernetes
 
-* [Articles/Videos](kubernetes/articles-videos/README.md)
-  * [Setting up cluster](kubernetes/articles-videos/setting-up-cluster.md)
-  * [Authentication/Authorization](kubernetes/articles-videos/authentication-authorization.md)
-  * [Secrets](kubernetes/articles-videos/secrets.md)
+* [Concepts](kubernetes/concepts/README.md)
+  * [Best  Practices](kubernetes/concepts/best-practices/README.md)
+    * [Security](kubernetes/concepts/best-practices/security.md)
+  * [Security](kubernetes/concepts/security.md)
+  * [Garbage Collection](kubernetes/concepts/garbage-collection.md)
+  * [Scaling](kubernetes/concepts/scaling.md)
+  * [Setting up cluster](kubernetes/concepts/setting-up-cluster.md)
+  * [Authentication/Authorization](kubernetes/concepts/authentication-authorization.md)
+  * [Secrets](kubernetes/concepts/secrets.md)
 * [Tools](kubernetes/tools/README.md)
+  * [Auditing](kubernetes/tools/auditing/README.md)
+    * [Checkov](kubernetes/tools/auditing/checkov.md)
   * [Chaos Engineering](kubernetes/tools/chaos-engineering.md)
   * [Templating/patching](kubernetes/tools/templating-patching/README.md)
     * [Kustomize](kubernetes/tools/templating-patching/kustomize.md)
@@ -65,6 +73,7 @@
   * [Pipeline/Workflows](kubernetes/tools/pipeline-workflows/README.md)
     * [Argo Workflows](kubernetes/tools/pipeline-workflows/argo-workflows.md)
     * [Tekton Pipelines](kubernetes/tools/pipeline-workflows/tekton-pipelines.md)
+    * [Jenkins](kubernetes/tools/pipeline-workflows/jenkins.md)
   * [Ingress](kubernetes/tools/ingress/README.md)
     * [Traefik](kubernetes/tools/ingress/traefik.md)
   * [Gitops](kubernetes/tools/gitops/README.md)
@@ -77,6 +86,8 @@
   * [Logging](kubernetes/tools/logging/README.md)
     * [Fluentbit](kubernetes/tools/logging/fluentbit.md)
   * [Image Signing](kubernetes/tools/image-signing.md)
+  * [Federation](kubernetes/tools/federation.md)
+  * [Client-go](kubernetes/tools/client-go.md)
 
 ## Articles
 
