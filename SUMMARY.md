@@ -27,11 +27,13 @@
   * [K3s](guides-1/kubernetes/k3s.md)
   * [Service Mesh](guides-1/kubernetes/service-mesh.md)
 * [DevSecOps](guides-1/devsecops.md)
+  * [Security Scanning](guides-1/devsecops/security-scanning.md)
   * [Preventing supply chain attacks](guides-1/devsecops/preventing-supply-chain-attacks.md)
   * [SBOM](guides-1/devsecops/sbom.md)
 * [Git](guides-1/git.md)
 * [Containers](guides-1/docker/README.md)
   * [Distroless](guides-1/docker/distroless.md)
+  * [Scratch Image](guides-1/docker/scratch-image.md)
   * [Container Registry](guides-1/docker/container-registry.md)
 * [Linux](guides-1/linux/README.md)
   * [Text Manipulation](guides-1/linux/text-manipulation.md)
@@ -52,15 +54,15 @@
 
 ## 🎡 Kubernetes
 
-* [Concepts](kubernetes/concepts/README.md)
+* [Concepts](kubernetes/articles-videos/README.md)
   * [Best  Practices](kubernetes/concepts/best-practices/README.md)
     * [Security](kubernetes/concepts/best-practices/security.md)
   * [Security](kubernetes/concepts/security.md)
   * [Garbage Collection](kubernetes/concepts/garbage-collection.md)
   * [Scaling](kubernetes/concepts/scaling.md)
-  * [Setting up cluster](kubernetes/concepts/setting-up-cluster.md)
-  * [Authentication/Authorization](kubernetes/concepts/authentication-authorization.md)
-  * [Secrets](kubernetes/concepts/secrets.md)
+  * [Setting up cluster](kubernetes/articles-videos/setting-up-cluster.md)
+  * [Authentication/Authorization](kubernetes/articles-videos/authentication-authorization.md)
+  * [Secrets](kubernetes/articles-videos/secrets.md)
 * [Tools](kubernetes/tools/README.md)
   * [Auditing](kubernetes/tools/auditing/README.md)
     * [Checkov](kubernetes/tools/auditing/checkov.md)
@@ -88,6 +90,7 @@
   * [Image Signing](kubernetes/tools/image-signing.md)
   * [Federation](kubernetes/tools/federation.md)
   * [Client-go](kubernetes/tools/client-go.md)
+  * [Security Scanning](kubernetes/tools/security-scanning.md)
 
 ## Articles
 
