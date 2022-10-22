@@ -61,6 +61,8 @@
   * [Garbage Collection](kubernetes/concepts/garbage-collection.md)
   * [Scaling](kubernetes/concepts/scaling.md)
   * [Setting up cluster](kubernetes/articles-videos/setting-up-cluster.md)
+  * [Services](kubernetes/concepts/services/README.md)
+    * [Endpoint Slices](kubernetes/concepts/services/endpoint-slices.md)
   * [Authentication/Authorization](kubernetes/articles-videos/authentication-authorization.md)
   * [Secrets](kubernetes/articles-videos/secrets.md)
 * [Tools](kubernetes/tools/README.md)
