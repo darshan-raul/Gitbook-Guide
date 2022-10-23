@@ -1,6 +1,6 @@
 # Gitops
 
-
+<figure><img src="../.gitbook/assets/FfsmCgaX0AAGi0Y.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
