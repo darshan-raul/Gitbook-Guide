@@ -15,3 +15,5 @@ Platform Engineering is not just‌ necessary tooling but a combination of tools
 {% embed url="https://medium.com/@rphilogene/the-10-platform-engineering-tools-to-use-in-2022-c2cbf2561f77" %}
 
 {% embed url="https://hemantjain.medium.com/how-platform-engineering-differ-from-devops-and-sre-723c63716d96" %}
+
+{% embed url="https://thenewstack.io/devops-is-dead-embrace-platform-engineering/" %}

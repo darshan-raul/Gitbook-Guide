@@ -60,6 +60,7 @@
 * [Concepts](kubernetes/articles-videos/README.md)
   * [Best  Practices](kubernetes/concepts/best-practices/README.md)
     * [Security](kubernetes/concepts/best-practices/security.md)
+  * [Deployments](kubernetes/concepts/deployments.md)
   * [Security](kubernetes/concepts/security.md)
   * [Logging](kubernetes/concepts/logging.md)
   * [Garbage Collection](kubernetes/concepts/garbage-collection.md)
@@ -97,6 +98,8 @@
   * [Federation](kubernetes/tools/federation.md)
   * [Client-go](kubernetes/tools/client-go.md)
   * [Security Scanning](kubernetes/tools/security-scanning.md)
+  * [Context Switching](kubernetes/tools/context-switching.md)
+  * [Convertors](kubernetes/tools/convertors.md)
 
 ## Articles
 
