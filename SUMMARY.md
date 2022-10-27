@@ -69,6 +69,7 @@
   * [Services](kubernetes/concepts/services/README.md)
     * [Endpoint Slices](kubernetes/concepts/services/endpoint-slices.md)
   * [Authentication/Authorization](kubernetes/articles-videos/authentication-authorization.md)
+  * [Custom Controllers](kubernetes/concepts/custom-controllers.md)
   * [Secrets](kubernetes/articles-videos/secrets.md)
 * [Tools](kubernetes/tools/README.md)
   * [Auditing](kubernetes/tools/auditing/README.md)
