@@ -37,13 +37,13 @@ DevOps is a process that emphasizes communication and learning from a technical 
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Typical ways Devops can be implemented in an organisation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Typical ways Devops can be implemented in an organisation</p></figcaption></figure>
 
 <mark style="background-color:orange;">For a extremely detailed study on the above topologies, you should go through the site below</mark>
 
 {% embed url="https://web.devopstopologies.com/" %}
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=2NtiI0Ojczw" %}
 

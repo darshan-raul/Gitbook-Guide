@@ -16,7 +16,8 @@
 * [Software Engineering Concepts](guides-1/software-engineering-concepts/README.md)
   * [Multi Tenancy](guides-1/software-engineering-concepts/multi-tenancy.md)
   * [NATS](guides-1/software-engineering-concepts/nats.md)
-* [DevOps](guides-1/devops.md)
+* [DevOps](guides-1/devops/README.md)
+  * [Usual tasks](guides-1/devops/usual-tasks.md)
 * [Platform Engineering](guides-1/platform-engineering.md)
 * [Observability](guides-1/observability.md)
 * [SRE](guides-1/sre.md)
@@ -101,6 +102,8 @@
   * [Security Scanning](kubernetes/tools/security-scanning.md)
   * [Context Switching](kubernetes/tools/context-switching.md)
   * [Convertors](kubernetes/tools/convertors.md)
+  * [Validation](kubernetes/tools/validation/README.md)
+    * [Datree](kubernetes/tools/validation/datree.md)
 
 ## Articles
 
