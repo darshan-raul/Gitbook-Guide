@@ -1,6 +1,6 @@
 # Cheat Sheets
 
-
+{% embed url="https://github.com/trinib/Linux-Bash-Commands#quick-cheat-sheet-" %}
 
 {% embed url="https://devhints.io/" %}
 
@@ -13,6 +13,4 @@
 ## Status code
 
 {% embed url="https://dev.to/khaosdoctor/the-complete-guide-to-status-codes-for-meaningful-rest-apis-1-5c5" %}
-
-
 
