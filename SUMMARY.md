@@ -55,6 +55,7 @@
   * [KMS](guides-1/aws/kms.md)
   * [IAM](guides-1/aws/iam.md)
   * [Step Workflows](guides-1/aws/step-workflows.md)
+* [GraphQL](guides-1/graphql.md)
 
 ## 🎡 Kubernetes
 
