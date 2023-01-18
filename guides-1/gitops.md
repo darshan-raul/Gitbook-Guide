@@ -9,3 +9,5 @@
 {% embed url="https://www.youtube.com/watch?v=fQ9846hRiFo" %}
 
 {% embed url="https://thenewstack.io/does-the-gitops-emperor-have-no-clothes" %}
+
+{% embed url="https://www.youtube.com/watch?v=dFU5l0W2ims&list=WL&index=17&t=1894s" %}

@@ -18,8 +18,8 @@
   * [NATS](guides-1/software-engineering-concepts/nats.md)
 * [DevOps](guides-1/devops.md)
   * [Usual tasks](guides-1/devops/usual-tasks.md)
-* [Platform Engineering](guides-1/platform-engineering.md)
-* [Observability](guides-1/observability.md)
+* [Observability](guides-1/observability/README.md)
+  * [Tracing](guides-1/observability/tracing.md)
 * [SRE](guides-1/sre.md)
 * [DevOps Tools](guides-1/devops-tools.md)
 * [CI CD](guides-1/ci-cd.md)
@@ -49,13 +49,15 @@
   * [Vault](guides-1/hashicorp/vault.md)
 * [Gitops](guides-1/gitops.md)
 * [Micro Services](guides-1/micro-services.md)
-* [Platform Engineering](guides-1/platform-engineering-1.md)
+* [Platform Engineering](guides-1/platform-engineering.md)
 * [Performance Engineering](guides-1/performance-engineering.md)
 * [AWS](guides-1/aws/README.md)
   * [KMS](guides-1/aws/kms.md)
   * [IAM](guides-1/aws/iam.md)
   * [Step Workflows](guides-1/aws/step-workflows.md)
 * [GraphQL](guides-1/graphql.md)
+* [Troubleshooting](guides-1/troubleshooting.md)
+* [Supply Chain Security](guides-1/supply-chain-security.md)
 
 ## 🎡 Kubernetes
 
