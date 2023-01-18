@@ -57,7 +57,13 @@
   * [Step Workflows](guides-1/aws/step-workflows.md)
 * [GraphQL](guides-1/graphql.md)
 * [Troubleshooting](guides-1/troubleshooting.md)
-* [Supply Chain Security](guides-1/supply-chain-security.md)
+* [Databases](guides-1/databases/README.md)
+  * [Normalization](guides-1/databases/normalization.md)
+* [Security](guides-1/security/README.md)
+  * [Supply Chain Security](guides-1/security/supply-chain-security.md)
+  * [Zero Trust](guides-1/security/zero-trust.md)
+* [Non functional requirements](guides-1/non-functional-requirements/README.md)
+  * [Scaling](guides-1/non-functional-requirements/scaling.md)
 
 ## 🎡 Kubernetes
 
