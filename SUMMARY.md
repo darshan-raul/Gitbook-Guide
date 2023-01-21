@@ -28,6 +28,7 @@
   * [K3s](guides-1/kubernetes/k3s.md)
   * [Service Mesh](guides-1/kubernetes/service-mesh.md)
 * [DevSecOps](guides-1/devsecops.md)
+  * [Tools](guides-1/devsecops/tools.md)
   * [API security](guides-1/devsecops/api-security.md)
   * [Security Scanning](guides-1/devsecops/security-scanning.md)
   * [Preventing supply chain attacks](guides-1/devsecops/preventing-supply-chain-attacks.md)
@@ -60,10 +61,11 @@
 * [Databases](guides-1/databases/README.md)
   * [Normalization](guides-1/databases/normalization.md)
 * [Security](guides-1/security/README.md)
-  * [Supply Chain Security](guides-1/security/supply-chain-security.md)
+  * [Supply Chain Security](guides-1/supply-chain-security.md)
   * [Zero Trust](guides-1/security/zero-trust.md)
 * [Non functional requirements](guides-1/non-functional-requirements/README.md)
   * [Scaling](guides-1/non-functional-requirements/scaling.md)
+* [Networking](guides-1/networking.md)
 
 ## 🎡 Kubernetes
 
