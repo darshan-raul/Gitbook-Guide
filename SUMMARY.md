@@ -39,6 +39,7 @@
   * [Scratch Image](guides-1/docker/scratch-image.md)
   * [Container Registry](guides-1/docker/container-registry.md)
 * [Linux](guides-1/linux/README.md)
+  * [Tools](guides-1/linux/tools.md)
   * [Text Manipulation](guides-1/linux/text-manipulation.md)
   * [Tmux](guides-1/linux/tmux.md)
   * [Boot process](guides-1/linux/boot-process.md)
@@ -66,6 +67,7 @@
 * [Non functional requirements](guides-1/non-functional-requirements/README.md)
   * [Scaling](guides-1/non-functional-requirements/scaling.md)
 * [Networking](guides-1/networking.md)
+* [Event Driven Architecture](guides-1/event-driven-architecture.md)
 
 ## 🎡 Kubernetes
 
