@@ -22,4 +22,6 @@ Platform Engineering is not just‌ necessary tooling but a combination of tools
 
 {% embed url="https://www.youtube.com/watch?v=0txypCU9DEU&list=WL&index=69&t=1974s" %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.youtube.com/watch?v=9_v77YiSGEY&list=WL&index=158" %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

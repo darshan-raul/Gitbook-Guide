@@ -19,6 +19,7 @@
 * [DevOps](guides-1/devops.md)
   * [Usual tasks](guides-1/devops/usual-tasks.md)
 * [Observability](guides-1/observability/README.md)
+  * [EBPF](guides-1/observability/ebpf.md)
   * [Tracing](guides-1/observability/tracing.md)
 * [SRE](guides-1/sre.md)
 * [DevOps Tools](guides-1/devops-tools.md)
@@ -51,7 +52,8 @@
   * [Vault](guides-1/hashicorp/vault.md)
 * [Gitops](guides-1/gitops.md)
 * [Micro Services](guides-1/micro-services.md)
-* [Platform Engineering](guides-1/platform-engineering.md)
+* [Platform Engineering](guides-1/platform-engineering/README.md)
+  * [Internal Developer Platforms](guides-1/platform-engineering/internal-developer-platforms.md)
 * [Performance Engineering](guides-1/performance-engineering.md)
 * [AWS](guides-1/aws/README.md)
   * [KMS](guides-1/aws/kms.md)
@@ -68,6 +70,15 @@
   * [Scaling](guides-1/non-functional-requirements/scaling.md)
 * [Networking](guides-1/networking.md)
 * [Event Driven Architecture](guides-1/event-driven-architecture.md)
+* [ChatGpt](guides-1/chatgpt.md)
+* [WASM](guides-1/wasm/README.md)
+  * [Docker + WASM](guides-1/wasm/docker-+-wasm.md)
+  * [Kubernetes + WASM](guides-1/wasm/kubernetes-+-wasm.md)
+
+## System design concepts
+
+* [Idempotency](system-design-concepts/idempotency.md)
+* [12 factor app](system-design-concepts/12-factor-app.md)
 
 ## 🎡 Kubernetes
 
@@ -120,6 +131,13 @@
   * [Convertors](kubernetes/tools/convertors.md)
   * [Validation](kubernetes/tools/validation/README.md)
     * [Datree](kubernetes/tools/validation/datree.md)
+
+## Tutorial Videos
+
+* [Databases](tutorial-videos/databases/README.md)
+  * [Postgresql](tutorial-videos/databases/postgresql.md)
+* [Programming Languages](tutorial-videos/programming-languages/README.md)
+  * [GoLang](tutorial-videos/programming-languages/golang.md)
 
 ## Articles
 
@@ -285,3 +303,8 @@
 * [Git](videos/git.md)
 * [Infra as code](videos/infra-as-code.md)
 * [CICD](videos/cicd.md)
+
+## Best Practices
+
+* [REST Apis](best-practices/rest-apis.md)
+* [Continuous Integration](best-practices/continuous-integration.md)
