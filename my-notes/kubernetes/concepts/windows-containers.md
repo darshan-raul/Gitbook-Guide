@@ -8,6 +8,5 @@ While you **can only run the** [**control plane**](https://kubernetes.io/docs/re
 
 Windows [nodes](https://kubernetes.io/docs/concepts/architecture/nodes/) are [**supported**](https://kubernetes.io/docs/concepts/windows/intro/#windows-os-version-support) **provided that the operating system is Windows Server 2019.**
 
-****
 
-****
+

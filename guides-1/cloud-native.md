@@ -12,7 +12,7 @@ A cloud native application is designed to run on a cloud native infrastructure p
 
 * **Cloud native applications are agile**. Agility allows the application to be deployed quickly with short iterations. Often this requires applications to be written as microservices rather than monoliths**, but having microservices is not a requirement for cloud native applications.**
 
-****
+
 
 * **Cloud native applications are operable**. Operability concerns itself with the qualities of a system that make it work well over its lifetime, not just at deployment phase. An operable application is not only reliable from the end-user point of view, but also from the vantage of the operations team. Examples of operable software is one which operates without needing application restarts or server reboots, or hacks and workarounds that are required to keep the software running. Often this means that the application itself should expose a health check in order for the infrastructure it is running on to query the state of the application.
 

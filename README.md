@@ -2,7 +2,7 @@
 
 This guide contains all the useful links to various resources to help grow knowledge regards to all CloudNative and DevOps related stuff.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

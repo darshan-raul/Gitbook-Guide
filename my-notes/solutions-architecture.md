@@ -37,6 +37,5 @@ Solution architect also identifies whether to build a solution or to source it. 
 
 A good solution architecture addresses the depth of different tools and technologies by investigating all possible architectural strategies, based on the mixed-use case, techniques, tools, and code reuse, <mark style="color:red;">**which comes from years of experience.**</mark>
 
-<mark style="color:red;">****</mark>
 
-<mark style="color:red;">****</mark>
+
