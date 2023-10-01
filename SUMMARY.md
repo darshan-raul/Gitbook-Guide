@@ -2,11 +2,7 @@
 
 * [Cloud Native Guide](README.md)
 * [Youtube Links](untitled.md)
-* [Miscellaneous useful Links](useful-links/README.md)
-  * [Softwares](useful-links/untitled.md)
-* [Guides](guides/README.md)
-  * [Computer Networking](guides/computer-networking.md)
-* [Learn by playing game](learn-by-playing-game.md)
+* [Guides](guides.md)
 * [Cheat Sheets](cheat-sheets.md)
 * [Motivation](motivation.md)
 
@@ -298,14 +294,6 @@
     * [Observability](certifications/kubernetes/ckad/observability.md)
     * [Services and networking](certifications/kubernetes/ckad/services-and-networking.md)
 
-## Videos
-
-* [Basics](videos/basics.md)
-* [Git](videos/git.md)
-* [Infra as code](videos/infra-as-code.md)
-* [CICD](videos/cicd.md)
-
 ## Best Practices
 
-* [REST Apis](best-practices/rest-apis.md)
 * [Continuous Integration](best-practices/continuous-integration.md)

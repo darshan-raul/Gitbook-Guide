@@ -35,4 +35,4 @@ It is a framework which helps cloud architects build secure, high-performing, re
 
 ### Interesting points:
 
-* Traditionally teams use [TOGAF](http://pubs.opengroup.org/architecture/togaf9-doc/arch/?ref=wellarchitected-wp) or the [Zachman Framework](https://www.zachman.com/about-the-zachman-framework?ref=wellarchitected-wp) as part of an enterprise architecture capability. :sweat\_smile:&#x20;
+* Traditionally teams use [TOGAF](http://pubs.opengroup.org/architecture/togaf9-doc/arch/?ref=wellarchitected-wp) or the [Zachman Framework](https://www.zachman.com/about-the-zachman-framework?ref=wellarchitected-wp) as part of an enterprise architecture capability.&#x20;
