@@ -40,5 +40,8 @@ Git ignore cheatsheets:
 
 {% embed url="https://github.com/kenmueller/gitignore" %}
 
+## Under the hood
 
 
+
+{% embed url="https://blog.meain.io/2023/what-is-in-dot-git/" %}

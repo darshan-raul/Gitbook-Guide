@@ -77,6 +77,7 @@
 
 * [Idempotency](system-design-concepts/idempotency.md)
 * [12 factor app](system-design-concepts/12-factor-app.md)
+* [Solutions Architecture](system-design-concepts/solutions-architecture.md)
 
 ## 🎡 Kubernetes
 
@@ -191,9 +192,6 @@
 
 ## MY NOTES
 
-* [AWS FAQS](my-notes/aws-faqs/README.md)
-  * [Untitled](my-notes/aws-faqs/untitled-1.md)
-  * [Billing](my-notes/aws-faqs/billing.md)
 * [AWS](my-notes/untitled/README.md)
   * [Billing and Cost Management](my-notes/untitled/billing-and-cost-management.md)
   * [Route53](my-notes/untitled/route53.md)
@@ -213,27 +211,11 @@
 * [CI/CD](my-notes/ci-cd/README.md)
   * [Terraform](my-notes/ci-cd/terraform.md)
   * [Jenkins](my-notes/ci-cd/jenkins.md)
-* [SSH](my-notes/ssh.md)
 * [Linux](my-notes/linux/README.md)
   * [LPIC](my-notes/linux/lpic/README.md)
     * [LPIC-1](my-notes/linux/lpic/lpic-1.md)
   * [Networking](my-notes/linux/networking.md)
   * [Gotchas](my-notes/linux/gotchas.md)
-* [AWS CLI](my-notes/aws-cli/README.md)
-  * [AWS IAM](my-notes/aws-cli/aws-iam.md)
-* [Go Lang notes](my-notes/go-lang-notes.md)
-* [Grpc notes](my-notes/grpc-notes.md)
-* [Google cloud notes](my-notes/google-cloud-notes.md)
-* [Github Actions](my-notes/github-actions.md)
-* [Solutions Architecture](my-notes/solutions-architecture.md)
-* [Kubernetes](my-notes/kubernetes/README.md)
-  * [Concepts](my-notes/kubernetes/concepts/README.md)
-    * [Windows containers](my-notes/kubernetes/concepts/windows-containers.md)
-    * [Controllers](my-notes/kubernetes/concepts/controllers.md)
-    * [Nodes](my-notes/kubernetes/concepts/nodes.md)
-    * [Images](my-notes/kubernetes/concepts/images.md)
-  * [Videos](my-notes/kubernetes/videos.md)
-  * [Articles](my-notes/kubernetes/articles.md)
 
 ## Packages/Binaries <a href="#packages" id="packages"></a>
 
