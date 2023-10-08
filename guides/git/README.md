@@ -14,6 +14,8 @@ Do it to get more grasp.
 
 {% embed url="https://learngitbranching.js.org/" %}
 
+{% embed url="http://gitready.com/" %}
+
 Playground:
 
 {% embed url="http://git-school.github.io/visualizing-git/" %}

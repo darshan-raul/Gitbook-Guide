@@ -19,3 +19,9 @@ A cloud native application is designed to run on a cloud native infrastructure p
 
 
 * **Cloud native applications are observable**. Observability provides answers to questions about application state. Operators and engineers should not need to make conjectures about what is going on in the application. Application logging and metrics are key to making this happen.
+
+
+
+## more reading
+
+{% embed url="https://www.alibabacloud.com/blog/seven-principles-of-cloud-native-architecture_598431" %}
