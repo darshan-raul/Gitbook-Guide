@@ -39,3 +39,11 @@ A good solution architecture addresses the depth of different tools and technolo
 
 
 
+### Non functional requirements:
+
+
+
+<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+
+
+

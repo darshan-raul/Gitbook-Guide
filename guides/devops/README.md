@@ -4,8 +4,6 @@ description: Know what devops actually means
 
 # DevOps
 
-
-
 **DevOps is a set of practices that emphasize the collaboration and communication of both Software Engineers and IT & Infrastructure Operations to reduce the time to market of a Product.**
 
 DevOps is a process that emphasizes communication and learning from a technical standpoint between software developers and IT professionals, like dev and ops, managing production environments, while automating the deployment of software and infrastructure changes with utmost care and collaboration. At the core, DevOps means combining development and operations into one unified team so that continuous process of learning, knowledge sharing, and shared responsibilities happen seamlessly between the two. The idea of DevOps grew out of the Agile methodology and first gained attention in 2009.
@@ -45,9 +43,13 @@ DevOps is a process that emphasizes communication and learning from a technical 
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?v=2NtiI0Ojczw" %}
+{% embed url="https://youtu.be/mBU3AJ3j1rg?si=-vDrK0ysov7kvuVx" %}
+
+{% embed url="https://youtu.be/9hNDCvhTODI?si=HK7D7th0oMMxKo0S" %}
 
 ## Extra Links:
+
+{% embed url="https://www.youtube.com/watch?v=2NtiI0Ojczw" %}
 
 {% embed url="https://www.civo.com/blog/devops-101-all-you-need-to-know?utm_content=bufferaf699&utm_medium=organic-twitter&utm_source=twitter&utm_campaign=civo-buffer" %}
 
