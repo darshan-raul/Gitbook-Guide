@@ -7,6 +7,10 @@
 * [Cloud Native](guides/cloud-native.md)
 * [Software Engineering Concepts](guides/software-engineering-concepts/README.md)
   * [Multi Tenancy](guides/software-engineering-concepts/multi-tenancy.md)
+  * [DNS](guides/software-engineering-concepts/dns.md)
+  * [Protocols](guides/software-engineering-concepts/protocols.md)
+  * [Cache](guides/software-engineering-concepts/cache.md)
+  * [Reverse Proxy](guides/software-engineering-concepts/reverse-proxy.md)
   * [Basics](guides/software-engineering-concepts/basics.md)
 * [Cheat Sheets](guides/cheat-sheets.md)
 * [DevOps](guides/devops/README.md)
@@ -40,6 +44,7 @@
     * [File Based](guides/linux/tools/file-based/README.md)
       * [Rsync](guides/linux/tools/file-based/rsync.md)
   * [Text Manipulation](guides/linux/text-manipulation.md)
+  * [File system](guides/linux/file-system.md)
   * [Tmux](guides/linux/tmux.md)
   * [Boot process](guides/linux/boot-process.md)
   * [Editors](guides/linux/editors/README.md)
@@ -50,6 +55,7 @@
   * [Vault](guides/hashicorp/vault.md)
 * [Languages](guides/languages/README.md)
   * [Golang](guides/languages/golang/README.md)
+    * [Concurrency](guides/languages/golang/concurrency.md)
     * [Basics](guides/languages/golang/basics.md)
   * [Python](guides/languages/python/README.md)
     * [Logging](guides/languages/python/logging.md)
@@ -86,6 +92,13 @@
 
 ## System design concepts
 
+* [Basics](system-design-concepts/basics.md)
+* [Architecture](system-design-concepts/architecture.md)
+* [Authentication](system-design-concepts/authentication/README.md)
+  * [JWT](system-design-concepts/authentication/jwt.md)
+  * [Oauth2](system-design-concepts/authentication/oauth2.md)
+* [Performance](system-design-concepts/performance/README.md)
+  * [Rate Limiting](system-design-concepts/performance/rate-limiting.md)
 * [Idempotency](system-design-concepts/idempotency.md)
 * [12 factor app](system-design-concepts/12-factor-app.md)
 * [Solutions Architecture](system-design-concepts/solutions-architecture.md)
@@ -183,13 +196,17 @@
 
 ***
 
-* [Motivation](motivation.md)
 * [Work tips](work-tips/README.md)
   * [Time management](work-tips/time-management.md)
 
 ## STACK OVERFLOW
 
 * [Devops](stack-overflow/devops.md)
+* [Linux](stack-overflow/linux.md)
+* [Docker](stack-overflow/docker.md)
+* [Python](stack-overflow/python.md)
+* [AWS](stack-overflow/aws/README.md)
+  * [SSM](stack-overflow/aws/ssm.md)
 
 ## REDDIT
 
@@ -293,3 +310,7 @@
 ## Best Practices
 
 * [Continuous Integration](best-practices/continuous-integration.md)
+
+## Motivation
+
+* [Motivation](motivation/motivation.md)

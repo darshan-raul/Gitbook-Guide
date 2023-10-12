@@ -6,9 +6,9 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :)
 
-![The benifits look amazing compared to running normal ECS on EC2](<../../../.gitbook/assets/image (4) (1).png>)
+![The benifits look amazing compared to running normal ECS on EC2](<../../../.gitbook/assets/image (4) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 Lets get our hands dirty :
 
@@ -16,13 +16,13 @@ Lets get our hands dirty :
 
 Go to the Get started page and click edit on the container definition section.
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1) (1).png>)
 
 1. Give the container a name
 2. Give the image name. My AWSapi image on dockerhub in this case
 3. Give the port no's which are being exposed/used by the container
 
-![](<../../../.gitbook/assets/image (8) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1).png>)
 
 If you click the Advanced configuration option than many more option's like healthcheck/environment's appear.
 

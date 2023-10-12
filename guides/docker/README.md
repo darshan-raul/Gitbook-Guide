@@ -2,7 +2,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=1T2HMSQ2Bs4" %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Some code
