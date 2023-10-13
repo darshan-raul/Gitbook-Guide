@@ -69,6 +69,7 @@
   * [Messaging/Streaming Services](guides/aws/messaging-streaming-services/README.md)
     * [Kinesis](guides/aws/messaging-streaming-services/kinesis.md)
   * [KMS](guides/aws/kms.md)
+  * [ECS](guides/aws/ecs.md)
   * [IAM](guides/aws/iam.md)
   * [Step Workflows](guides/aws/step-workflows.md)
 * [GraphQL](guides/graphql.md)
@@ -93,12 +94,14 @@
 ## System design concepts
 
 * [Basics](system-design-concepts/basics.md)
-* [Architecture](system-design-concepts/architecture.md)
+* [Architecture](system-design-concepts/architecture/README.md)
+  * [Architecture Patterns](system-design-concepts/architecture/architecture-patterns.md)
 * [Authentication](system-design-concepts/authentication/README.md)
   * [JWT](system-design-concepts/authentication/jwt.md)
   * [Oauth2](system-design-concepts/authentication/oauth2.md)
 * [Performance](system-design-concepts/performance/README.md)
   * [Rate Limiting](system-design-concepts/performance/rate-limiting.md)
+* [Load Balancing](system-design-concepts/load-balancing.md)
 * [Idempotency](system-design-concepts/idempotency.md)
 * [12 factor app](system-design-concepts/12-factor-app.md)
 * [Solutions Architecture](system-design-concepts/solutions-architecture.md)
