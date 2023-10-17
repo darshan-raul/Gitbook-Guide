@@ -94,6 +94,9 @@
 ## System design concepts
 
 * [Basics](system-design-concepts/basics.md)
+* [Cheatsheets](system-design-concepts/cheatsheets.md)
+* [HTTP](system-design-concepts/http/README.md)
+  * [wellknown](system-design-concepts/http/wellknown.md)
 * [Architecture](system-design-concepts/architecture/README.md)
   * [Architecture Patterns](system-design-concepts/architecture/architecture-patterns.md)
 * [Authentication](system-design-concepts/authentication/README.md)

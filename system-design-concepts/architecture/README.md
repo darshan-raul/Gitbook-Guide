@@ -1,6 +1,6 @@
 # Architecture
 
-
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 <div data-full-width="true">
 
