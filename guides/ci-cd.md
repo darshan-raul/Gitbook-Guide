@@ -12,4 +12,6 @@
 
 {% embed url="https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/" %}
 
+{% embed url="https://www.youtube.com/watch?v=KnSBNd3b0qI" %}
+
 {% embed url="https://www.youtube.com/watch?v=uUw5DUQm64Y" %}
