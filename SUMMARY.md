@@ -97,6 +97,7 @@
 
 * [Basics](system-design-concepts/basics.md)
 * [Cheatsheets](system-design-concepts/cheatsheets.md)
+* [CAP theorem](system-design-concepts/cap-theorem.md)
 * [HTTP](system-design-concepts/http/README.md)
   * [wellknown](system-design-concepts/http/wellknown.md)
 * [Architecture](system-design-concepts/architecture/README.md)
@@ -108,6 +109,7 @@
 * [Performance](system-design-concepts/performance/README.md)
   * [Rate Limiting](system-design-concepts/performance/rate-limiting.md)
 * [Load Balancing](system-design-concepts/load-balancing.md)
+* [Resilience](system-design-concepts/resilience.md)
 * [Idempotency](system-design-concepts/idempotency.md)
 * [12 factor app](system-design-concepts/12-factor-app.md)
 * [Solutions Architecture](system-design-concepts/solutions-architecture.md)
@@ -327,4 +329,5 @@
 
 ## Motivation
 
-* [Motivation](motivation/motivation.md)
+* [Motivation](motivation/motivation/README.md)
+  * [Goal Setting](motivation/motivation/goal-setting.md)

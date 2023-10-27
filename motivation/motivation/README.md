@@ -22,5 +22,5 @@ choose your hard
 Power of consitency
 {% endembed %}
 
-![](../.gitbook/assets/a319b50.jpg)
+![](../../.gitbook/assets/a319b50.jpg)
 
