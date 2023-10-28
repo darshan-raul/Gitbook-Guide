@@ -7,6 +7,7 @@
 * [Cloud Native](guides/cloud-native.md)
 * [Software Engineering Concepts](guides/software-engineering-concepts/README.md)
   * [Multi Tenancy](guides/software-engineering-concepts/multi-tenancy.md)
+  * [HTTPS](guides/software-engineering-concepts/https.md)
   * [DNS](guides/software-engineering-concepts/dns.md)
   * [Protocols](guides/software-engineering-concepts/protocols.md)
   * [Cache](guides/software-engineering-concepts/cache.md)
