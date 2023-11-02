@@ -4,9 +4,25 @@ SREs are **responsible for the “availability, latency, performance, efficiency
 
 They use service-level objectives (SLOs) and error budgets to set shared expectations for performance and balance reliability with innovation, respectively.
 
+
+
+SRE is all about applying a software engineering mindset to system administration. As a software engineer, you look at the business requirements and develop the system. Likewise, a Service Reliability Engineer needs to look at how each disruption can affect the business requirement and then find a solution for it accordingly.
+
+
+
+
+
 {% embed url="https://www.youtube.com/playlist?list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj" %}
 
 {% embed url="https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/" %}
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+{% embed url="https://www.businessprocessincubator.com/content/keep-lights-on-the-sre-way/" %}
 
 {% embed url="https://www.bytebase.com/blog/dev-sre-ops-devops-difference/" %}
 
@@ -15,3 +31,5 @@ SRE playlist
 {% endembed %}
 
 {% embed url="https://www.youtube.com/playlist?list=PLIivdWyY5sqISlOXDGGK-SeUCvsxtB1c0" %}
+
+{% embed url="https://www.youtube.com/watch?v=RfnjNskapNg" %}

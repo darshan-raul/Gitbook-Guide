@@ -121,6 +121,7 @@
   * [Best  Practices](kubernetes/concepts/best-practices/README.md)
     * [Security](kubernetes/concepts/best-practices/security.md)
     * [Deployment options](kubernetes/concepts/best-practices/deployment-options.md)
+  * [Startup](kubernetes/concepts/startup.md)
   * [Deployments](kubernetes/concepts/deployments.md)
   * [Security](kubernetes/concepts/security.md)
   * [Logging](kubernetes/concepts/logging.md)

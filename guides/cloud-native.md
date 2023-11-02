@@ -22,6 +22,16 @@ A cloud native application is designed to run on a cloud native infrastructure p
 
 
 
+### Roadmap
+
+
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/F9p8BhBWQAAKkGq.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## more reading
 
 {% embed url="https://www.alibabacloud.com/blog/seven-principles-of-cloud-native-architecture_598431" %}
