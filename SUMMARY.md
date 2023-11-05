@@ -44,6 +44,8 @@
   * [MonoRepos](guides/coding-practices/monorepos.md)
 * [Linux](guides/linux/README.md)
   * [Tools](guides/linux/tools/README.md)
+    * [Package Manager](guides/linux/tools/package-manager/README.md)
+      * [Yum](guides/linux/tools/package-manager/yum.md)
     * [File Based](guides/linux/tools/file-based/README.md)
       * [Rsync](guides/linux/tools/file-based/rsync.md)
   * [Text Manipulation](guides/linux/text-manipulation.md)

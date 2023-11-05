@@ -8,7 +8,7 @@ They use service-level objectives (SLOs) and error budgets to set shared expecta
 
 SRE is all about applying a software engineering mindset to system administration. As a software engineer, you look at the business requirements and develop the system. Likewise, a Service Reliability Engineer needs to look at how each disruption can affect the business requirement and then find a solution for it accordingly.
 
-
+{% embed url="https://youtu.be/GnvXfFcfEPg?si=g7jeyaYk0pn5iYBo" %}
 
 
 
