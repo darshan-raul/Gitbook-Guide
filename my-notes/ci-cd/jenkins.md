@@ -31,24 +31,24 @@ After this all you need to do is configure awscli and jenkins thats it.
 
 ### Steps:
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 1. Click on  new item on the left side bar in Jenkins main dashboard and on the next page give the job a name.
 2. Select the type as Pipeline.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (149).png>)
 
 1. Give the job a description
 2. This option determines when, if ever, build records for this project should be discarded. Build records include the console output, archived artifacts, and any other metadata related to a particular build.
 3. Here you can mention the project url for the github project
 
-![](<../../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (146).png>)
 
 1. I am selecting the build periodically so that every 12 hours the job is run
 2. You can choose the github hook trigger using Github plugin
 3. or Poll SCM&#x20;
 
-![](<../../.gitbook/assets/image (70).png>)
+![](<../../.gitbook/assets/image (77).png>)
 
 1. You can either choose to write the pipeline script here or choose the pipeline script from SCM option
 2. Here you mention the pipeline script..else you can create one by using the Pipeline Syntax button given below \
@@ -56,11 +56,11 @@ After this all you need to do is configure awscli and jenkins thats it.
 
 Once done you can build the job and open blueocean and see the progress according to stage's you set in pipeline syntax.
 
-![](<../../.gitbook/assets/image (71).png>)
+![](<../../.gitbook/assets/image (114).png>)
 
 After a while both the stages are built successfully and you can view the logs too.
 
-![](<../../.gitbook/assets/image (72).png>)
+![](<../../.gitbook/assets/image (118).png>)
 
 This was the code:
 
@@ -88,7 +88,7 @@ node {
 
 Now its time to add another stage where the code is deployed to S3 bucket
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (213).png>)
 
 In package.json of the Angular app , I have added a additional script to build as well as copy the files to S3 bucket where the static website is hosted.
 
@@ -127,9 +127,9 @@ node {
 
 Build it and then you will see 3 stages now. Let the pipeline complete.
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (151).png>)
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (150).png>)
 
 This failed as for some reason even after configuring the correct AWS credentials the s3 upload command was failing.
 
@@ -137,13 +137,13 @@ Enter S3 plugin.
 
 In available plugins search for S3 and install S3 publisher.
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 Go to Manage jenkin's > Configure System
 
 Scroll Down to  `Amazon S3 profiles`&#x20;
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (172).png>)
 
 1. Give a profile name
 2. Give Access key
@@ -151,7 +151,7 @@ Scroll Down to  `Amazon S3 profiles`&#x20;
 
 Now configure the Pipeline job again and under the pipeline code, Click 'pipeline syntax' . It can be used to create pipeline code
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 1. In sample step select S3upload
 2. Select the S3 profile you created before
@@ -159,11 +159,11 @@ Now configure the Pipeline job again and under the pipeline code, Click 'pipelin
 4. give the destination bucket
 5. give the bucket region
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (181).png>)
 
 Copy the pipeline script that is created. Edit the pipeline script and build again.
 
-![](<../../.gitbook/assets/image (81).png>)
+![](<../../.gitbook/assets/image (97).png>)
 
 It runs smoothly :)
 

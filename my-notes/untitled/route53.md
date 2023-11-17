@@ -11,10 +11,10 @@ Perform three main functions in any combination:&#x20;
 
     `When a user opens a web browser and enters your domain name (example.com) or subdomain name (acme.example.com) in the address bar, Route 53 helps connect the browser with your website or web application.`
 
-![](<../../.gitbook/assets/image (171).png>)
+![](<../../.gitbook/assets/image (153).png>)
 
 * health checking.`Route 53 sends automated requests over the internet to a resource, such as a web server, to verify that it's reachable, available, and functional. You also can choose to receive notifications when a resource becomes unavailable and choose to route internet traffic away from unhealthy resources.`
 
 
 
-![](<../../.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (58).png>)

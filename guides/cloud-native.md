@@ -2,7 +2,7 @@
 
 The Cloud Native Computing Foundation seeks to **drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects.**
 
-<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 A cloud native application is designed to run on a cloud native infrastructure platform with the following four key traits:
 

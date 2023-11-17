@@ -1,6 +1,6 @@
 # Kubernetes
 
-![](<../../.gitbook/assets/image (189).png>)
+![](<../../.gitbook/assets/image (166).png>)
 
 ## Containers
 

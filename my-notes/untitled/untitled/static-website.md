@@ -8,7 +8,7 @@ But I wanted to take that a level up and use CDN and DNS server attached to it. 
 
 Steps:
 
-![](<../../../.gitbook/assets/s32 (1).png>)
+![](../../../.gitbook/assets/s32.png)
 
 Go to Route53 and create a hosted zone
 

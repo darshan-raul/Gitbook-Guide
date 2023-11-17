@@ -6,37 +6,37 @@ AWS Fargate :Run containers without managing servers or clusters
 
 That's just the copy pasted paragraph from AWS's article but that give's a bird's eye view of the whole thing :)
 
-![The benifits look amazing compared to running normal ECS on EC2](<../../../.gitbook/assets/image (4) (1) (1).png>)
+![The benifits look amazing compared to running normal ECS on EC2](<../../../.gitbook/assets/image (104).png>)
 
-![](<../../../.gitbook/assets/image (5) (1).png>)
+![](<../../../.gitbook/assets/image (136).png>)
 
 Lets get our hands dirty :
 
-![](<../../../.gitbook/assets/image (6) (1).png>)
+![](<../../../.gitbook/assets/image (48).png>)
 
 Go to the Get started page and click edit on the container definition section.
 
-![](<../../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../../.gitbook/assets/image (183).png>)
 
 1. Give the container a name
 2. Give the image name. My AWSapi image on dockerhub in this case
 3. Give the port no's which are being exposed/used by the container
 
-![](<../../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../../.gitbook/assets/image (160).png>)
 
 If you click the Advanced configuration option than many more option's like healthcheck/environment's appear.
 
 I am avoiding them and click update.
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (216).png>)
 
 You should be able to see your container highlighted here. Confirm the image/cpu settings before moving ahead. We will be changing that in the next step.
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (100).png>)
 
 Click edit on the task definition. **Task Definition is like the blueprint of the application.**
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (39).png>)
 
 1. Give the task a name
 2. Your default network mode is awsvpc // thats the docker networking mode
@@ -47,11 +47,11 @@ Click edit on the task definition. **Task Definition is like the blueprint of th
 
 I choose the default ones and move ahead.
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (90).png>)
 
 Next is the service definition.. Service is basically the instance of the task definition. Click 'Edit'
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (191).png>)
 
 1. Give the service a name
 2. Give the number of task's you want running in a service. I am selecting 2.
@@ -59,25 +59,25 @@ Next is the service definition.. Service is basically the instance of the task d
 4. Select the load balancer type or none.
 5. Select the port no for the Load balancer
 
-![](<../../../.gitbook/assets/image (14).png>)
+![](<../../../.gitbook/assets/image (74).png>)
 
 Next give the Cluster configuration. Iam choosing the default ones.
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (102).png>)
 
 Final section is the review section.
 
 Click Create.
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (219).png>)
 
 This status page will open showing the progress in preparing the service.
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (46).png>)
 
 If all goes well, You should be able to see everything green :) Click 'View Service'
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (185).png>)
 
 Three things to notice on the main page here:
 
@@ -87,33 +87,33 @@ Three things to notice on the main page here:
 
 &#x20;
 
-![](<../../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (92).png>)
 
 Tasks are in pending state
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (89).png>)
 
 Meanwhile on Cloudformation console you can see the stack created
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (108).png>)
 
 My containers kept failing for the above reason.
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (59).png>)
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (170).png>)
 
 Temporarily deleted the cluster&#x20;
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (188).png>)
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (205).png>)
 
 Went to task definition's and created new revision. Made some tweaks to the memory section.
 
 and voila:
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (171).png>)
 
 That was another quick overview of Fargate side of ECS just like the EC2 side of it. But in this case we donot have to care about the cluster management as AWS will take care of it. SERVERLESS CONTAINER's you'll !! :)
 

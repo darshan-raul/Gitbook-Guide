@@ -2,27 +2,27 @@
 
 ## HTTPS:
 
-![](<../.gitbook/assets/image (160).png>)
+![](<../.gitbook/assets/image (84).png>)
 
 How to apply for https certificate:
 
-![](<../.gitbook/assets/image (162).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 SELF SIGNED  CERTIFICATE:
 
 
 
-![](<../.gitbook/assets/image (163).png>)
+![](<../.gitbook/assets/image (76).png>)
 
 ## NAT:
 
-![](<../.gitbook/assets/image (168).png>)
+![](<../.gitbook/assets/image (156).png>)
 
-![](<../.gitbook/assets/image (164).png>)
+![](<../.gitbook/assets/image (144).png>)
 
 
+
+![](<../.gitbook/assets/image (186).png>)
 
 ![](<../.gitbook/assets/image (165).png>)
-
-![](<../.gitbook/assets/image (166).png>)
 

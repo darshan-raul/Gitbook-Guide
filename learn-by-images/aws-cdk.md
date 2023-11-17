@@ -2,5 +2,5 @@
 
 Install:
 
-![](<../.gitbook/assets/image (128).png>)
+![](<../.gitbook/assets/image (192).png>)
 

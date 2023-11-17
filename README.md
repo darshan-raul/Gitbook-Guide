@@ -10,4 +10,4 @@ This guide contains all the useful links to various resources to help grow knowl
 
 {% embed url="https://techbeacon.com/devops/devops-100-top-leaders-practitioners-experts-follow" %}
 
-<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>

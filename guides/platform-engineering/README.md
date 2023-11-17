@@ -4,9 +4,9 @@ Platform Engineering is the process of enabling software engineering teams so th
 
 Luca Galante defines platform engineering as the <mark style="color:purple;">“discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud native era</mark>. Platform engineers provide an integrated product most often referred to as an ‘Internal Developer Platform’ covering the operation necessities of the entire life cycle of an application.”
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 Whether it is infrastructure provisioning, code pipelines, monitoring, or container management, the self-service platform hides all these complexities and provides developers with all the necessities of the entire life cycle of the application.&#x20;
 
@@ -28,4 +28,4 @@ Platform Engineering is not just‌ necessary tooling but a combination of tools
 
 {% embed url="https://www.youtube.com/watch?v=9_v77YiSGEY&list=WL&index=158" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>

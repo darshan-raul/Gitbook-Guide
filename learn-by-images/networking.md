@@ -4,5 +4,5 @@
 
 ### DHCP Options:
 
-![](<../.gitbook/assets/image (167).png>)
+![](<../.gitbook/assets/image (82).png>)
 

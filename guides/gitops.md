@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/FfsmCgaX0AAGi0Y.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=r0yVUkTyWwI" %}
 
