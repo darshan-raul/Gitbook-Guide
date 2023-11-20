@@ -2,7 +2,12 @@
 
 {% embed url="https://letterstoanewdeveloper.com/2021/10/25/but-first-dont-do-the-dishes" %}
 
+{% embed url="https://x.com/AdamColb_/status/1726170969755079117?s=20" %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 > ```
+>
 > Your system should be as simple as possible, but not simpler than that.
 >
 > DAVID ALLEN

@@ -18,13 +18,15 @@ SRE is all about applying a software engineering mindset to system administratio
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 {% embed url="https://www.businessprocessincubator.com/content/keep-lights-on-the-sre-way/" %}
 
 {% embed url="https://www.bytebase.com/blog/dev-sre-ops-devops-difference/" %}
+
+{% embed url="https://github.com/dastergon/awesome-sre" %}
 
 {% embed url="https://www.youtube.com/playlist?list=PL6VBQyIvTlRg3t_sl0dIcmh_X2qLmpHh4" %}
 SRE playlist
