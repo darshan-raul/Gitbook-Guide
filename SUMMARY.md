@@ -237,3 +237,4 @@
 * [Work tips](motivation/work-tips/README.md)
   * [Time management](motivation/work-tips/time-management.md)
 * [Observability](motivation/observability.md)
+* [Management](motivation/management.md)
