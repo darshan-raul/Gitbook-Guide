@@ -23,6 +23,7 @@
   * [EBPF](guides/observability/ebpf.md)
   * [Tracing](guides/observability/tracing.md)
 * [SRE](guides/sre.md)
+* [LLMS](guides/llms.md)
 * [DevOps Tools](guides/devops-tools.md)
 * [CI CD](guides/ci-cd/README.md)
   * [deployment strategies](guides/ci-cd/deployment-strategies.md)
