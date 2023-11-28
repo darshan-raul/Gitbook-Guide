@@ -99,6 +99,7 @@
 * [Non functional requirements](guides/non-functional-requirements/README.md)
   * [Scaling](guides/non-functional-requirements/scaling.md)
 * [Networking](guides/networking/README.md)
+  * [Ipv6](guides/networking/ipv6.md)
   * [TLS](guides/networking/tls.md)
 * [Event Driven Architecture](guides/event-driven-architecture.md)
 * [ChatGpt](guides/chatgpt.md)
