@@ -196,6 +196,13 @@
   * [Validation](kubernetes/guides/validation/README.md)
     * [Datree](kubernetes/guides/validation/datree.md)
 
+## AWS
+
+* [Concepts](aws/concepts.md)
+* [Guides](aws/guides/README.md)
+  * [Ec2](aws/guides/ec2/README.md)
+    * [Spot pool](aws/guides/ec2/spot-pool.md)
+
 ## Playlists
 
 * [K8s](playlists/k8s.md)
