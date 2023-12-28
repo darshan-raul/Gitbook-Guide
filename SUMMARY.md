@@ -235,6 +235,7 @@
 ## Motivation
 
 * [Motivation](motivation/motivation/README.md)
+  * [Discipline](motivation/motivation/discipline.md)
   * [Goal Setting](motivation/motivation/goal-setting.md)
 * [Work tips](motivation/work-tips/README.md)
   * [Time management](motivation/work-tips/time-management.md)
