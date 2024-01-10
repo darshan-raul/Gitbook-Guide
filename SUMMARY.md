@@ -129,6 +129,8 @@
 * [RAFT](system-design-concepts/raft.md)
 * [Caching](system-design-concepts/caching.md)
 * [Solutions Architecture](system-design-concepts/solutions-architecture.md)
+* [Observability](system-design-concepts/observability.md)
+* [Performance testing](system-design-concepts/performance-testing.md)
 
 ## 🎡 Kubernetes
 
