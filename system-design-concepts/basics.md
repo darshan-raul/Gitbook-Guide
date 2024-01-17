@@ -11,3 +11,7 @@
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+{% embed url="https://x.com/sahnlam/status/1745701125511356805?s=20" %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

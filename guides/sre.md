@@ -18,7 +18,7 @@ SRE is all about applying a software engineering mindset to system administratio
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
