@@ -120,6 +120,7 @@
 * [Authentication](system-design-concepts/authentication/README.md)
   * [JWT](system-design-concepts/authentication/jwt.md)
   * [Oauth2](system-design-concepts/authentication/oauth2.md)
+  * [OIDC](system-design-concepts/authentication/oidc.md)
 * [Performance](system-design-concepts/performance/README.md)
   * [Rate Limiting](system-design-concepts/performance/rate-limiting.md)
 * [Load Balancing](system-design-concepts/load-balancing.md)
