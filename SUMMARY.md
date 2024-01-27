@@ -41,6 +41,7 @@
   * [Rebase](guides/git/rebase.md)
 * [Containers](guides/docker/README.md)
   * [Internals](guides/docker/internals.md)
+  * [Multi Arch images](guides/docker/multi-arch-images.md)
   * [Distroless](guides/docker/distroless.md)
   * [Security](guides/docker/security.md)
   * [Scratch Image](guides/docker/scratch-image.md)
