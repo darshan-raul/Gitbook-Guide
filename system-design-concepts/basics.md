@@ -14,4 +14,4 @@
 
 {% embed url="https://x.com/sahnlam/status/1745701125511356805?s=20" %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
