@@ -4,6 +4,9 @@
 
 ## Guides
 
+* [Solution architecture](guides/solution-architecture/README.md)
+  * [requirements](guides/solution-architecture/requirements/README.md)
+    * [Compliance](guides/solution-architecture/requirements/compliance.md)
 * [Cloud Native](guides/cloud-native.md)
 * [Software Engineering Concepts](guides/software-engineering-concepts/README.md)
   * [Basics](guides/software-engineering-concepts/basics.md)

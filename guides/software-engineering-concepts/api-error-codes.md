@@ -1,5 +1,5 @@
 # API error codes
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://dzone.com/refcardz/api-integration-patterns" %}
