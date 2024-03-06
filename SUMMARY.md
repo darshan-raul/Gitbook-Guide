@@ -30,6 +30,7 @@
 * [LLMS](guides/llms.md)
 * [DevOps Tools](guides/devops-tools.md)
 * [CI CD](guides/ci-cd/README.md)
+  * [Jenkins](guides/ci-cd/jenkins.md)
   * [deployment strategies](guides/ci-cd/deployment-strategies.md)
 * [Kubernetes](guides/kubernetes/README.md)
   * [cluster setup](guides/kubernetes/cluster-setup.md)
