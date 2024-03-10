@@ -4,9 +4,6 @@
 
 ## Guides
 
-* [Solution architecture](guides/solution-architecture/README.md)
-  * [requirements](guides/solution-architecture/requirements/README.md)
-    * [Compliance](guides/solution-architecture/requirements/compliance.md)
 * [Cloud Native](guides/cloud-native.md)
 * [Software Engineering Concepts](guides/software-engineering-concepts/README.md)
   * [Basics](guides/software-engineering-concepts/basics.md)
@@ -66,7 +63,8 @@
   * [Boot process](guides/linux/boot-process.md)
   * [Editors](guides/linux/editors/README.md)
     * [Vim](guides/linux/editors/vim.md)
-  * [Networking](guides/linux/networking.md)
+  * [Networking](guides/linux/networking/README.md)
+    * [DHCP](guides/linux/networking/dhcp.md)
 * [Hashicorp](guides/hashicorp/README.md)
   * [Terraform](guides/hashicorp/terraform.md)
   * [Boundary](guides/hashicorp/boundary.md)
