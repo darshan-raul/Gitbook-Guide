@@ -71,7 +71,7 @@
   * [Vault](guides/hashicorp/vault.md)
 * [Languages](guides/languages/README.md)
   * [Golang](guides/languages/golang/README.md)
-    * [Page 1](guides/languages/golang/page-1.md)
+    * [context](guides/languages/golang/context.md)
     * [Methods](guides/languages/golang/methods.md)
     * [Playlists](guides/languages/golang/playlists.md)
     * [Crash Course](guides/languages/golang/crash-course.md)
