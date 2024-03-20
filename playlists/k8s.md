@@ -4,6 +4,4 @@
 Enlgihting by Vmware
 {% endembed %}
 
-## Gitops
-
-{% embed url="https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqfGCkI28cUMbNhPhsnj4nq3" %}
+##
