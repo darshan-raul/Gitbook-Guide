@@ -13,7 +13,7 @@
   * [Scratch Image](docker/scratch-image.md)
   * [Container Registry](docker/container-registry.md)
 
-## 🎡 Kubernetes
+## ☸️ Kubernetes
 
 * [Concepts](kubernetes/concepts/README.md)
   * [Best  Practices](kubernetes/concepts/best-practices/README.md)
@@ -85,10 +85,11 @@
   * [Validation](kubernetes/guides/validation/README.md)
     * [Datree](kubernetes/guides/validation/datree.md)
 
-## AWS
+## ⛅ AWS
 
 * [Concepts](aws/concepts.md)
 * [Guides](aws/guides/README.md)
+  * [🧑‍🏫 Perspective Guidance](aws/guides/perspective-guidance.md)
   * [Ec2](aws/guides/ec2/README.md)
     * [Spot pool](aws/guides/ec2/spot-pool.md)
 
@@ -212,6 +213,7 @@
 * [Non functional requirements](guides/non-functional-requirements/README.md)
   * [Scaling](guides/non-functional-requirements/scaling.md)
 * [Networking](guides/networking/README.md)
+  * [Packet flow](guides/networking/packet-flow.md)
   * [Ipv6](guides/networking/ipv6.md)
   * [TCP](guides/networking/tcp.md)
   * [TLS](guides/networking/tls.md)
