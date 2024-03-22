@@ -113,6 +113,8 @@
 
 ## System design concepts
 
+* [Non functional requirements](system-design-concepts/non-functional-requirements/README.md)
+  * [Scaling](system-design-concepts/non-functional-requirements/scaling.md)
 * [Basics](system-design-concepts/basics.md)
 * [Cheatsheets](system-design-concepts/cheatsheets.md)
 * [CAP theorem](system-design-concepts/cap-theorem.md)
@@ -143,7 +145,8 @@
 * [Observability](guides/observability/README.md)
   * [EBPF](guides/observability/ebpf.md)
   * [Tracing](guides/observability/tracing.md)
-* [GenAI/LLMS](guides/genai-llms.md)
+* [GenAI/LLMS](guides/genai-llms/README.md)
+  * [Is AI going to take our jobs?](guides/genai-llms/is-ai-going-to-take-our-jobs.md)
 * [CI CD](guides/ci-cd/README.md)
   * [Jenkins](guides/ci-cd/jenkins.md)
   * [deployment strategies](guides/ci-cd/deployment-strategies.md)
@@ -178,6 +181,7 @@
   * [Vault](guides/hashicorp/vault.md)
 * [Languages](guides/languages/README.md)
   * [Golang](guides/languages/golang/README.md)
+    * [For Beginners](guides/languages/golang/for-beginners.md)
     * [context](guides/languages/golang/context.md)
     * [Methods](guides/languages/golang/methods.md)
     * [Playlists](guides/languages/golang/playlists.md)
@@ -210,8 +214,6 @@
 * [Security](guides/security/README.md)
   * [Supply Chain Security](guides/security/supply-chain-security.md)
   * [Zero Trust](guides/security/zero-trust.md)
-* [Non functional requirements](guides/non-functional-requirements/README.md)
-  * [Scaling](guides/non-functional-requirements/scaling.md)
 * [Networking](guides/networking/README.md)
   * [Packet flow](guides/networking/packet-flow.md)
   * [Ipv6](guides/networking/ipv6.md)
@@ -222,6 +224,7 @@
 * [WASM](guides/wasm/README.md)
   * [Docker + WASM](guides/wasm/docker-+-wasm.md)
   * [Kubernetes + WASM](guides/wasm/kubernetes-+-wasm.md)
+* [Testing](guides/testing.md)
 
 ## Playlists
 
@@ -253,6 +256,7 @@
 ## Motivation
 
 * [Motivation](motivation/motivation/README.md)
+  * [Focus](motivation/motivation/focus.md)
   * [Discipline](motivation/motivation/discipline.md)
   * [Goal Setting](motivation/motivation/goal-setting.md)
 * [Work tips](motivation/work-tips/README.md)

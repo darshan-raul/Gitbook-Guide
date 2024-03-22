@@ -4,3 +4,4 @@
 
 {% embed url="https://tls.ulfheim.net/" %}
 
+{% embed url="https://www.thesslstore.com/blog/explaining-ssl-handshake/" %}
