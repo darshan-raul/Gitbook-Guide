@@ -25,3 +25,11 @@ A cloud native application is designed to run on a cloud native infrastructure p
 
 {% embed url="https://www.alibabacloud.com/blog/seven-principles-of-cloud-native-architecture_598431" fullWidth="true" %}
 
+* https://cloudnative101.dev/concepts/cloud-native/
+* https://iximiuz.com/en/posts/making-sense-out-of-cloud-native-buzz/
+* https://www.aquasec.com/cloud-native-academy
+* **cloudnative basics:**
+  * https://landscape.cncf.io
+  * https://cloudnative101.dev/concepts/cloud-native/
+  * https://landscape.cncf.io/guide
+  *

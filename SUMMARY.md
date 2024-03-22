@@ -148,6 +148,7 @@
 * [GenAI/LLMS](guides/genai-llms/README.md)
   * [Is AI going to take our jobs?](guides/genai-llms/is-ai-going-to-take-our-jobs.md)
 * [CI CD](guides/ci-cd/README.md)
+  * [Github Actions](guides/ci-cd/github-actions.md)
   * [Jenkins](guides/ci-cd/jenkins.md)
   * [deployment strategies](guides/ci-cd/deployment-strategies.md)
 * [DevSecOps](guides/devsecops/README.md)
@@ -247,6 +248,7 @@
 
 ## NOTES
 
+* [Blogs](notes/blogs.md)
 * [Links](notes/links.md)
 * [Devops toolkit](notes/devops-toolkit.md)
 * [Network Troubleshooting](notes/network-troubleshooting.md)
