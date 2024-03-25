@@ -4,6 +4,10 @@
 
 {% embed url="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7" %}
 
+{% embed url="https://youtu.be/jjKFXlFNR4E?si=D6M407xmv1KwrOUi" %}
+
+##
+
 ## 32 bit vs 64 bit computers? why is 64 bit faster?
 
 

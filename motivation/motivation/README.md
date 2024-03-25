@@ -4,7 +4,7 @@
 
 {% embed url="https://x.com/AdamColb_/status/1726170969755079117?s=20" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > ```
 >
@@ -29,3 +29,4 @@ Power of consitency
 
 ![](../../.gitbook/assets/a319b50.jpg)
 
+{% embed url="https://youtu.be/0kIoZi3yxYk?si=L_KIw9Pp1KsLk07s" %}
