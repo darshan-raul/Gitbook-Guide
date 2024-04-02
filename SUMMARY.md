@@ -17,12 +17,14 @@
 ## ☸️ Kubernetes
 
 * [Concepts](kubernetes/concepts/README.md)
+  * [Start Here](kubernetes/concepts/start-here.md)
+  * [Kubernetes Objects](kubernetes/concepts/kubernetes-objects.md)
+  * [Deployments](kubernetes/concepts/deployments.md)
+  * [Statefulsets](kubernetes/concepts/statefulsets.md)
   * [Best  Practices](kubernetes/concepts/best-practices/README.md)
     * [Security](kubernetes/concepts/best-practices/security.md)
     * [Deployment options](kubernetes/concepts/best-practices/deployment-options.md)
-  * [Startup](kubernetes/concepts/startup.md)
-  * [Deployments](kubernetes/concepts/deployments.md)
-  * [Statefulsets](kubernetes/concepts/statefulsets.md)
+  * [Deep dives](kubernetes/concepts/deep-dives.md)
   * [Operators](kubernetes/concepts/operators.md)
   * [Security](kubernetes/concepts/security.md)
   * [Networking](kubernetes/concepts/networking.md)
