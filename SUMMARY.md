@@ -106,6 +106,7 @@
   * [Hardening](linux/linux/hardening/README.md)
     * [PAM](linux/linux/hardening/pam.md)
   * [Tools](linux/linux/tools/README.md)
+    * [Vim](linux/linux/tools/vim.md)
     * [Package Manager](linux/linux/tools/package-manager/README.md)
       * [Yum](linux/linux/tools/package-manager/yum.md)
     * [File Based](linux/linux/tools/file-based/README.md)
@@ -159,6 +160,7 @@
 * [Solutions Architecture](solution-architecture-concepts/solutions-architecture.md)
 * [Observability](solution-architecture-concepts/observability.md)
 * [Performance testing](solution-architecture-concepts/performance-testing.md)
+* [Percentile](solution-architecture-concepts/percentile.md)
 
 ***
 
@@ -238,6 +240,7 @@
 ## 📺 Playlists
 
 * [K8s](playlists/k8s.md)
+* [Nginx](playlists/nginx.md)
 
 ## 💯 REDDIT
 
