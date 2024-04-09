@@ -1,4 +1,6 @@
-# Page 1
+# context
+
+{% embed url="https://www.youtube.com/watch?v=Q0BdETrs1Ok&t=127s" %}
 
 The `context` package in Go is used for passing request-scoped values, cancellation signals, and deadlines across API boundaries to all the goroutines involved in handling a particular request. It provides a way to manage and cancel long-running operations, propagate values across API boundaries, and handle timeouts. Here's a detailed explanation of the `context` package and some practical scenarios where you can use it.
 
@@ -144,3 +146,61 @@ Additionally, there are other functions like `context.WithDeadline()`, `context.
     ```
 
 These are just a few examples of how the `context` package can be used in Go. The package is widely used in many parts of the Go standard library and third-party libraries, providing a consistent way of managing and canceling long-running operations, propagating request-scoped values, and enforcing timeouts and deadlines across different components of an application.
+
+***
+
+Here's a breakdown of `context.TODO()` and `context.Background()` in Go, their use cases, and when to choose one over the other:
+
+**context.Background()**
+
+* **Purpose:** The root of all contexts. Represents the basis for which other contexts get derived.
+* **Use Cases:**
+  * **Main function:** Typically used in the `main` function to initiate top-level contexts.
+  * **Initialization:** Used during initialization phases where further context propagation isn't required.
+  * **Tests:** Commonly used in simple unit tests that don't need sophisticated context handling.
+  * **Top-level Requests:** Use for incoming requests at API boundaries where the internal chain of function calls might create and propagate more derived contexts.
+
+**context.TODO()**
+
+* **Purpose:** Acts as a placeholder. It stands out in code, signaling a missing context.
+* **Use Cases:**
+  * **Temporary During Development:** Use when you haven't implemented the functionality to propagate proper contexts, but still need to compile and run code.
+  * **Placeholders for Future Refinement:** Mark code sections where adding a more appropriate context is intended.
+  * **Prototyping:** Useful during prototyping when the context strategy isn't yet finalized.
+
+**Key Differences**
+
+* **Values & Deadlines:** Both `context.Background()` and `context.TODO()` return an empty context with no associated values or deadlines.
+* **Intent:** `context.Background()` is usually a final choice for top-level contexts. `context.TODO()` is a clear signal that a context needs attention.
+
+**When to Choose Which**
+
+1. **Start with `context.Background()`:** Begin with `context.Background()` at the initial points of your program (often your `main`) and as the base for incoming requests.
+2. **Use `context.TODO()` Sparingly:** Use `context.TODO()` cautiously and temporarily during development. Avoid leaving `context.TODO()` calls in final production code.
+3. **Propagate Derived Contexts:** When you need to pass deadlines, cancellation signals, or values down a call chain, create derived contexts using functions like:
+   * `context.WithDeadline()`
+   * `context.WithTimeout()`
+   * `context.WithCancel()`
+   * `context.WithValue()`
+
+**Important Note:** Never use `context.TODO()` for production code without replacing it with a context suitable for the situation.
+
+**Example**
+
+Go
+
+```
+func processRequest(ctx context.Context) {
+    // If you don't have a more appropriate context yet:
+    ctx = context.TODO() 
+
+    // ... do some work ...
+
+    // Replace with derived context before calling other functions:
+    ctx, cancel := context.WithTimeout(ctx, 5*time.Second)
+    defer cancel()
+    subResult := doSomethingElse(ctx) 
+    // ...
+}
+```
+
