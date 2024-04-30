@@ -140,6 +140,8 @@
 
 * [Software Engineering Concepts](solution-architecture-concepts/software-engineering-concepts/README.md)
   * [Basics](solution-architecture-concepts/software-engineering-concepts/basics.md)
+  * [GHz?](solution-architecture-concepts/software-engineering-concepts/ghz.md)
+  * [Cores?](solution-architecture-concepts/software-engineering-concepts/cores.md)
   * [Base64 encoding](solution-architecture-concepts/software-engineering-concepts/base64-encoding.md)
   * [Multi Tenancy](solution-architecture-concepts/software-engineering-concepts/multi-tenancy.md)
   * [API error codes](solution-architecture-concepts/software-engineering-concepts/api-error-codes.md)
@@ -246,6 +248,7 @@
   * [Stored Procedures](guides/databases/stored-procedures.md)
   * [Normalization](guides/databases/normalization.md)
 * [Security](guides/security/README.md)
+  * [IDS](guides/security/ids.md)
   * [Supply Chain Security](guides/security/supply-chain-security.md)
   * [Zero Trust](guides/security/zero-trust.md)
 * [Networking](guides/networking/README.md)
