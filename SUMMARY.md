@@ -211,6 +211,7 @@
 ## Guides
 
 * [Observability](guides/observability/README.md)
+  * [Open Telemetry](guides/observability/open-telemetry.md)
   * [EBPF](guides/observability/ebpf.md)
   * [Tracing](guides/observability/tracing.md)
 * [GenAI/LLMS](guides/genai-llms/README.md)
@@ -242,6 +243,7 @@
 * [Performance Engineering](guides/performance-engineering.md)
 * [GraphQL](guides/graphql.md)
 * [Grpc](guides/grpc.md)
+* [Deadlock](guides/deadlock.md)
 * [Troubleshooting](guides/troubleshooting.md)
 * [Databases](guides/databases/README.md)
   * [Columnar Databases](guides/databases/columnar-databases.md)
