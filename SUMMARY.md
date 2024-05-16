@@ -123,6 +123,7 @@
 
 * [Linux](linux/linux/README.md)
   * [Hardening](linux/linux/hardening/README.md)
+    * [AppArmor](linux/linux/hardening/apparmor.md)
     * [PAM](linux/linux/hardening/pam.md)
   * [Tools](linux/linux/tools/README.md)
     * [Vim](linux/linux/tools/vim.md)
