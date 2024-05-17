@@ -73,6 +73,7 @@
     * [Argo Rollouts](kubernetes/guides/progressive-delivery/argo-rollouts.md)
   * [Ingress](kubernetes/guides/ingress/README.md)
     * [Traefik](kubernetes/guides/ingress/traefik.md)
+  * [Secret Management](kubernetes/guides/secret-management.md)
   * [Gitops](kubernetes/guides/gitops/README.md)
     * [Argo CD](kubernetes/guides/gitops/argo-cd/README.md)
       * [Go SDK](kubernetes/guides/gitops/argo-cd/go-sdk.md)
