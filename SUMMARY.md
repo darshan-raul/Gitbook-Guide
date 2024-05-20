@@ -63,6 +63,7 @@
     * [Kustomize](kubernetes/guides/templating-patching/kustomize.md)
     * [Helm](kubernetes/guides/templating-patching/helm/README.md)
       * [Helmfile](kubernetes/guides/templating-patching/helm/helmfile.md)
+  * [Cluster uprades](kubernetes/guides/cluster-uprades.md)
   * [Multiple tools](kubernetes/guides/multiple-tools.md)
   * [Secrets Management](kubernetes/guides/secrets-management.md)
   * [Pipeline/Workflows](kubernetes/guides/pipeline-workflows/README.md)
