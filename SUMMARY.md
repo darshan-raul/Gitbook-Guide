@@ -118,8 +118,11 @@
   * [IAM](aws/concepts/iam.md)
 * [Guides](aws/guides/README.md)
   * [🧑‍🏫 Perspective Guidance](aws/guides/perspective-guidance.md)
+  * [RDS](aws/guides/rds/README.md)
+    * [SSL Connectivity](aws/guides/rds/ssl-connectivity.md)
   * [Ec2](aws/guides/ec2/README.md)
     * [Spot pool](aws/guides/ec2/spot-pool.md)
+  * [ECS to EKS](aws/guides/ecs-to-eks.md)
 
 ## 🐧 Linux
 
