@@ -1,5 +1,7 @@
 # Basics
 
+{% embed url="https://youtu.be/CxGSnA-RTsA?si=a8WSjKOj0Gz9lwfH" %}
+
 <figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
