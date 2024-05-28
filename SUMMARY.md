@@ -222,6 +222,7 @@
     * [Crash Course](languages/golang/crash-course.md)
     * [Concurrency](languages/golang/concurrency.md)
     * [Memory Leaks](languages/golang/memory-leaks.md)
+    * [Best Practices](languages/golang/best-practices.md)
     * [Basics](languages/golang/basics.md)
   * [Python](languages/python/README.md)
     * [Logging](languages/python/logging.md)
