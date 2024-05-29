@@ -132,6 +132,8 @@
 ## 🐧 Linux
 
 * [Linux](linux/linux/README.md)
+  * [Index](linux/linux/index.md)
+  * [Fundamentals](linux/linux/fundamentals.md)
   * [Hardening](linux/linux/hardening/README.md)
     * [AppArmor](linux/linux/hardening/apparmor.md)
     * [PAM](linux/linux/hardening/pam.md)
@@ -149,6 +151,8 @@
     * [Vim](linux/linux/editors/vim.md)
   * [Networking](linux/linux/networking/README.md)
     * [DHCP](linux/linux/networking/dhcp.md)
+  * [Compression](linux/linux/compression/README.md)
+    * [tar](linux/linux/compression/tar.md)
 
 ## 💡 Solution Architecture concepts
 
@@ -279,17 +283,13 @@
   * [Ipv6](guides/networking/ipv6.md)
   * [TCP](guides/networking/tcp.md)
   * [TLS](guides/networking/tls.md)
+* [Nginx](guides/nginx.md)
 * [Event Driven Architecture](guides/event-driven-architecture.md)
 * [ChatGpt](guides/chatgpt.md)
 * [WASM](guides/wasm/README.md)
   * [Docker + WASM](guides/wasm/docker-+-wasm.md)
   * [Kubernetes + WASM](guides/wasm/kubernetes-+-wasm.md)
 * [Testing](guides/testing.md)
-
-## 📺 Playlists
-
-* [K8s](playlists/k8s.md)
-* [Nginx](playlists/nginx.md)
 
 ## 💯 REDDIT
 
@@ -305,15 +305,6 @@
 ## 🎤 PODCASTS
 
 * [Tech guidance](podcasts/tech-guidance.md)
-
-## NOTES
-
-* [Blogs](notes/blogs.md)
-* [Links](notes/links.md)
-* [Devops toolkit](notes/devops-toolkit.md)
-* [Network Troubleshooting](notes/network-troubleshooting.md)
-* [Nested Cloudformation Stack](notes/nested-cloudformation-stack/README.md)
-  * [Links](notes/nested-cloudformation-stack/links.md)
 
 ## Motivation
 
