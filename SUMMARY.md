@@ -133,6 +133,7 @@
 
 * [Linux](linux/linux/README.md)
   * [Index](linux/linux/index.md)
+  * [Nologin user](linux/linux/nologin-user.md)
   * [Fundamentals](linux/linux/fundamentals.md)
   * [Hardening](linux/linux/hardening/README.md)
     * [AppArmor](linux/linux/hardening/apparmor.md)
@@ -310,6 +311,7 @@
 
 * [Motivation](motivation/motivation/README.md)
   * [Focus](motivation/motivation/focus.md)
+  * [Mindset](motivation/motivation/mindset.md)
   * [Discipline](motivation/motivation/discipline.md)
   * [Goal Setting](motivation/motivation/goal-setting.md)
 * [Work tips](motivation/work-tips/README.md)
