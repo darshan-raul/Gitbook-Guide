@@ -53,6 +53,7 @@
   * [Operators](kubernetes/concepts/operators-1.md)
   * [Secrets](kubernetes/concepts/secrets.md)
 * [Guides](kubernetes/guides/README.md)
+  * [OIDC with Keycloak](kubernetes/guides/oidc-with-keycloak.md)
   * [Kubectl](kubernetes/guides/kubectl.md)
   * [API management](kubernetes/guides/api-management.md)
   * [Troubleshooting](kubernetes/guides/troubleshooting/README.md)
@@ -117,6 +118,7 @@
 ## ⛅ AWS
 
 * [Concepts](aws/concepts/README.md)
+  * [S3](aws/concepts/s3.md)
   * [ECS](aws/concepts/ecs.md)
   * [Messaging/Streaming Services](aws/concepts/messaging-streaming-services/README.md)
     * [Kinesis](aws/concepts/messaging-streaming-services/kinesis.md)
@@ -172,6 +174,7 @@
   * [ways of connecting](solution-architecture-concepts/software-engineering-concepts/ways-of-connecting.md)
   * [Reverse Proxy](solution-architecture-concepts/software-engineering-concepts/reverse-proxy.md)
 * [Non functional requirements](solution-architecture-concepts/non-functional-requirements/README.md)
+  * [Back of the Envelope Calculations](solution-architecture-concepts/non-functional-requirements/back-of-the-envelope-calculations.md)
   * [Scaling](solution-architecture-concepts/non-functional-requirements/scaling.md)
 * [Basics](solution-architecture-concepts/basics.md)
 * [Software Planning](solution-architecture-concepts/software-planning.md)
@@ -210,6 +213,8 @@
 * [Performance testing](solution-architecture-concepts/performance-testing.md)
 * [Percentile](solution-architecture-concepts/percentile.md)
 * [TOTP](solution-architecture-concepts/totp.md)
+* [Hashing](solution-architecture-concepts/hashing.md)
+* [base64 Encoding](solution-architecture-concepts/base64-encoding.md)
 
 ***
 
@@ -318,3 +323,9 @@
   * [Time management](motivation/work-tips/time-management.md)
 * [Observability](motivation/observability.md)
 * [Management](motivation/management.md)
+
+## AI
+
+* [RAG](ai/rag.md)
+* [MLops](ai/mlops.md)
+* [Prompt Injection](ai/prompt-injection.md)
