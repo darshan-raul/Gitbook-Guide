@@ -28,6 +28,7 @@
   * [Workloads](kubernetes/concepts/workloads.md)
   * [Deployments](kubernetes/concepts/deployments.md)
   * [Statefulsets](kubernetes/concepts/statefulsets.md)
+  * [Pause Container](kubernetes/concepts/pause-container.md)
   * [Best  Practices](kubernetes/concepts/best-practices/README.md)
     * [Security](kubernetes/concepts/best-practices/security.md)
     * [Deployment options](kubernetes/concepts/best-practices/deployment-options.md)
