@@ -138,6 +138,7 @@
 
 * [Linux](linux/linux/README.md)
   * [Index](linux/linux/index.md)
+  * [Redirection Commands](linux/linux/redirection-commands.md)
   * [Nologin user](linux/linux/nologin-user.md)
   * [Fundamentals](linux/linux/fundamentals.md)
   * [Hardening](linux/linux/hardening/README.md)

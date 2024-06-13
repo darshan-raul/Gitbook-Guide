@@ -2,6 +2,10 @@
 
 {% embed url="https://letterstoanewdeveloper.com/2021/10/25/but-first-dont-do-the-dishes" %}
 
+{% embed url="https://x.com/Mindset_Machine/status/1801104060281491783" %}
+
+
+
 {% embed url="https://x.com/AdamColb_/status/1726170969755079117?s=20" %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
