@@ -55,9 +55,12 @@
   * [Secrets](kubernetes/concepts/secrets.md)
 * [Guides](kubernetes/guides/README.md)
   * [OIDC with Keycloak](kubernetes/guides/oidc-with-keycloak.md)
+  * [EKS](kubernetes/guides/eks/README.md)
+    * [Secrets Manager CSI driver](kubernetes/guides/eks/secrets-manager-csi-driver.md)
   * [Kubectl](kubernetes/guides/kubectl.md)
   * [API management](kubernetes/guides/api-management.md)
   * [Troubleshooting](kubernetes/guides/troubleshooting/README.md)
+    * [networking](kubernetes/guides/troubleshooting/networking.md)
     * [Crashloop Backoff](kubernetes/guides/troubleshooting/crashloop-backoff.md)
   * [Auditing](kubernetes/guides/auditing/README.md)
     * [Checkov](kubernetes/guides/auditing/checkov.md)
@@ -335,6 +338,7 @@
 
 ## AI
 
+* [Jobs](ai/jobs.md)
 * [RAG](ai/rag.md)
 * [MLops](ai/mlops.md)
 * [Prompt Injection](ai/prompt-injection.md)
