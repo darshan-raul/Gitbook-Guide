@@ -5,6 +5,7 @@
 * [What about DevOps?](what-about-devops.md)
 * [Devops SRE Platform Engg](devops-sre-platform-engg/README.md)
   * [SRE](devops-sre-platform-engg/sre.md)
+  * [Job Requirements](devops-sre-platform-engg/job-requirements.md)
 * [Containers](docker/README.md)
   * [Basics](docker/basics.md)
   * [Internals](docker/internals.md)
@@ -47,6 +48,7 @@
   * [Resource Quota](kubernetes/concepts/resource-quota.md)
   * [Scaling](kubernetes/concepts/scaling.md)
   * [Setting up cluster](kubernetes/concepts/setting-up-cluster.md)
+  * [Service Mesh](kubernetes/concepts/service-mesh.md)
   * [Services](kubernetes/concepts/services/README.md)
     * [Endpoint Slices](kubernetes/concepts/services/endpoint-slices.md)
   * [Authentication/Authorization](kubernetes/concepts/authentication-authorization.md)
@@ -140,6 +142,7 @@
 ## 🐧 Linux
 
 * [Linux](linux/linux/README.md)
+  * [Shell](linux/linux/shell.md)
   * [Index](linux/linux/index.md)
   * [Redirection Commands](linux/linux/redirection-commands.md)
   * [Nologin user](linux/linux/nologin-user.md)
