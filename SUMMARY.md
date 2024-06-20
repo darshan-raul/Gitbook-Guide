@@ -346,6 +346,7 @@
 
 ## AI
 
+* [Tricks](ai/tricks.md)
 * [Jobs](ai/jobs.md)
 * [RAG](ai/rag.md)
 * [MLops](ai/mlops.md)

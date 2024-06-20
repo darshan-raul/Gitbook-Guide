@@ -22,3 +22,5 @@ In the manifest (YAML or JSON file) for the Kubernetes object you want to create
 * `metadata` - Data that helps uniquely identify the object, including a `name` string, `UID`, and optional `namespace`
 * `spec` - What state you desire for the object
   * The precise format of the object `spec` is different for every Kubernetes object, and contains nested fields specific to that object.
+
+<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
