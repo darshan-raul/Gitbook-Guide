@@ -194,6 +194,7 @@
 * [Software Planning](solution-architecture-concepts/software-planning.md)
 * [High Cohesion Loose Coupling](solution-architecture-concepts/high-cohesion-loose-coupling.md)
 * [Databases](solution-architecture-concepts/databases/README.md)
+  * [MongoDB](solution-architecture-concepts/databases/mongodb.md)
   * [Indexing](solution-architecture-concepts/databases/indexing.md)
   * [Normalization](solution-architecture-concepts/databases/normalization.md)
 * [Cheatsheets](solution-architecture-concepts/cheatsheets.md)
@@ -234,6 +235,7 @@
 * [TOTP](solution-architecture-concepts/totp.md)
 * [Hashing](solution-architecture-concepts/hashing.md)
 * [base64 Encoding](solution-architecture-concepts/base64-encoding.md)
+* [BSON](solution-architecture-concepts/bson.md)
 
 ***
 
@@ -246,6 +248,7 @@
   * [Stack/Heap and Stack Overflow](programming-concepts/stack-heap-and-stack-overflow.md)
 * [Languages](languages/README.md)
   * [Golang](languages/golang/README.md)
+    * [Validators](languages/golang/validators.md)
     * [Closures](languages/golang/closures.md)
     * [For Beginners](languages/golang/for-beginners.md)
     * [context](languages/golang/context.md)
