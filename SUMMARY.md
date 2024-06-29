@@ -283,6 +283,7 @@
   * [Preventing supply chain attacks](guides/devsecops/preventing-supply-chain-attacks.md)
   * [SBOM](guides/devsecops/sbom.md)
 * [Git](guides/git/README.md)
+  * [gitignore](guides/git/gitignore.md)
   * [GitFlow vs GithubFlow](guides/git/gitflow-vs-githubflow.md)
   * [cherry picking](guides/git/cherry-picking.md)
   * [Rebase](guides/git/rebase.md)
