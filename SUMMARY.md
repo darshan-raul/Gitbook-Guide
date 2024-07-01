@@ -248,6 +248,7 @@
   * [Stack/Heap and Stack Overflow](programming-concepts/stack-heap-and-stack-overflow.md)
 * [Languages](languages/README.md)
   * [Golang](languages/golang/README.md)
+    * [Generics](languages/golang/generics.md)
     * [Validators](languages/golang/validators.md)
     * [Closures](languages/golang/closures.md)
     * [For Beginners](languages/golang/for-beginners.md)
