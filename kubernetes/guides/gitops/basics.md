@@ -1,8 +1,8 @@
-# Gitops
+# Basics
 
-<figure><img src="../.gitbook/assets/FfsmCgaX0AAGi0Y.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FfsmCgaX0AAGi0Y.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/cHNmhNO1mck?si=r0xklwAcMGwCJTCf" %}
 
