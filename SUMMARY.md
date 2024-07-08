@@ -20,6 +20,10 @@
   * [Distroless](docker/distroless.md)
   * [Multi stage built images](docker/multi-stage-built-images.md)
   * [Container Registry](docker/container-registry.md)
+* [CI CD](ci-cd/README.md)
+  * [Github Actions](ci-cd/github-actions.md)
+  * [Jenkins](ci-cd/jenkins.md)
+  * [deployment strategies](ci-cd/deployment-strategies.md)
 
 ## ☸️ Kubernetes
 
@@ -285,10 +289,6 @@
   * [Tracing](guides/observability/tracing.md)
 * [GenAI/LLMS](guides/genai-llms/README.md)
   * [Is AI going to take our jobs?](guides/genai-llms/is-ai-going-to-take-our-jobs.md)
-* [CI CD](guides/ci-cd/README.md)
-  * [Github Actions](guides/ci-cd/github-actions.md)
-  * [Jenkins](guides/ci-cd/jenkins.md)
-  * [deployment strategies](guides/ci-cd/deployment-strategies.md)
 * [DevSecOps](guides/devsecops/README.md)
   * [Tools](guides/devsecops/tools.md)
   * [API security](guides/devsecops/api-security.md)
