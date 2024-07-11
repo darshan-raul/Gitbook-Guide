@@ -1,5 +1,7 @@
 # Indexing
 
+{% embed url="https://youtu.be/5t1fW3KG920?si=YCYOL_LecLzrpET5" %}
+
 Database indexing is a technique used to improve the speed of data retrieval operations on a database table. An index is a data structure, typically a B-tree or hash table, that allows for fast lookups, insertions, and deletions. Indexes are used to quickly locate data without having to search every row in a database table each time a database table is accessed.
 
 #### Benefits of Indexing

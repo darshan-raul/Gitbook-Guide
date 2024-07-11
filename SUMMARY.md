@@ -120,6 +120,7 @@
     * [Datree](kubernetes/guides/validation/datree.md)
   * [Troubleshooting](kubernetes/guides/troubleshooting-1.md)
   * [Miscellaneous](kubernetes/guides/miscellaneous.md)
+* [client-go](kubernetes/client-go.md)
 * [CKAD](kubernetes/ckad/README.md)
   * [Application Design and Build](kubernetes/ckad/application-design-and-build.md)
   * [Application Deployment](kubernetes/ckad/application-deployment.md)
@@ -174,6 +175,10 @@
     * [DHCP](linux/linux/networking/dhcp.md)
   * [Compression](linux/linux/compression/README.md)
     * [tar](linux/linux/compression/tar.md)
+
+## 🌨️ GCP
+
+* [Identity](gcp/identity.md)
 
 ## 💡 Solution Architecture concepts
 
@@ -363,6 +368,7 @@
   * [Time management](motivation/work-tips/time-management.md)
 * [Observability](motivation/observability.md)
 * [Management](motivation/management.md)
+* [Job readyness](motivation/job-readyness.md)
 
 ## AI
 
