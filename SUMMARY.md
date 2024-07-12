@@ -41,6 +41,7 @@
   * [Downward API](kubernetes/concepts/downward-api.md)
   * [Operators](kubernetes/concepts/operators.md)
   * [Garbage Collection](kubernetes/concepts/garbage-collection.md)
+  * [Service Accounts](kubernetes/concepts/service-accounts.md)
   * [RBAC](kubernetes/concepts/rbac.md)
   * [Security](kubernetes/concepts/security.md)
   * [Networking](kubernetes/concepts/networking.md)
@@ -152,6 +153,7 @@
   * [Shell](linux/linux/shell.md)
   * [SSH](linux/linux/ssh/README.md)
     * [Agent Forwarding](linux/linux/ssh/agent-forwarding.md)
+  * [Sockets](linux/linux/sockets.md)
   * [Index](linux/linux/index.md)
   * [Redirection Commands](linux/linux/redirection-commands.md)
   * [Nologin user](linux/linux/nologin-user.md)
@@ -240,6 +242,8 @@
 * [Resilience](solution-architecture-concepts/resilience.md)
 * [Idempotency](solution-architecture-concepts/idempotency.md)
 * [12 factor app](solution-architecture-concepts/12-factor-app.md)
+* [VScode](solution-architecture-concepts/vscode/README.md)
+  * [BreakPoints](solution-architecture-concepts/vscode/breakpoints.md)
 * [Memory Leaks](solution-architecture-concepts/memory-leaks.md)
 * [Shift Left](solution-architecture-concepts/shift-left.md)
 * [Cluster Management](solution-architecture-concepts/cluster-management/README.md)
@@ -372,6 +376,7 @@
 
 ## AI
 
+* [Run Locally](ai/run-locally.md)
 * [Tricks](ai/tricks.md)
 * [Jobs](ai/jobs.md)
 * [RAG](ai/rag.md)
