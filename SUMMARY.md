@@ -140,6 +140,7 @@
     * [Kinesis](aws/concepts/messaging-streaming-services/kinesis.md)
   * [IAM](aws/concepts/iam-1.md)
 * [Guides](aws/guides/README.md)
+  * [Cost Saving](aws/guides/cost-saving.md)
   * [🧑‍🏫 Perspective Guidance](aws/guides/perspective-guidance.md)
   * [RDS](aws/guides/rds/README.md)
     * [SSL Connectivity](aws/guides/rds/ssl-connectivity.md)
@@ -177,6 +178,8 @@
     * [DHCP](linux/linux/networking/dhcp.md)
   * [Compression](linux/linux/compression/README.md)
     * [tar](linux/linux/compression/tar.md)
+* [Tools](linux/tools/README.md)
+  * [sha256sum](linux/tools/sha256sum.md)
 
 ## 🌨️ GCP
 
@@ -306,6 +309,7 @@
   * [PGP/ASC](guides/devsecops/pgp-asc.md)
   * [SBOM](guides/devsecops/sbom.md)
 * [Git](guides/git/README.md)
+  * [gitattributes](guides/git/gitattributes.md)
   * [gitignore](guides/git/gitignore.md)
   * [GitFlow vs GithubFlow](guides/git/gitflow-vs-githubflow.md)
   * [cherry picking](guides/git/cherry-picking.md)
