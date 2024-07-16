@@ -348,7 +348,9 @@
 * [WASM](guides/wasm/README.md)
   * [Docker + WASM](guides/wasm/docker-+-wasm.md)
   * [Kubernetes + WASM](guides/wasm/kubernetes-+-wasm.md)
-* [Testing](guides/testing.md)
+* [Testing](guides/testing/README.md)
+  * [Unit Testing](guides/testing/unit-testing/README.md)
+    * [Test Doubles: Mocks,Stubs,Fakes](guides/testing/unit-testing/test-doubles-mocks-stubs-fakes.md)
 
 ## 💯 REDDIT
 
