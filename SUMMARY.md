@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Cloud Native Guide](README.md)
-* [So what is Cloud Native?](so-what-is-cloud-native.md)
-* [What about DevOps?](what-about-devops.md)
+* [Cloud Native Data Den](README.md)
+* [Whats Cloud Native?](whats-cloud-native.md)
+* [What is DevOps?](what-is-devops.md)
 * [Devops SRE Platform Engg](devops-sre-platform-engg/README.md)
   * [SRE](devops-sre-platform-engg/sre.md)
   * [Job Requirements](devops-sre-platform-engg/job-requirements.md)
@@ -218,7 +218,10 @@
   * [Postgres](solution-architecture-concepts/databases/postgres/README.md)
     * [psql](solution-architecture-concepts/databases/postgres/psql.md)
   * [MongoDB](solution-architecture-concepts/databases/mongodb.md)
+  * [Foreign Keys and Constraints](solution-architecture-concepts/databases/foreign-keys-and-constraints.md)
   * [Indexing](solution-architecture-concepts/databases/indexing.md)
+  * [Database Schema Design](solution-architecture-concepts/databases/database-schema-design.md)
+  * [OPM or not to ORM](solution-architecture-concepts/databases/opm-or-not-to-orm.md)
   * [Normalization](solution-architecture-concepts/databases/normalization.md)
 * [Cheatsheets](solution-architecture-concepts/cheatsheets.md)
 * [Concurrency](solution-architecture-concepts/concurrency.md)

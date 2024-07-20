@@ -1,4 +1,4 @@
-# So what is Cloud Native?
+# Whats Cloud Native?
 
 A cloud native application is designed to run on a cloud native infrastructure platform with the following four key traits:
 
@@ -10,6 +10,8 @@ A cloud native application is designed to run on a cloud native infrastructure p
 
 
 <figure><img src=".gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 ### Roadmap
 
@@ -25,11 +27,15 @@ A cloud native application is designed to run on a cloud native infrastructure p
 
 {% embed url="https://www.alibabacloud.com/blog/seven-principles-of-cloud-native-architecture_598431" fullWidth="true" %}
 
-* https://cloudnative101.dev/concepts/cloud-native/
-* https://iximiuz.com/en/posts/making-sense-out-of-cloud-native-buzz/
+### More Reading
+
+
+
+* [https://iximiuz.com/en/posts/making-sense-out-of-cloud-native-buzz/](https://iximiuz.com/en/posts/making-sense-out-of-cloud-native-buzz/)
 * https://www.aquasec.com/cloud-native-academy
-* **cloudnative basics:**
-  * https://landscape.cncf.io
-  * https://cloudnative101.dev/concepts/cloud-native/
-  * https://landscape.cncf.io/guide
-  *
+*   **cloudnative basics:**
+
+    * https://landscape.cncf.io
+    * https://cloudnative101.dev/concepts/cloud-native/
+    * https://landscape.cncf.io/guide
+
