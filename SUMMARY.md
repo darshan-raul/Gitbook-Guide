@@ -287,6 +287,7 @@
     * [Generics](languages/golang/generics.md)
     * [Validators](languages/golang/validators.md)
     * [Interfaces](languages/golang/interfaces.md)
+    * [Reflect](languages/golang/reflect.md)
     * [Closures](languages/golang/closures.md)
     * [Context](languages/golang/context.md)
     * [Methods](languages/golang/methods.md)
@@ -305,6 +306,8 @@
 
 * [🫙 Databases](guides/databases/README.md)
   * [Views](guides/databases/views.md)
+  * [Transactions](guides/databases/transactions.md)
+  * [Constraints](guides/databases/constraints.md)
   * [Columnar Databases](guides/databases/columnar-databases.md)
   * [Stored Procedures](guides/databases/stored-procedures.md)
   * [Normalization](guides/databases/normalization.md)
