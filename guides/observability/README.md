@@ -6,7 +6,7 @@ O<mark style="color:red;background-color:purple;">bservability means the ability
 
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402" %}
 
