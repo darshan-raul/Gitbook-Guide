@@ -65,6 +65,8 @@
   * [OIDC with Keycloak](kubernetes/guides/oidc-with-keycloak.md)
   * [EKS](kubernetes/guides/eks/README.md)
     * [Secrets Manager CSI driver](kubernetes/guides/eks/secrets-manager-csi-driver.md)
+  * [Databases](kubernetes/guides/databases/README.md)
+    * [CloudNativePG](kubernetes/guides/databases/cloudnativepg.md)
   * [Kubectl](kubernetes/guides/kubectl.md)
   * [API management](kubernetes/guides/api-management.md)
   * [Troubleshooting](kubernetes/guides/troubleshooting/README.md)
@@ -159,6 +161,7 @@
   * [SSH](linux/linux/ssh/README.md)
     * [Agent Forwarding](linux/linux/ssh/agent-forwarding.md)
   * [Sockets](linux/linux/sockets.md)
+  * [Spool directory](linux/linux/spool-directory.md)
   * [Index](linux/linux/index.md)
   * [Redirection Commands](linux/linux/redirection-commands.md)
   * [Nologin user](linux/linux/nologin-user.md)
@@ -217,6 +220,7 @@
   * [Scaling](solution-architecture-concepts/non-functional-requirements/scaling.md)
 * [Networking](solution-architecture-concepts/networking/README.md)
   * [Nat](solution-architecture-concepts/networking/nat.md)
+* [Security](solution-architecture-concepts/security.md)
 * [Basics](solution-architecture-concepts/basics.md)
 * [Event Driven Architecture](solution-architecture-concepts/event-driven-architecture/README.md)
   * [Kafka](solution-architecture-concepts/event-driven-architecture/kafka/README.md)
@@ -249,7 +253,8 @@
   * [Architecture Patterns](solution-architecture-concepts/architecture/architecture-patterns.md)
 * [Availability](solution-architecture-concepts/availability.md)
 * [Authentication](solution-architecture-concepts/authentication/README.md)
-  * [JWT](solution-architecture-concepts/authentication/jwt.md)
+  * [JWT](solution-architecture-concepts/authentication/jwt/README.md)
+    * [Session vs jwt](solution-architecture-concepts/authentication/jwt/session-vs-jwt.md)
   * [Oauth2](solution-architecture-concepts/authentication/oauth2.md)
   * [SAML](solution-architecture-concepts/authentication/saml.md)
   * [OIDC](solution-architecture-concepts/authentication/oidc.md)
@@ -275,8 +280,6 @@
 * [Hashing](solution-architecture-concepts/hashing.md)
 * [base64 Encoding](solution-architecture-concepts/base64-encoding.md)
 * [BSON](solution-architecture-concepts/bson.md)
-* [Salt](solution-architecture-concepts/salt.md)
-* [Ansible](solution-architecture-concepts/ansible.md)
 
 ***
 
