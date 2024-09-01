@@ -12,6 +12,8 @@ DevSecOps should not be considered a separate concept from DevOps, but rather a 
 A very comprehensive video which covers every aspect of devsecops
 {% endembed %}
 
+{% embed url="https://youtu.be/mZoOnWjv_QM?si=Hit5ZrQn7SF3IY7J" %}
+
 DevSecOps introduces security activities early in the SDLC, rather than waiting until the product is released. Security issues can be identified and resolved during the application development process, with development teams performing security tasks independently.
 
 This approach helps prevent security vulnerabilities from reaching production, which reduces the cost of fixing flaws after release. A collaborative culture helps align security with DevOps efforts and enables scalability. With DevSecOps, automated security measures are built into every stage of the development pipeline.

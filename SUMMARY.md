@@ -126,6 +126,7 @@
     * [Datree](kubernetes/guides/validation/datree.md)
   * [Troubleshooting](kubernetes/guides/troubleshooting-1.md)
   * [Miscellaneous](kubernetes/guides/miscellaneous.md)
+* [updates along the versions](kubernetes/updates-along-the-versions.md)
 * [client-go](kubernetes/client-go.md)
 * [EKS](kubernetes/eks/README.md)
   * [Cluster upgrade](kubernetes/eks/cluster-upgrade.md)
@@ -415,6 +416,7 @@
 
 ## AI
 
+* [Future with AI](ai/future-with-ai.md)
 * [Run Locally](ai/run-locally.md)
 * [Tricks](ai/tricks.md)
 * [Jobs](ai/jobs.md)
