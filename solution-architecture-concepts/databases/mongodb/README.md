@@ -1,11 +1,20 @@
 # MongoDB
 
-Sure! Here is a rundown of the basic concepts of MongoDB:
+{% embed url="https://www.mongodb.com" %}
+
+
+
+Basic concepts of MongoDB:
 
 #### 1. **Document**
 
 * **Definition**: The basic unit of data in MongoDB, similar to a row in a relational database.
 * **Format**: BSON (Binary JSON), which allows for embedded documents and arrays.
+
+{% content-ref url="bson.md" %}
+[bson.md](bson.md)
+{% endcontent-ref %}
+
 *   **Example**:
 
     ```json
