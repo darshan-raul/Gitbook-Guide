@@ -307,6 +307,7 @@
     * [Best Practices](languages/golang/best-practices.md)
     * [Type Assertion](languages/golang/type-assertion.md)
     * [Sql packages](languages/golang/sql-packages.md)
+    * [JSON](languages/golang/json.md)
     * [Generics](languages/golang/generics.md)
     * [Validators](languages/golang/validators.md)
     * [Interfaces](languages/golang/interfaces.md)
