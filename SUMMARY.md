@@ -64,6 +64,7 @@
   * [Authentication/Authorization](kubernetes/concepts/authentication-authorization.md)
   * [Custom Controllers](kubernetes/concepts/custom-controllers.md)
   * [Operators](kubernetes/concepts/operators-1.md)
+  * [Troubleshooting](kubernetes/concepts/troubleshooting.md)
   * [Config maps](kubernetes/concepts/config-maps.md)
   * [Secrets](kubernetes/concepts/secrets.md)
 * [Guides](kubernetes/guides/README.md)
