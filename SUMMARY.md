@@ -22,7 +22,11 @@
   * [Multi stage built images](docker/multi-stage-built-images.md)
   * [Container Registry](docker/container-registry.md)
 * [CI CD](ci-cd/README.md)
-  * [Github Actions](ci-cd/github-actions.md)
+  * [Github Actions](ci-cd/github-actions/README.md)
+    * [Workflows](ci-cd/github-actions/workflows.md)
+    * [Events](ci-cd/github-actions/events.md)
+    * [Jobs](ci-cd/github-actions/jobs.md)
+    * [Actions](ci-cd/github-actions/actions.md)
   * [Jenkins](ci-cd/jenkins.md)
   * [deployment strategies](ci-cd/deployment-strategies.md)
 
