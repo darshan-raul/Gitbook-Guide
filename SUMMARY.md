@@ -351,6 +351,7 @@
 * [Observability](guides/observability/README.md)
   * [Prometheus](guides/observability/prometheus.md)
   * [Open Telemetry](guides/observability/open-telemetry.md)
+  * [Opentelemetry vs Prometheus](guides/observability/opentelemetry-vs-prometheus.md)
   * [EBPF](guides/observability/ebpf.md)
   * [Tracing](guides/observability/tracing.md)
 * [GenAI/LLMS](guides/genai-llms/README.md)
