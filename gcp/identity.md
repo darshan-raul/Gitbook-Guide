@@ -1,6 +1,6 @@
 # Identity
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 IAM allows you to grant granular access to specific Google Cloud resources and prevent access to other resources. It follows the security principle of least privilege, where users only have the permissions they need.
 
