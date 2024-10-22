@@ -6,6 +6,16 @@
 
 </div>
 
+<figure><img src="../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://x.com/MuthaNagavamsi/status/1725083584757977196?s=20" %}
 
 {% embed url="https://youtu.be/0UyrVqBoCAU?si=H8iTR7C5KXxe9Lc0" %}

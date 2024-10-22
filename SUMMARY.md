@@ -23,6 +23,7 @@
     * [Kata Containers](docker/security/kata-containers.md)
   * [Scratch Image](docker/scratch-image.md)
   * [Podman](docker/podman.md)
+  * [Rootless Containers](docker/rootless-containers.md)
   * [Distroless](docker/distroless.md)
   * [Multi stage built images](docker/multi-stage-built-images.md)
   * [Container Registry](docker/container-registry.md)
