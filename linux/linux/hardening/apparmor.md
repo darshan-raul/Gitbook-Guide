@@ -88,7 +88,7 @@ AppArmor is a security module built into the Linux kernel that provides Mandator
 There are two main ways to create a new profile:
 
 * **Using `aa-genprof` (Recommended):**
-  1.  **Enter Complain Mode:**Bash
+  1.  **Enter Complain Mode:**&#x42;ash
 
       ```
       sudo aa-complain /path/to/executable
@@ -96,7 +96,7 @@ There are two main ways to create a new profile:
 
       This puts the program into "complain mode," where AppArmor logs violations but doesn't enforce them.
   2. **Run the Program:** Use the program normally, performing the actions you want to allow.
-  3.  **Generate Profile:**Bash
+  3.  **Generate Profile:**&#x42;ash
 
       ```
       sudo aa-logprof

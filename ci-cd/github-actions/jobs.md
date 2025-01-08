@@ -13,5 +13,5 @@ A **job** is a set of **steps** in a workflow that is executed on the same **run
 
 Steps are **executed in order and are dependent on each other**.&#x20;
 
-Since each step is executed on the same runner**, you can share data from one step to another**
+Since each step is executed on the same runne&#x72;**, you can share data from one step to another**
 

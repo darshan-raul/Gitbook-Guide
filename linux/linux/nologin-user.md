@@ -19,12 +19,12 @@ In Linux, a "nologin" user is a user account that is specifically designed to pr
 
 **How to Create a Nologin User:**
 
-*   **Using `useradd`:**Bash
+*   **Using `useradd`:**&#x42;ash
 
     ```
     sudo useradd -s /sbin/nologin username
     ```
-*   **Using `usermod` (for existing users):**Bash
+*   **Using `usermod` (for existing users):**&#x42;ash
 
     ```
     sudo usermod -s /sbin/nologin username

@@ -118,7 +118,7 @@ Here's a deeper dive into what happens during the signing of a Certificate Signi
 * **Authenticity:** The digital signature assures that the certificate was truly issued by the CA and not modified in transit.
 * **Trust Establishment:** Browsers and clients trust certificates signed by recognized CAs, establishing the foundation for secure HTTPS connections.
 
-<mark style="background-color:purple;">**Here's a breakdown of how the digital signature is verified during an OpenSSL**</mark><mark style="background-color:purple;">** **</mark><mark style="background-color:purple;">**`verify`**</mark><mark style="background-color:purple;">** **</mark><mark style="background-color:purple;">**process or a similar certificate verification within a client application**</mark>:
+<mark style="background-color:purple;">**Here's a breakdown of how the digital signature is verified during an OpenSSL**</mark><mark style="background-color:purple;">**&#x20;**</mark><mark style="background-color:purple;">**`verify`**</mark><mark style="background-color:purple;">**&#x20;**</mark><mark style="background-color:purple;">**process or a similar certificate verification within a client application**</mark>:
 
 **Prerequisites:**
 

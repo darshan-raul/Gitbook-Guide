@@ -39,7 +39,7 @@ This approach helps prevent security vulnerabilities from reaching production, w
 * **Software composition analysis (SCA)**—examines third-party and open source packages, including their dependencies that are resolved during a build, to identify known vulnerabilities and potential open source license conflicts.&#x20;
 * **Dynamic application security testing (DAST)**—analyzes running applications to detect vulnerabilities that manifest at runtime, as well as other potential attack vectors.
 * **Interactive application security testing (IAST)**—is a middle ground between SAST and DAST, which uses source-level knowledge of the application structure to detect vulnerable conditions and attack vectors in compiled applications.
-* **Threat modeling—**enables prediction, detection, and analysis of security threats by identifying the attack surface. This enables teams to proactively minimize exposure to the identified risks.
+* **Threat modeling—**&#x65;nables prediction, detection, and analysis of security threats by identifying the attack surface. This enables teams to proactively minimize exposure to the identified risks.
 
 
 
@@ -49,8 +49,8 @@ This approach helps prevent security vulnerabilities from reaching production, w
 * **Authorization controls**—these grant authorized users access to a specific resource or function.
 * **Role-based access controls (RBACs)**—provide a group of users access to a resource or function based on their responsibilities or collective permissions. This simplifies administration and onboarding and helps reduce privilege creep.&#x20;
 * **Hardware security modules (HSMs)**—these are physical devices that help manage and protect secrets such as credentials, certificates, and keys, both at rest and in transit.
-* **Identity providers (IdPs)—**these are services that manage user authorization.
-* **Secrets vaults—**these store secrets and ensure that only authorized users can access them.
+* **Identity providers (IdPs)—**&#x74;hese are services that manage user authorization.
+* **Secrets vaults—**&#x74;hese store secrets and ensure that only authorized users can access them.
 * **Container image provenance and image signing**—these functions validate the authenticity of container images and establish trust.
 
 ```
