@@ -464,9 +464,12 @@
 ## AI
 
 * [Future with AI](ai/future-with-ai.md)
+* [AWS](ai/aws/README.md)
+  * [Bedrock](ai/aws/bedrock.md)
 * [Run Locally](ai/run-locally.md)
 * [Tricks](ai/tricks.md)
 * [Jobs](ai/jobs.md)
 * [RAG](ai/rag.md)
 * [MLops](ai/mlops.md)
 * [Prompt Injection](ai/prompt-injection.md)
+* [Is SAAS dead?](ai/is-saas-dead.md)
