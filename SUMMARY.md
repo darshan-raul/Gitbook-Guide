@@ -464,6 +464,7 @@
 ## AI
 
 * [Future with AI](ai/future-with-ai.md)
+* [Prompt Engineering](ai/prompt-engineering.md)
 * [AWS](ai/aws/README.md)
   * [Bedrock](ai/aws/bedrock.md)
 * [Run Locally](ai/run-locally.md)
