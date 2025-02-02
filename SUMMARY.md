@@ -182,6 +182,7 @@
 
 ## AI
 
+* [Whats a T in GPT?](ai/whats-a-t-in-gpt.md)
 * [Future with AI](ai/future-with-ai.md)
 * [Prompt Engineering](ai/prompt-engineering.md)
 * [AWS](ai/aws/README.md)
