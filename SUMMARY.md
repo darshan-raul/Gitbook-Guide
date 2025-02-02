@@ -180,6 +180,20 @@
   * [ECS to EKS](aws/guides/ecs-to-eks.md)
   * [Chatops](aws/guides/chatops.md)
 
+## AI
+
+* [Future with AI](ai/future-with-ai.md)
+* [Prompt Engineering](ai/prompt-engineering.md)
+* [AWS](ai/aws/README.md)
+  * [Bedrock](ai/aws/bedrock.md)
+* [Run Locally](ai/run-locally.md)
+* [Tricks](ai/tricks.md)
+* [Jobs](ai/jobs.md)
+* [RAG](ai/rag.md)
+* [MLops](ai/mlops.md)
+* [Prompt Injection](ai/prompt-injection.md)
+* [Is SAAS dead?](ai/is-saas-dead.md)
+
 ## 🐧 Linux
 
 * [Linux](linux/linux/README.md)
@@ -460,17 +474,3 @@
 * [Observability](motivation/observability.md)
 * [Management](motivation/management.md)
 * [Job readyness](motivation/job-readyness.md)
-
-## AI
-
-* [Future with AI](ai/future-with-ai.md)
-* [Prompt Engineering](ai/prompt-engineering.md)
-* [AWS](ai/aws/README.md)
-  * [Bedrock](ai/aws/bedrock.md)
-* [Run Locally](ai/run-locally.md)
-* [Tricks](ai/tricks.md)
-* [Jobs](ai/jobs.md)
-* [RAG](ai/rag.md)
-* [MLops](ai/mlops.md)
-* [Prompt Injection](ai/prompt-injection.md)
-* [Is SAAS dead?](ai/is-saas-dead.md)
