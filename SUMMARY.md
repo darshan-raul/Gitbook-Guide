@@ -182,6 +182,7 @@
 
 ## AI
 
+* [AI, ML, Genai whats the difference?](ai/ai-ml-genai-whats-the-difference.md)
 * [Whats a T in GPT?](ai/whats-a-t-in-gpt.md)
 * [Future with AI](ai/future-with-ai.md)
 * [Prompt Engineering](ai/prompt-engineering.md)
@@ -384,6 +385,8 @@
   * [Columnar Databases](guides/databases/columnar-databases.md)
   * [Stored Procedures](guides/databases/stored-procedures.md)
   * [Normalization](guides/databases/normalization.md)
+* [Messaging](guides/messaging/README.md)
+  * [Kafka](guides/messaging/kafka.md)
 * [Observability](guides/observability/README.md)
   * [Prometheus](guides/observability/prometheus/README.md)
     * [Intrumenting](guides/observability/prometheus/intrumenting.md)
@@ -474,4 +477,3 @@
   * [Time management](motivation/work-tips/time-management.md)
 * [Observability](motivation/observability.md)
 * [Management](motivation/management.md)
-* [Job readyness](motivation/job-readyness.md)
