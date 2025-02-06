@@ -95,3 +95,8 @@ flowchart TD
 3. **Question Answering**: Transformers have been used for question answering tasks, such as extracting answers from text passages.
 4. **Language Modeling**: Transformers have been used as language models, generating coherent and natural-sounding text.
 
+## Paper which started Transformers
+
+{% embed url="https://en.wikipedia.org/wiki/Attention_Is_All_You_Need" %}
+
+{% embed url="https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)" %}

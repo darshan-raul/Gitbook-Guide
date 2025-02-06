@@ -191,7 +191,7 @@
   * [Reinforcement Learning with Human Feedback](ai/inner-workings/reinforcement-learning-with-human-feedback.md)
   * [Overfitting vs underfitting](ai/inner-workings/overfitting-vs-underfitting.md)
 * [Future with AI](ai/future-with-ai.md)
-* [Prompt Engineering](ai/prompt-engineering/README.md)
+* [Prompt Engineering](ai/prompt-engineering.md)
   * [Tips](ai/prompt-engineering/tips.md)
   * [Prompt Engineering Patterns](ai/prompt-engineering/prompt-engineering-patterns.md)
 * [AWS](ai/aws/README.md)
