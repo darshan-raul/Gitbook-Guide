@@ -22,6 +22,8 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 
 [SageMaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-configure-processing-jobs.html#clarify-fairness-and-explainability)
 
+SageMaker Clarif<mark style="color:purple;">y automatically evaluates foundation models for your generative AI use case with metrics such as accuracy, robustness, and toxicity to support your responsible AI initiative.</mark> SageMaker Clarify explains how input features contribute to your model predictions during model development and inference. Evaluate your FM during customization using automatic and human-based evaluations.
+
 Improve your machine learning models by <mark style="color:purple;">detecting potential bias</mark> and help explain the predictions that models make. You can use Amazon SageMaker Clarify to understand fairness and model explainability and to explain and detect bias in your models. You can configure an SageMaker Clarify processing job to compute bias metrics and feature attributions and generate reports for model explainability. SageMaker Clarify processing jobs are implemented using a specialized SageMaker Clarify container image.
 
 [Collaboration with shared spaces](https://docs.aws.amazon.com/sagemaker/latest/dg/domain-space.html)
