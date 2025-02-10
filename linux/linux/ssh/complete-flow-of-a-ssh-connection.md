@@ -2,6 +2,58 @@
 
 {% embed url="https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process" %}
 
+
+
+```mermaid
+sequenceDiagram
+    participant C as Client
+    participant S as Server
+
+    Note over C,S: TCP Connection Establishment
+    C->>S: TCP SYN
+    S->>C: TCP SYN-ACK
+    C->>S: TCP ACK
+
+    Note over C,S: Version Exchange
+    C->>S: SSH Protocol Version
+    S->>C: SSH Protocol Version
+
+    Note over C,S: Key Exchange (KEX)
+    C->>S: KEX_INIT (supported algorithms)
+    S->>C: KEX_INIT (supported algorithms)
+    Note over C,S: Negotiate algorithms
+
+    C->>S: ECDH Key Exchange Init
+    S->>C: ECDH Key Exchange Reply
+    Note over C,S: Generate shared secret
+    Note over C,S: Derive session keys
+
+    Note over C,S: Server Authentication
+    C->>S: Verify server's host key
+    Note over C: Compare against known_hosts
+
+    Note over C,S: Client Authentication
+    alt Password Authentication
+        C->>S: Password auth request
+        S->>C: Success/Failure
+    else Public Key Authentication
+        C->>S: Public key auth request
+        S->>C: Public key challenge
+        C->>S: Signed response
+        S->>C: Success/Failure
+    end
+
+    Note over C,S: Session Establishment
+    C->>S: Channel open request
+    S->>C: Channel confirmation
+    
+    Note over C,S: Encrypted Communication
+    rect rgb(200, 220, 255)
+        C->>S: Encrypted data
+        S->>C: Encrypted data
+    end
+```
+
 The SSH connection process is designed as a multi‐stage handshake that not only verifies the identity of the server (and optionally the client) but also negotiates a secure “cryptographic tunnel” over which all subsequent data is exchanged. In this process, the settings you configure for key exchange (KexAlgorithms), symmetric ciphers, and message authentication codes (MACs) determine which algorithms are used at various stages. Below is an overview of how these elements come into play during an SSH session:
 
 ***
