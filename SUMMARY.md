@@ -216,6 +216,7 @@
   * [Complete guides](linux/linux/complete-guides.md)
   * [Shell](linux/linux/shell.md)
   * [SSH](linux/linux/ssh/README.md)
+    * [complete flow of a ssh connection](linux/linux/ssh/complete-flow-of-a-ssh-connection.md)
     * [Agent Forwarding](linux/linux/ssh/agent-forwarding.md)
   * [Logging](linux/linux/logging/README.md)
     * [syslog](linux/linux/logging/syslog.md)
