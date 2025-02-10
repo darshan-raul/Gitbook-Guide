@@ -6,6 +6,10 @@ Will cover almost every concept you will ever need practically and a lot of adva
 
 {% embed url="https://www.atlassian.com/git" %}
 
+## Go deep here:
+
+{% embed url="https://beej.us/guide/bggit/html/index-wide.html" %}
+
 ## Practice here:
 
 Do it to get more grasp.
