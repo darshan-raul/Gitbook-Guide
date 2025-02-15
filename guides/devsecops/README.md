@@ -58,7 +58,7 @@ This approach helps prevent security vulnerabilities from reaching production, w
 
 {% embed url="https://www.youtube.com/watch?v=1SL_sxsEB5o" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.resourcely.io/post/death-of-devsecops-part-1-the-rise-of-cloud-and-devops" %}
 

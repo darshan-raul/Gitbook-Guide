@@ -24,11 +24,7 @@ sre book
 
 {% embed url="https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/" %}
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% embed url="https://www.businessprocessincubator.com/content/keep-lights-on-the-sre-way/" %}
 
