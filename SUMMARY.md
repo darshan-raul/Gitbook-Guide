@@ -12,6 +12,7 @@
   * [Internals](docker/internals.md)
   * [Cgroups](docker/cgroups.md)
   * [Containerd](docker/containerd.md)
+  * [Docker](docker/docker.md)
   * [Image Optimization](docker/image-optimization.md)
   * [Multi Arch images](docker/multi-arch-images.md)
   * [commands](docker/commands.md)
