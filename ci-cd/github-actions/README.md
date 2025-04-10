@@ -1,5 +1,7 @@
 # Github Actions
 
+{% embed url="https://www.youtube.com/watch?v=E2RRxcq_08E" %}
+
 {% embed url="https://lo-victoria.com/series/github-actions" %}
 
 {% embed url="https://www.youtube.com/watch?v=Tz7FsunBbfQ" %}
