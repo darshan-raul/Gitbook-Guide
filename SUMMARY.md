@@ -455,6 +455,7 @@
   * [IDS](guides/security/ids.md)
   * [Supply Chain Security](guides/security/supply-chain-security.md)
   * [Zero Trust](guides/security/zero-trust.md)
+  * [Assume Breach Principle](guides/security/assume-breach-principle.md)
 * [Networking](guides/networking/README.md)
   * [Packet flow](guides/networking/packet-flow.md)
   * [Ipv6](guides/networking/ipv6.md)
