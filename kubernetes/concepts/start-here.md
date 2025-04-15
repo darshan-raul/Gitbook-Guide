@@ -6,7 +6,9 @@ The name Kubernetes originates from Greek, meaning helmsman or pilot. K8s as an 
 
 <mark style="background-color:purple;">**Google open-sourced the Kubernetes project in 2014**</mark>
 
+K8s is the pacific ocean of concepts. The more deeper you go the more complex stuff you will land on. Below is the overview of how you can approach the concepts one by one. IMO atleast the core components, infra control plane,rbac and networking should be crystal clear in your mind. You can leverage those mappings to build with the next components like scaling, monitoring, security, dr etc
 
+<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
 ## **Kubernetes provides you with:**
 
