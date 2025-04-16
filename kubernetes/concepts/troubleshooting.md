@@ -1,6 +1,6 @@
 # Troubleshooting
 
-
+Lets start with this famous troubleshooting map
 
 <figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
