@@ -418,6 +418,7 @@
   * [Columnar Databases](guides/databases/columnar-databases.md)
   * [Stored Procedures](guides/databases/stored-procedures.md)
   * [Normalization](guides/databases/normalization.md)
+* [Regex](guides/regex.md)
 * [Messaging](guides/messaging/README.md)
   * [Kafka](guides/messaging/kafka.md)
 * [Observability](guides/observability/README.md)
