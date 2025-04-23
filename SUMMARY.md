@@ -44,6 +44,8 @@
     * [Actions](ci-cd/github-actions/actions.md)
   * [Jenkins](ci-cd/jenkins.md)
   * [deployment strategies](ci-cd/deployment-strategies.md)
+* [Writeups](writeups/README.md)
+  * [Maps did not replace drivers they enabled them - my thoughts on AI as a non AI bro](writeups/maps-did-not-replace-drivers-they-enabled-them-my-thoughts-on-ai-as-a-non-ai-bro.md)
 
 ## ☸️ Kubernetes
 
@@ -312,6 +314,7 @@
 * [System Design](solution-architecture-concepts/system-design.md)
 * [Basics](solution-architecture-concepts/basics.md)
 * [Event Driven Architecture](solution-architecture-concepts/event-driven-architecture/README.md)
+  * [RabbitMQ](solution-architecture-concepts/event-driven-architecture/rabbitmq.md)
   * [Kafka](solution-architecture-concepts/event-driven-architecture/kafka/README.md)
     * [Kraft vs Zookeeper](solution-architecture-concepts/event-driven-architecture/kafka/kraft-vs-zookeeper.md)
 * [Software Planning](solution-architecture-concepts/software-planning.md)
