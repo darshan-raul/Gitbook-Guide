@@ -348,6 +348,7 @@
 * [Availability](solution-architecture-concepts/availability.md)
 * [Authentication](solution-architecture-concepts/authentication/README.md)
   * [JWT](solution-architecture-concepts/authentication/jwt/README.md)
+    * [Bearer](solution-architecture-concepts/authentication/jwt/bearer.md)
     * [Session vs jwt](solution-architecture-concepts/authentication/jwt/session-vs-jwt.md)
   * [Oauth2](solution-architecture-concepts/authentication/oauth2.md)
   * [SAML](solution-architecture-concepts/authentication/saml.md)
