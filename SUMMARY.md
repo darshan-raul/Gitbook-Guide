@@ -243,6 +243,7 @@
     * [syslog](linux/linux/logging/syslog.md)
   * [Sockets](linux/linux/sockets.md)
   * [Spool directory](linux/linux/spool-directory.md)
+  * [tty vs pty](linux/linux/tty-vs-pty.md)
   * [Index](linux/linux/index.md)
   * [Redirection Commands](linux/linux/redirection-commands.md)
   * [Nologin user](linux/linux/nologin-user.md)
