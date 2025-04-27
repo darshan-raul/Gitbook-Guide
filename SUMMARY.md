@@ -58,6 +58,7 @@
     * [Deployments](kubernetes/concepts/workloads/deployments.md)
     * [Statefulsets](kubernetes/concepts/workloads/statefulsets.md)
   * [Namespaces](kubernetes/concepts/namespaces.md)
+  * [Certificates](kubernetes/concepts/certificates.md)
   * [Ways to Run Clusters](kubernetes/concepts/ways-to-run-clusters/README.md)
     * [Local Cluster](kubernetes/concepts/ways-to-run-clusters/local-cluster/README.md)
       * [Kind](kubernetes/concepts/ways-to-run-clusters/local-cluster/kind.md)
