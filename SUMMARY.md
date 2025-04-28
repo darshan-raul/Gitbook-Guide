@@ -162,6 +162,7 @@
 * [updates along the versions](kubernetes/updates-along-the-versions.md)
 * [client-go](kubernetes/client-go.md)
 * [EKS](kubernetes/eks/README.md)
+  * [Workshops](kubernetes/eks/workshops.md)
   * [Fargate vs EC2](kubernetes/eks/fargate-vs-ec2.md)
   * [Cluster upgrade](kubernetes/eks/cluster-upgrade.md)
 * [Certifications](kubernetes/certifications/README.md)
@@ -416,6 +417,7 @@
     * [Logging](languages/python/logging.md)
     * [Decorators](languages/python/decorators.md)
   * [Bash](languages/bash.md)
+* [API design](api-design.md)
 
 ## Guides
 
