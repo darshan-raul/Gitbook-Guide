@@ -266,6 +266,7 @@
   * [File Transfer](linux/linux/file-transfer/README.md)
     * [SFTP](linux/linux/file-transfer/sftp.md)
   * [Networking](linux/linux/networking/README.md)
+    * [netplan](linux/linux/networking/netplan.md)
     * [ports](linux/linux/networking/ports.md)
     * [DHCP](linux/linux/networking/dhcp.md)
   * [Compression](linux/linux/compression/README.md)
