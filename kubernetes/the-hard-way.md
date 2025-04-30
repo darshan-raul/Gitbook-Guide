@@ -8,4 +8,8 @@ You start by creating 7 vms using QEMU \[note to enable nested virtualization if
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+Then created a 3 etcd cluster
+
+<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
