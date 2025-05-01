@@ -65,6 +65,7 @@
     * [Local Cluster](kubernetes/concepts/ways-to-run-clusters/local-cluster/README.md)
       * [Kind](kubernetes/concepts/ways-to-run-clusters/local-cluster/kind.md)
   * [Advanced](kubernetes/concepts/advanced/README.md)
+    * [IPVS](kubernetes/concepts/advanced/ipvs.md)
     * [Pause Container](kubernetes/concepts/advanced/pause-container.md)
     * [Aggregation Layer](kubernetes/concepts/advanced/aggregation-layer.md)
     * [Garbage Collection](kubernetes/concepts/advanced/garbage-collection.md)

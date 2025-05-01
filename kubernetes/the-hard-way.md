@@ -12,4 +12,8 @@ Then created a 3 etcd cluster
 
 <figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
+managed to create  a kube api cluster fronted by a ipvsadm/ldirectory loadbalancing setup working with weighted round robin
+
+<figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
