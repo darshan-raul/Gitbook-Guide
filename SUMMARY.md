@@ -29,6 +29,7 @@
   * [Multi stage built images](docker/multi-stage-built-images.md)
   * [Container Registry](docker/container-registry.md)
 * [CI CD](ci-cd/README.md)
+  * [Continuos integration](ci-cd/continuos-integration.md)
   * [Git](ci-cd/git/README.md)
     * [Configuration](ci-cd/git/configuration/README.md)
       * [gitattributes](ci-cd/git/configuration/gitattributes.md)
