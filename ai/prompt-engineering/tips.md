@@ -1,5 +1,7 @@
 # Tips
 
+{% embed url="https://addyo.substack.com/p/the-prompt-engineering-playbook-for" %}
+
 * **Be clear & direct:** Provide clear instructions and context to guide Claude's responses
 * **Use examples:** Include examples in your prompts to illustrate the desired output format or style
 * **Give Claude a role:** Prime Claude to inhabit a specific role (like that of an expert) in order to increase performance for your use case
