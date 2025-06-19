@@ -180,7 +180,8 @@
     * [Application Observability and Maintenance](kubernetes/certifications/ckad/application-observability-and-maintenance.md)
     * [Application Environment, Configuration and Security](kubernetes/certifications/ckad/application-environment-configuration-and-security.md)
     * [Services and Networking](kubernetes/certifications/ckad/services-and-networking.md)
-  * [CKA](kubernetes/certifications/cka.md)
+  * [CKA](kubernetes/certifications/cka/README.md)
+    * [Lab videos](kubernetes/certifications/cka/lab-videos.md)
 
 ## ⛅ AWS
 
