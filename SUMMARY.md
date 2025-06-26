@@ -468,6 +468,7 @@
 * [Coding Practices](guides/coding-practices/README.md)
   * [MonoRepos](guides/coding-practices/monorepos.md)
 * [Opentofu](guides/opentofu.md)
+* [Infra as Code](guides/infra-as-code.md)
 * [Hashicorp](guides/hashicorp/README.md)
   * [Packer](guides/hashicorp/packer.md)
   * [Terraform](guides/hashicorp/terraform.md)
