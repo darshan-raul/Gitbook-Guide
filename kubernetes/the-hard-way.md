@@ -18,6 +18,6 @@ managed to create  a kube api cluster fronted by a ipvsadm/ldirectory loadbalanc
 
 installed kubeapi server and cni,containerd and kubelet on all servers
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
