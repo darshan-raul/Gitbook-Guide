@@ -194,10 +194,11 @@
 
 ## ⛅ AWS
 
+* [Topics](aws/topics.md)
 * [Concepts](aws/concepts/README.md)
-  * [IAM](aws/concepts/iam/README.md)
-    * [Roles](aws/concepts/iam/roles.md)
   * [Magic ips/ 169.254](aws/concepts/magic-ips-169.254.md)
+  * [IAM](aws/concepts/iam/README.md)
+    * [Various types of roles](aws/concepts/iam/various-types-of-roles.md)
   * [S3](aws/concepts/s3.md)
   * [ECS](aws/concepts/ecs.md)
   * [Messaging/Streaming Services](aws/concepts/messaging-streaming-services/README.md)
@@ -218,6 +219,7 @@
     * [Spot pool](aws/guides/ec2/spot-pool.md)
   * [ECS to EKS](aws/guides/ecs-to-eks.md)
   * [Chatops](aws/guides/chatops.md)
+* [Blogs](aws/blogs.md)
 
 ## AI
 
