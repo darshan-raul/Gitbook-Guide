@@ -2,6 +2,10 @@
 
 {% embed url="https://www.youtube.com/watch?v=5B__zNXrFmg" %}
 
+
+
+{% embed url="https://www.youtube.com/watch?v=DosHnyq78xY" %}
+
 **Model Context Protocol (MCP): Complete Overview**
 
 The **Model Context Protocol (MCP)** is an open standard developed by Anthropic to **standardize how AI applications (like chatbots, IDE assistants, or custom agents) connect with external tools, data sources, and systems**[1](https://www.philschmid.de/mcp-introduction)[2](https://en.wikipedia.org/wiki/Model_Context_Protocol)[3](https://www.keyvalue.systems/blog/mcp-explained-the-model-context-protocol-thats-powering-smarter-ai/). It acts as a "universal interface"—much like USB for hardware—allowing AI models to interact with external APIs, databases, files, and more, in a consistent, secure, and modular way.
