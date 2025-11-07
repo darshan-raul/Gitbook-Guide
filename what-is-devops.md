@@ -2,15 +2,13 @@
 description: Know what devops actually means
 ---
 
-# DevOps
+# What is DevOps?
 
 **DevOps is a set of practices that emphasize the collaboration and communication of both Software Engineers and IT & Infrastructure Operations to reduce the time to market of a Product.**
 
 DevOps is a process that emphasizes communication and learning from a technical standpoint between software developers and IT professionals, like dev and ops, managing production environments, while automating the deployment of software and infrastructure changes with utmost care and collaboration. At the core, DevOps means combining development and operations into one unified team so that continuous process of learning, knowledge sharing, and shared responsibilities happen seamlessly between the two. The idea of DevOps grew out of the Agile methodology and first gained attention in 2009.
 
-
-
-
+{% embed url="https://www.youtube.com/watch?v=Zyz_2lELqG8" %}
 
 * DevOps is not an individual role, it is a group effort.
 * Your infra should be able to handle a failed deployment automatically and rollback. If it can’t, you’re doing it wrong.
@@ -35,13 +33,13 @@ DevOps is a process that emphasizes communication and learning from a technical 
 
 
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Typical ways Devops can be implemented in an organisation</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption><p>Typical ways Devops can be implemented in an organisation</p></figcaption></figure>
 
 <mark style="background-color:orange;">For a extremely detailed study on the above topologies, you should go through the site below</mark>
 
 {% embed url="https://web.devopstopologies.com/" %}
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/mBU3AJ3j1rg?si=-vDrK0ysov7kvuVx" %}
 
