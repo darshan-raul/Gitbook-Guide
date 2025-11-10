@@ -110,6 +110,7 @@
   * [Secrets](kubernetes/concepts/secrets.md)
 * [Guides](kubernetes/guides/README.md)
   * [Tools](kubernetes/guides/tools.md)
+  * [private image registry](kubernetes/guides/private-image-registry.md)
   * [Best Practices](kubernetes/guides/best-practices.md)
   * [Cost Management](kubernetes/guides/cost-management.md)
   * [Authentication](kubernetes/guides/authentication/README.md)
