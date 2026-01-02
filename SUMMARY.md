@@ -196,6 +196,7 @@
 ## ⛅ AWS
 
 * [Concepts](aws/concepts/README.md)
+  * [Cost Management](aws/concepts/cost-management.md)
   * [Magic ips/ 169.254](aws/concepts/magic-ips-169.254.md)
   * [Migration](aws/concepts/migration/README.md)
     * [Migration Evaluator](aws/concepts/migration/migration-evaluator.md)
