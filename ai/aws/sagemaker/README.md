@@ -140,4 +140,4 @@ Easily discover, connect to, create, terminate and manage Amazon EMR clusters in
 
 [SageMaker Training Compiler](https://docs.aws.amazon.com/sagemaker/latest/dg/training-compiler.html)
 
-Train deep learning models faster on scalable GPU instances managed by SageMaker AI.\
+Train deep learning models faster on scalable GPU instances managed by SageMaker AI.<br>

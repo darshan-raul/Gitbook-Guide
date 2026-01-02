@@ -8,8 +8,7 @@ Semi-supervised learning is when you apply both supervised and unsupervised lear
 
 You can apply semi-supervised learning when it’s difficult to obtain labels for a dataset. You might have a smaller volume of labeled data but a significant amount of unlabeled data. Compared to using the labeled dataset alone, you’d have greater accuracy and efficiency if you combine supervised and unsupervised learning techniques.
 
-\
-
+<br>
 
 |             | **Supervised learning**                                                                             | **Unsupervised learning**                                                                                                             |
 | ----------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |

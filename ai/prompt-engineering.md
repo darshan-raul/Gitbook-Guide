@@ -16,8 +16,7 @@ Prompt Engineering <mark style="color:purple;">leverages the principle of “pri
 * Prompt engineering provides methods for interacting with, building with, and grasping language models' capabilities.
 * Higher quality prompt inputs lead to higher quality outputs.
 
-\
-
+<br>
 
 <mark style="color:purple;">**each prompt contains:**</mark>
 

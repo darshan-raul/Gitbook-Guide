@@ -28,7 +28,6 @@ kubectl api-resources --namespaced=false
 
 * Namespaces are intended for use in environments with many users spread across multiple teams, or projects. For clusters with a few to tens of users, you should not need to create or think about namespaces at all. Start using namespaces when you need the features they provide.
 * It is **not necessary to use multiple namespaces to separate slightly different resources**, such as different versions of the same software: use [labels](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels) to distinguish resources within the same namespace.
-* <mark style="background-color:red;">Avoid creating namespaces with the prefix</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">`kube-`</mark><mark style="background-color:red;">, since it is reserved for Kubernetes system namespaces.</mark>\
+* <mark style="background-color:red;">Avoid creating namespaces with the prefix</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">`kube-`</mark><mark style="background-color:red;">, since it is reserved for Kubernetes system namespaces.</mark><br>
 
-
-\
+<br>

@@ -195,9 +195,10 @@
 
 ## ⛅ AWS
 
-* [Topics](aws/topics.md)
 * [Concepts](aws/concepts/README.md)
   * [Magic ips/ 169.254](aws/concepts/magic-ips-169.254.md)
+  * [Migration](aws/concepts/migration/README.md)
+    * [Migration Evaluator](aws/concepts/migration/migration-evaluator.md)
   * [IAM](aws/concepts/iam/README.md)
     * [Various types of roles](aws/concepts/iam/various-types-of-roles.md)
   * [S3](aws/concepts/s3.md)
