@@ -308,6 +308,15 @@
   * [cpulimit](linux/tools/cpulimit.md)
   * [sha256sum](linux/tools/sha256sum.md)
 
+## Azure
+
+* [Concept map](azure/concept-map.md)
+* [Azure for AWS](azure/azure-for-aws.md)
+* [Resource Group](azure/resource-group.md)
+* [quota limits](azure/quota-limits.md)
+* [Security Groups](azure/security-groups.md)
+* [Network routing](azure/network-routing.md)
+
 ## 🌨️ GCP
 
 * [Identity](gcp/identity.md)
