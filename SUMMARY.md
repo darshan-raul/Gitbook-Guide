@@ -202,6 +202,8 @@
     * [Migration Evaluator](aws/concepts/migration/migration-evaluator.md)
   * [IAM](aws/concepts/iam/README.md)
     * [Various types of roles](aws/concepts/iam/various-types-of-roles.md)
+  * [Systems Manager](aws/concepts/systems-manager/README.md)
+    * [Patch Manager](aws/concepts/systems-manager/patch-manager.md)
   * [S3](aws/concepts/s3.md)
   * [ECS](aws/concepts/ecs.md)
   * [Messaging/Streaming Services](aws/concepts/messaging-streaming-services/README.md)
