@@ -194,6 +194,7 @@
 
 ## ⛅ AWS
 
+* [Cloud Architect Areas](aws/cloud-architect-areas.md)
 * [Concepts](aws/concepts/README.md)
   * [Cost Management](aws/concepts/cost-management.md)
   * [Magic ips/ 169.254](aws/concepts/magic-ips-169.254.md)
