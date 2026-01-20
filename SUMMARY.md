@@ -356,6 +356,7 @@
   * [Scaling](solution-architecture-concepts/non-functional-requirements/scaling.md)
 * [Networking](solution-architecture-concepts/networking/README.md)
   * [Routing](solution-architecture-concepts/networking/routing.md)
+  * [dns over https](solution-architecture-concepts/networking/dns-over-https.md)
   * [OSI model](solution-architecture-concepts/networking/osi-model.md)
   * [TCPIP](solution-architecture-concepts/networking/tcpip.md)
   * [Nat](solution-architecture-concepts/networking/nat.md)
