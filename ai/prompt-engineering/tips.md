@@ -1,5 +1,7 @@
 # Tips
 
+{% embed url="https://learnprompt.org/chat-gpt-prompts-for-learning/" %}
+
 {% embed url="https://addyo.substack.com/p/the-prompt-engineering-playbook-for" %}
 
 * **Be clear & direct:** Provide clear instructions and context to guide Claude's responses
